@@ -14,8 +14,8 @@ if "%scelta%"=="1" (
 	git add .
 	git commit -m "Update"
 	git push
-	copy /Y "Libro.pdf" "../Pdf/Libro.pdf\"
-	copy /Y "Libro.tex" "../Pdf/Libro.tex\"
+	copy /Y "Libro.pdf" "../Pdf/Libro.pdf"
+	copy /Y "Libro.tex" "../Pdf/Libro.tex"
 ) else if "%scelta%"=="3" (
 	git checkout --orphan nuovo-branch
 	git add -A
