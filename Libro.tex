@@ -43,6 +43,8 @@ Iacopo Guarneri
 \begin{mdframed}[linewidth=1pt]
 Consigli, idee e appunti per finire il libro:
 
+usare l'espressione regolare (?<!\\)\% per provare tutti i simboli \% non preceduti da backslash. In latex rappresenta il commento, ma se io voglio scrivere una percentuale rischio di perdermi tutta la riga successiva
+
 Ogni capito farò un super riassunto e un disegno o schema riassuntivo
 
 Nella copertina lo scherma degli schemi il disegno definitivo 
@@ -1769,7 +1771,7 @@ il benessere ma con più di 5 ore non ci sono aumenti\endnote{\protect\url{https
 }\ \endnote{\protect\url{https://www.cnbc.com/2022/09/08/too-much-free-time-wont-make-you-happier-says-psychologist-how-many-hours-you-really-need-in-a-day.html}
 }\ \endnote{\protect\url{https://www.psychologytoday.com/us/blog/psychology-money-and-happiness/202303/research-shows-how-much-free-time-you-need-to-be-happy}
 }.
-Un sondaggio chiamato Rest Test, che ha coinvolto 18000 volontari in 135 paesi diversi, ha sottolineato come lo stare con gli altri non è arrivato nella top 10, questo perché, anche gli estroversi si riposano stanno da soli, anche se questa non è una condizione che loro cerchino o che gli faccia piacere. Le attività considerate riposanti, inoltre, non sono state quelle meno faticose, ma quelle in solitaria, la classifica vede infatti: Lettura 58%, stare nella natura 53,1%, stare da soli 52,1%, ascoltare musica 40,6%, non fare nulla in particolare 40%\endnote{\protect\url{https://www.sciencedaily.com/releases/2016/09/160928153541.htm}}. Va precisato che queste non sono le attività che ci rendono più felici, ma solo più riposati.
+Un sondaggio chiamato Rest Test, che ha coinvolto 18000 volontari in 135 paesi diversi, ha sottolineato come lo stare con gli altri non è arrivato nella top 10, questo perché, anche gli estroversi si riposano stanno da soli, anche se questa non è una condizione che loro cerchino o che gli faccia piacere. Le attività considerate riposanti, inoltre, non sono state quelle meno faticose, ma quelle in solitaria, la classifica vede infatti: Lettura 58\%, stare nella natura 53,1\%, stare da soli 52,1\%, ascoltare musica 40,6\%, non fare nulla in particolare 40\%\endnote{\protect\url{https://www.sciencedaily.com/releases/2016/09/160928153541.htm}}. Va precisato che queste non sono le attività che ci rendono più felici, ma solo più riposati.
 
 \bigskip
 
@@ -2443,7 +2445,7 @@ Le scelte non convenzionali destabilizzano gli altri perché mettono in discussi
 
 Il fenomeno della conformità sociale è stato dimostrato da alcuni esperimenti, uno dei primi esempi è stato realizzato nel 1962 da Candid Camera, un programma televisivo americano che faceva scherzi nascosti ai malcapitati. In una sala d'attesa, tutti gli attori si alzavano al suono di un campanello, tranne una persona ignara. Dopo qualche minuto, anche la vittima si alzava, seguendo il gruppo. Poi, gli attori uscivano uno per uno, lasciando la vittima da sola. Alla fine, anche quando non c'era nessuno nella stanza, la vittima continuava ad alzarsi al suono del campanello.
 
-Questo esperimento è stato ripetuto in diverse varianti e contesti, anche da National Geographic, che ha prodotto un documentario chiamato "Brain Games". In una puntata, hanno messo alla prova la conformità sociale di alcune persone in una sala d'attesa, usando una telecamera nascosta. Hanno scoperto che il 75% delle persone si alzava al suono del campanello, anche se non sapeva perché.
+Questo esperimento è stato ripetuto in diverse varianti e contesti, anche da National Geographic, che ha prodotto un documentario chiamato "Brain Games". In una puntata, hanno messo alla prova la conformità sociale di alcune persone in una sala d'attesa, usando una telecamera nascosta. Hanno scoperto che il 75\% delle persone si alzava al suono del campanello, anche se non sapeva perché.
 
 
 \bigskip
@@ -5633,7 +5635,7 @@ Le persone hanno il diritto all'ignoranza se non vogliono sentire informazioni p
 dolorose. Quindi anche un matrimonio che potrebbe essere salvato, dovrebbe essere lasciato alla responsabilità della
 coppia, se vediamo che non c'è il desiderio di un confronto. Il miglior modo di comunicare è dire
 poco e con cautela, osservando se nell'altra persona c'è l'interesse e la disponibilità ad ascoltare di più.
-Cerchiamo di dire solo un 20% di un argomento in quanto l'attenzione della gente é limitata. In questo modo non rischiamo di annoiare il nostro interlocutore e, se l'argomento invece gli interessa, sarà lui a farcele. Se invece siamo persone che parlano poco, cerchiamo di parlare di più in modo da arrivare a questo 20%.
+Cerchiamo di dire solo un 20\% di un argomento in quanto l'attenzione della gente é limitata. In questo modo non rischiamo di annoiare il nostro interlocutore e, se l'argomento invece gli interessa, sarà lui a farcele. Se invece siamo persone che parlano poco, cerchiamo di parlare di più in modo da arrivare a questo 20\%.
 
 \bigskip
 
@@ -8697,11 +8699,11 @@ alla francese (77\%), avere rapporti orali/sessuali (89\%), che raggiunge il 92\
       xlabel={Categoria},
       ylabel={Valore},
       xtick=data,
-      symbolic x coords={1, 2 - 3, 3 - 9, 9 - 25}, % Definizione delle categorie sull'asse x
+      symbolic x coords={1, 2 - 3, 3 - 9, 9 - 25},
       ]
-      \addplot coordinates {(1,27) (2 - 3,36) (3 - 9,58) (9 - 25,49)}; % Primo set di valori
-      \addplot coordinates {(1,21) (2 - 3,11) (3 - 9,46) (9 - 25,36)}; % Secondo set di valori
-      \legend{Maschi, Femmine} % Legenda per i set di valori
+      \addplot coordinates {(1,27) (2 - 3,36) (3 - 9,58) (9 - 25,49)}; 
+      \addplot coordinates {(1,21) (2 - 3,11) (3 - 9,46) (9 - 25,36)}; 
+      \legend{Maschi, Femmine}
     \end{axis}
   \end{tikzpicture}
   \caption{Sondaggio IPSOS che mostra la percentuale di tradimento (y) nei vari anni di matrimonio (x) in Italia. Tra il secondo e il terzo anno di matrimonio, la disparità tra maschi e femmine aumenta perché in quegli anni generalmente nasce il primo figlio; situazione che viene vissuta in maniera opposta dai due sessi, in quanto spesso accade che la donna impegnata nel nuovo ruolo di madre, trascurando il marito. O così dicono i mariti...}
@@ -8786,7 +8788,7 @@ la Psicologia dell'adulterio è falsata dalla morale convenzionale che nei paesi
 l'attrazione per una persona non possa coesistere con il serio affetto per
 un'altra. Tutto questo è falso - \ Bertrand Russell (Matrimonio e
 morale\endnote{\protect\url{https://www.amazon.it/dp/B08ZNR576M}}).
-A dimostrarlo sono anche i dati che dimostrano quanto il fenomeno sia diffuso, superando il 40% nei paesi monogami\endnote{\protect\url{https://worldpopulationreview.com/country-rankings/infidelity-rates-by-country?_trms=dcf651c200e4cdfe.1691856545035}}.
+A dimostrarlo sono anche i dati che dimostrano quanto il fenomeno sia diffuso, superando il 40\% nei paesi monogami\endnote{\protect\url{https://worldpopulationreview.com/country-rankings/infidelity-rates-by-country?_trms=dcf651c200e4cdfe.1691856545035}}.
 Sulla confessione del tradimento ci sono diverse teorie, alcuni sostengono che sia preferibile non confessare. I dati hanno permesso di avere diversi campioni di coppie con tradimenti confessati e non e, la coppia può benissimo andare avanti se uno o due tradiscono un paio di volte. Il rischio della confessione spesso non porta a nulla di positivo, ma solo al ferire l'altra persona. La confessione per qualcuno potrebbe essere solo un condividere e alleggerirsi un po' di questo dolore e senso di colpa, mentre invece è solo il responsabile a dover gestire questo disagio. 
 Ogni caso poi va visto separatamente, se il tuo partner potrebbe scoprirlo, o potrebbe sentirsi umiliato/a perchè persone in comune potrebbero saperlo, è giusto che venga a saperlo da voi piuttosto che in modo ancora più spiacevole da altri.
 
@@ -9953,7 +9955,7 @@ l'allevamento potremmo usare per produrre cose più buone come pomodori e zucchi
 
 \bigskip
 
-\begin{wraptable}{l}{7.855cm} % Specifica la larghezza e la posizione della tabella
+\begin{wraptable}{l}{7.855cm}
 \centering
 \caption{\protect\url{https://it.wikipedia.org/wiki/Impatto\_ambientale\_dell\%27industria\_dei\_cibi\_animali}}
 \begin{tabular}{|m{3.575cm}|m{3.576cm}|}
@@ -11059,15 +11061,17 @@ imparato altri modi di delinquere.
 \begin{mdframed}[linewidth=1pt]
 Avere un'arma in casa ci rende più sicuri?
 
-No, secondo alcuni studi. Un'analisi di 15 diversi studi scientifici ha riscontrato che tenere in casa un'arma da fuoco
-quasi raddoppiala probabilità di morire assassinati. Uno studio della Emory
-University\endnote{\protect\url{https://journals.lww.com/jtrauma/Abstract/1998/08000/Injuries\_and\_Deaths\_Due\_to\_Firearms\_in\_the\_Home.10.aspx}
-} su 626 casi di sparo avvenuti in casa in tre città Usa (Memphis, Seattle e Galveston), dimostra che sono quattro
-volte più frequenti gli spari accidentali che per autodifesa e sette volte superiori quelli per compiere un aggressione
-o un omicidio e infine undici volte in più i colpi per suicidio. Secondo il Injury Control Research Center di Harvard
-le armi sono usate per autodifesa in meno dell'1\% delle aggressioni con una vittima. Secondo John Donohue, economista
-della Stanford University, 2017, quando uno Stato riduce i requisiti per il porto d'armi, cresce il numero di crimini
-violenti.
+Secondo numerosi studi, la risposta è negativa. Un'analisi di 15 studi scientifici ha rilevato che tenere un'arma da fuoco in casa quasi raddoppia la probabilità di essere assassinati. Uno studio della Emory University\endnote{\protect\url{https://journals.lww.com/jtrauma/Abstract/1998/08000/Injuries\_and\_Deaths\_Due\_to\_Firearms\_in\_the\_Home.10.aspx}}, condotto su 626 casi di sparo avvenuti in casa in tre città statunitensi (Memphis, Seattle e Galveston), ha dimostrato che gli spari accidentali sono quattro volte più frequenti di quelli per autodifesa, mentre quelli per compiere un'aggressione o un omicidio sono sette volte superiori, e undici volte più frequenti sono i colpi per suicidio. Secondo il Injury Control Research Center di Harvard, le armi sono usate per autodifesa in meno dell'1\% delle aggressioni con una vittima. John Donohue, economista della Stanford University, ha osservato nel 2017 che la riduzione dei requisiti per il porto d'armi in uno Stato porta a un aumento dei crimini violenti.
+
+In Italia, non esiste un rapporto ufficiale del Viminale sugli omicidi con armi da fuoco legalmente detenute, una mancanza significativa. Un’indagine svolta da Fire-Transcrime in collaborazione con l'Università Cattolica di Milano ha rivelato che, nei paesi europei, gli omicidi con armi da fuoco tra il 2010 e il 2015 hanno causato vittime principalmente in ambito familiare (34\%) e interpersonale (32\%), mentre solo il 21\% è attribuibile a gruppi criminali organizzati, il 10\% ad atti criminali e il 3\% a motivi socio-politici. Questo suggerisce che in Europa, e presumibilmente anche in Italia, la maggior parte degli omicidi con armi da fuoco avviene in contesti familiari o interpersonali (66\%)\endnote{\protect\url{https://www.rivistailmulino.it/a/legittima-difesa-una-modifica-ingannevole-e-pericolosa}}.
+
+Nel suo libro "Sicurezza e legalità. Le armi nelle case degli italiani", Paolo De Nardis, professore di sociologia all'Università Sapienza di Roma, ha scritto che nel 5,6\% dei casi l’autore dell’omicidio era già stato denunciato o aveva ricevuto una diffida, e in un caso aveva perfino subito un trattamento sanitario obbligatorio. Nel 22\% dei casi, l’omicida aveva mostrato comportamenti indicativi (maltrattamenti, atti di violenza fisica o verbale), mentre oltre il 15\% mostrava sintomi di gravi problemi psicologici come depressione e paranoia. Tra il 2017 e il 2019 sono stati registrati almeno 131 omicidi commessi con armi regolarmente detenute, a fronte di 91 omicidi di tipo mafioso e 37 per furto o rapina. Inoltre, in Italia, pur avendo un numero relativamente basso di armi rispetto ad altri paesi europei, il tasso di omicidi è tra i più alti, poco sotto quello degli Stati Uniti\endnote{\protect\url{https://www.internazionale.it/essenziale/notizie/adil-mauro/2022/05/20/armi-legali-in-italia}} \endnote{\protect\url{https://www.lettera43.it/armi-diffusione-vittime-e-confronto-usa-ue-in-8-mappe/?refresh_ce}}.
+
+Uno studio dell'Università di Cambridge e Londra ha analizzato i dati delle carcerazioni nel Regno Unito, rilevando che l'aumento delle pene per i reati violenti non ha migliorato la sicurezza, ma ha invece causato sovraffollamento nelle carceri e limitato il reinserimento sociale dei detenuti\endnote{\protect\url{https://www.theguardian.com/society/2020/jan/27/prison-experts-longer-sentences-will-not-cut-crime}}. Allo stesso modo, Anderson ha raccolto dati su vari crimini commessi negli Stati Uniti, dimostrando che pene più severe non riducono il tasso di criminalità. Anderson ha concluso che chi commette un crimine presta poca attenzione alla durata delle pene previste perché è convinto di non essere scoperto, affermando che "i criminali non studiano i libri di legge"\endnote{\protect\url{https://www.jstor.org/stable/42705413}} \endnote{\protect\url{https://boa.unimib.it/handle/10281/137979}}.
+
+Di fronte a queste criticità, emergono alcune possibili soluzioni. Si potrebbe, ad esempio, evitare la vendita delle munizioni, lasciandole disponibili solo nei poligoni di tiro. Un'altra opzione potrebbe essere permettere la detenzione di armi in casa per difesa personale, ma che sparano solo a salve. In Inghilterra, secondo Riccardo Bianchi, si utilizzano più coltelli che pistole per commettere crimini, poiché le leggi sulle armi sono più severe.
+
+In sintesi, gli studi suggeriscono che la presenza di armi in casa non aumenta la sicurezza personale, anzi, spesso accresce il rischio di incidenti, suicidi e omicidi. Affrontare il problema con misure preventive come il controllo delle munizioni, vendita solo di proiettili a salve, e l'introduzione di armi non letali potrebbe rappresentare una via per ridurre la violenza legata alle armi da fuoco.
 \end{mdframed}
 
 \bigskip
@@ -11569,7 +11573,7 @@ consentito l'apertura di questo posto di lavoro.
   \includegraphics[width=0.95\linewidth]{images/Libro-img057.jpg}
 \end{figure}
 
-Secondo il ministero dell'Economia, un aumento della speranza di vita può ridurre la crescita del debito pubblico di 6 punti percentuali. Al contrario, una diminuzione della fertilità potrebbe far crescere il debito di circa 10 punti percentuali entro il 2070. Tuttavia, l'immigrazione ha un impatto ancora più significativo: un aumento del 33% dell'immigrazione potrebbe ridurre il debito pubblico rispetto al PIL di 35 punti percentuali nel 2070, mentre una diminuzione del 33% degli immigrati potrebbe farlo aumentare di circa 45 punti. Anche il tasso di fecondità influisce sul debito pubblico, ma in misura minore.
+Secondo il ministero dell'Economia, un aumento della speranza di vita può ridurre la crescita del debito pubblico di 6 punti percentuali. Al contrario, una diminuzione della fertilità potrebbe far crescere il debito di circa 10 punti percentuali entro il 2070. Tuttavia, l'immigrazione ha un impatto ancora più significativo: un aumento del 33\% dell'immigrazione potrebbe ridurre il debito pubblico rispetto al PIL di 35 punti percentuali nel 2070, mentre una diminuzione del 33\% degli immigrati potrebbe farlo aumentare di circa 45 punti. Anche il tasso di fecondità influisce sul debito pubblico, ma in misura minore.
 
 L'importanza dell'accoglienza oltre a quella economica è anche
 d'ordine morale, non c'è nessun merito a essere nati in Italia invece che in
@@ -11732,7 +11736,7 @@ ospitano meno, anche se la percezione è diametralmente opposta. La percentuale 
 i sondaggi di Ipsos-Mori indicano che viene percepita come il 30\%, mentre la disoccupazione percepita al 49\% quando
 in realtà è al 12\%\endnote{\protect\url{https://www.ipsos.com/ipsos-mori/en-uk/perceptions-are-not-reality-things-world-gets-wrong}
 }.
-In particolare inn media, gli africani tendono a migrare meno rispetto alle altre popolazioni mondiali. Le loro migrazioni avvengono prevalentemente all'interno dei confini del continente africano. Secondo un report delle Nazioni Unite, nel 2017, il 53% dei migranti che hanno trovato accoglienza nei paesi africani erano originari dello stesso continente.
+In particolare inn media, gli africani tendono a migrare meno rispetto alle altre popolazioni mondiali. Le loro migrazioni avvengono prevalentemente all'interno dei confini del continente africano. Secondo un report delle Nazioni Unite, nel 2017, il 53\% dei migranti che hanno trovato accoglienza nei paesi africani erano originari dello stesso continente.
 
 Recentemente, diversi stati europei hanno registrato un numero di richieste d'asilo superiore rispetto all'Italia. Ad esempio, nel 2022, la Germania ha avuto il maggior numero di richieste, con circa 218.000 casi, seguita da Francia con 137.000, Spagna con 116.000, Austria con 110.000, e infine l'Italia con 77.200 richieste d'asilo. Da almeno il 2011, l'Italia non risulta essere il paese con il più alto numero di richieste d'asilo nell'Unione Europea\endnote{\protect\url{https://www.ilpost.it/2023/09/21/migranti-immigrazione-luoghi-comuni}}.
 
@@ -11755,27 +11759,27 @@ Questo grafico mostra come negli ultimi 15 anni la criminalità in Italia contin
 
 \bigskip
 
-\begin{figure}[H] % posiziona esattamente qui, con [H]
+\begin{figure}[H] 
 \centering
-\floatsetup{valign=c} % allinea verticalmente i subfigure al centro
-\begin{subfigure}[b]{0.48\textwidth} % larghezza manuale
+\floatsetup{valign=c}
+\begin{subfigure}[b]{0.48\textwidth} 
 \begin{tikzpicture}
 \begin{axis}[
     xmin=2006, xmax=2020,
     ymin=0, ymax=3000000,
     xtick={2006,2008,...,2020},
     ytick={0,500000,1000000,1500000,2000000,2500000,3000000},
-    xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, % scrive le date senza virgola
-    xticklabel style={rotate=45}, % ruota le label sugli assi x di 45 gradi
+    xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, 
+    xticklabel style={rotate=45},
     legend style={at={(0.5,-0.15)},
     anchor=north,legend columns=-1},
     ymajorgrids=true,
     grid style=dashed,
-    axis x line*=bottom, % rimuove l'asse x
-    axis y line*=left, % rimuove l'asse y
+    axis x line*=bottom, 
+    axis y line*=left, 
     every axis x label/.style={at={(current axis.right of origin)},anchor=north west},
     every axis y label/.style={at={(current axis.above origin)},anchor=north east},
-    scaled x ticks=false, % visualizza le date come "2006" invece di "2,006"
+    scaled x ticks=false,
 ]
 \addplot[
     color=blue,
@@ -11790,24 +11794,24 @@ Questo grafico mostra come negli ultimi 15 anni la criminalità in Italia contin
 \label{fig:grafico1}
 \end{subfigure}
 \hfill
-\begin{subfigure}[b]{0.48\textwidth} % larghezza manuale
+\begin{subfigure}[b]{0.48\textwidth} 
 \begin{tikzpicture}
 \begin{axis}[
-    xmin=2006.5, xmax=2019.5, % aggiornato per avere intervallo come il grafico 1
+    xmin=2006.5, xmax=2019.5, 
     ymin=0, ymax=350000,
     xtick={2006,2008,...,2020},
     ytick={0,50000,100000,150000,200000,250000,300000,350000},
-    xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, % scrive le date senza virgola
-    xticklabel style={rotate=45}, % ruota le label sugli assi x di 45 gradi
+    xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, 
+    xticklabel style={rotate=45}, 
     legend style={at={(0.5,-0.15)},
     anchor=north,legend columns=-1},
     ymajorgrids=true,
     grid style=dashed,
-    axis x line*=bottom, % rimuove l'asse x
-    axis y line*=left, % rimuove l'asse y
+    axis x line*=bottom, 
+    axis y line*=left, 
     every axis x label/.style={at={(current axis.right of origin)},anchor=north west},
     every axis y label/.style={at={(current axis.above origin)},anchor=north east},
-    scaled x ticks=false, % visualizza le date come "2006" invece di "2,006"
+    scaled x ticks=false, 
 ]
 \addplot[
     color=blue,
@@ -11993,6 +11997,10 @@ Negli Stati Uniti, c'è un 1\% di persone che guadagnano 40 volte di più rispet
 90\%\endnote{\protect\url{https://inequality.org/facts/income-inequality/} }. Secondo il New England Complex Systems Institute
 possiamo matematicamente ridistribuire la ricchezza\endnote{\protect\url{http://necsi.edu/research/economics/econuniversal} } e
 migliorare la salute del sistema economico.
+
+La questione della ridistribuzione della ricchezza è un argomento molto dibattuto e le opinioni variano ampiamente. Alcuni sostengono che la ridistribuzione sia giusta perché può contribuire a una maggiore equità sociale e a una crescita economica sostenibile. Secondo questa visione, controllare l'ineguaglianza eccessiva può essere un elemento chiave per sostenere una crescita economica rapida e duratura.
+D'altra parte, ci sono coloro che ritengono che la ridistribuzione della ricchezza sia sbagliata, poiché la considerano una forma di furto. Questa prospettiva si basa sull'idea che la ricchezza sia creata dagli individui e che moralmente appartenga a quegli individui, indipendentemente dal bisogno altrui. Inoltre, c'è il concetto di "trickle-down economics", secondo cui la ricchezza si redistribuirebbe da sé attraverso gli investimenti nel capitale, stimolando l'attività economica senza la necessità di interventi redistributivi.
+Sicuramente un ridistribuzione sarebbe difficile da applicare, in quanto, se lo fa un solo stato i ricchi se ne andrebbero altrove, dovrebbe quindi, farlo tutto il mondo contemporaneamente.
 
 L'istituto di Bar-Yam utilizzando big data e dati storici spiega che possiamo dividere l'economia
 in due cicli principali, quello dei consumatori (il denaro viene usato per comprare beni e servizi) e, quello della
