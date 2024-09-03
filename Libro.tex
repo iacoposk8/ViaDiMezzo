@@ -20,6 +20,7 @@
 \usepackage{subcaption}
 \usepackage{floatrow}
 \usepackage{float}
+\usepackage{parskip}
 \usetikzlibrary{shapes.geometric, arrows}
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
@@ -27,8 +28,11 @@
 \renewcommand\arraystretch{1.3}
 \renewcommand\theFigure{\arabic{Figure}}
 \date{2024-04-09}
-\setlength{\parindent}{0pt}
 \setlength\tabcolsep{1mm}
+
+\setlength{\parskip}{10pt} % Spazio tra i paragrafi
+\setlength{\parindent}{0pt} % Nessuna indentazione
+\newcommand{\mynewline}{\newline\vspace{0.5em}} % Spazio singolo a capo
 
 % Cancella il testo nelle intestazioni delle pagine dispari
 %\fancyhead[RO]{} % RO: Right Odd (destra, dispari)
@@ -2054,7 +2058,7 @@ Questo è tutto.
 Come dicevo precedentemente è facile da capire ma non da applicare. Questa operazione contiene tre concetti chiave:
 consapevolezza, giudizio, gentilezza.
 
-Consapevolezza. Quante volte ci capita di pensare a qualcosa e rincorre per minuti o ore questo contenuto mentale
+\textbf{Consapevolezza}. Quante volte ci capita di pensare a qualcosa e rincorre per minuti o ore questo contenuto mentale
 riempendolo di ulteriori parole e giudizi? E dopo qualche ora ci accorgiamo che la mente ha vagato per tutto questo
 tempo mentre stavamo facendo altro? Magari litighiamo con un collega e tutto il viaggio di ritorno ci abbiamo pensato e
 ad un certo punto ci troviamo a casa, come se ci fossimo teletrasportati, come se ci fosse un blocco di memoria
@@ -2064,7 +2068,7 @@ mondo interiore. Se non diventiamo consapevoli, non possiamo fare nulla, e ci tr
 stavamo pensando. Ma come possiamo diventare consapevoli più spesso? L'esercizio più importante
 per allenare la consapevolezza è la meditazione, che vedremo tra poco.
 
-Giudizio. Questo punto è quello più comprensibile apparentemente, ma in realtà contiene dei tranelli al suo interno. Se
+\textbf{Giudizio}. Questo punto è quello più comprensibile apparentemente, ma in realtà contiene dei tranelli al suo interno. Se
 ci accorgiamo che stiamo facendo un giudizio su una cosa negativa, è intuitivo che dovremmo gestirlo, ma il tranello è
 la gestione anche dei giudizi su cose positive. Ad esempio, se ci accorgiamo che non eravamo concentrati su quello che
 stavamo facendo, è una cosa positiva, ma potremmo trasformarla in una cosa negativa se ci giudichiamo negativamente per
@@ -2085,7 +2089,7 @@ Leonard in Mastery: L'essenza della noia si trova nella ricerca ossessiva di nov
 siamo spesso felici, nel senso più realistico e che dovremo dare a questo termine, ma con le definizioni che invece
 abbiamo possiamo dire che siamo sempre felici, tranne nel momento in cui ce lo chiediamo.
 
-Gentilezza. Diventa così chiaro perché è importante questo punto. Se non lo faccio con gentilezza sto giudicandomi
+\textbf{Gentilezza}. Diventa così chiaro perché è importante questo punto. Se non lo faccio con gentilezza sto giudicandomi
 negativamente. Essendo impossibile non pensare e far sorgere i giudizi che sono le opinioni sulle cose che creano
 turbamento di cui parlava Epitteto, la cosa giusta da fare e ritornare a ciò che stavamo facendo senza aggiungere un
 ulteriore giudizio. Se iniziamo a giudicare quando ci accorgiamo che non eravamo concentrati sul presente, il nostro
@@ -2173,7 +2177,6 @@ non pensare ad un elefante bianco, è impossibile perché la nostra mente deve s
 quel pensiero per assicurarsi che non ci sia e per farlo deve avere davanti quell'oggetto in continuazione. Questo
 avviene non perché hai degli auto-sabotaggi inconsci, ma perché il naturale funzionamento del cervello, simulare,
 valutare, ipotizzare ecc…
-
 
 \bigskip
 
