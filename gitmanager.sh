@@ -13,8 +13,6 @@ elif [ "$scelta" = "2" ]; then
 	git add .
 	git commit -m "Update"
 	git push
-	cp -f "Libro.pdf" "../Pdf/Libro.pdf"
-	cp -f "Libro.tex" "../Pdf/Libro.tex"
 elif [ "$scelta" = "3" ]; then
 	git checkout --orphan nuovo-branch
 	git add -A
