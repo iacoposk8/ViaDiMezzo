@@ -11,9 +11,11 @@ set /p scelta=Inserisci il numero dell'opzione desiderata:
 if "%scelta%"=="1" (
 	git pull
 ) else if "%scelta%"=="2" (
+	del /f /q Libro.log
+	del /f /q Libro.synctex.gz
 	git add .
 	git commit -m "Update"
-	git push
+	git push	
 ) else if "%scelta%"=="3" (
 	git checkout --orphan nuovo-branch
 	git add -A
