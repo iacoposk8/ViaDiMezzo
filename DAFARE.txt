@@ -2,6 +2,8 @@ Consigli, idee e appunti per finire il libro:
 
 verificare che le ricerche da ecologia (compresa) in poi, siano vere
 
+controllare in particolare le fonti di vice.com e wired
+
 Gemini dice: Il testo a volte utilizza generalizzazioni come "tutti", "sempre" o "mai", che potrebbero non essere accurate. (chiedere a gemini i punti esatti e altri consigli)
 https://aistudio.google.com
 
