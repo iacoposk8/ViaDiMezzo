@@ -10,6 +10,8 @@ https://aistudio.google.com
 Fine stesura:
 	usare l'espressione regolare (?<!\\)\% per provare tutti i simboli \% non preceduti da backslash. In latex rappresenta il commento, ma se io voglio scrivere una percentuale rischio di perdermi tutta la riga successiva
 
+	cercare e rimuovere: ?utm_source=chatgpt.com
+
 	tutti gli studi oltre al link mettere il nome della ricerca, autore e anno (cercare il modo corretto di scriverle)
 
 	Inserire i ringraziamenti
