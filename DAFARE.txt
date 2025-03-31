@@ -12,6 +12,8 @@ Fine stesura:
 
 	cercare e rimuovere: ?utm_source=chatgpt.com
 
+	mettere uno spazio dove c'è }}\endnote in modo che diventi }} \endnote
+
 	tutti gli studi oltre al link mettere il nome della ricerca, autore e anno (cercare il modo corretto di scriverle)
 
 	Inserire i ringraziamenti
