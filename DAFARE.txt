@@ -1,5 +1,35 @@
 Consigli, idee e appunti per finire il libro:
 
+--------------------------------
+Valutare se serve ancora da:
+\noindent \textbf{\large Obsolescenza programmata} \\
+
+Valutare se servono ancora gli mdframed da:
+\begin{mdframed}[linewidth=1pt]
+Lo studio di Cheung e colleghi nel 2014
+
+Far controllare a gpt da (prendere una pagina o due per volta):
+\clearpage\section{Amore}
+
+con il seguente prompt:
+
+Parlami in italiano, ma cerca informazioni in inglese. Analizza il testo che ti fornirò (in più parti) e segnala solo i concetti che presentano errori, imprecisioni o un basso livello di attendibilità scientifica. 
+Istruzioni: 
+Non commentare le parti corrette o scientificamente solide. 
+Segnala solo i punti critici, con un punteggio di attendibilità scientifica da 1 a 10. 
+Mostrami solo ciò che ha un punteggio inferiore a 8. 
+Mostrami il punteggio che hai stimato per ogni passaggio critico che hai individuato
+Non segnalare formulazioni vaghe se sono comunque corrette sul piano letterale. 
+Non segnalare formulazioni che sembrano vaghe, ma vengono chiarite nelle righe successive.
+Per ogni punto critico: 
+Cita testualmente la frase da correggere o eliminare. 
+Spiegami la motivazione della tua scelta.
+Indica se va corretta o rimossa. 
+Proponi una versione alternativa più attendibile, anch’essa testuale. 
+
+Testo:
+--------------------------------
+
 verificare che le ricerche da figli in poi e validare scientificamente tutto con le ia
 
 Gemini dice: Il testo a volte utilizza generalizzazioni come "tutti", "sempre" o "mai", che potrebbero non essere accurate. (chiedere a gemini i punti esatti e altri consigli)
