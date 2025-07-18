@@ -30,7 +30,7 @@ Proponi una versione alternativa più attendibile, anch’essa testuale.
 Testo:
 --------------------------------
 
-verificare che le ricerche da figli in poi e validare scientificamente tutto con le ia
+in comunicazione: rileggendo il riassunto di inizio capitolo, serve ancora tutto quello che segue nel capitolo?
 
 Gemini dice: Il testo a volte utilizza generalizzazioni come "tutti", "sempre" o "mai", che potrebbero non essere accurate. (chiedere a gemini i punti esatti e altri consigli)
 https://aistudio.google.com
