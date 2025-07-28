@@ -9,7 +9,7 @@ Valutare se servono ancora gli mdframed da:
 Lo studio di Cheung e colleghi nel 2014
 
 Far controllare a gpt da (prendere una pagina o due per volta):
-\subsubsection{Immigrazione e sicurezza}
+\subsection{Economia}
 
 con il seguente prompt:
 
