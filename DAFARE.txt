@@ -6,7 +6,7 @@ Valutare se serve ancora da:
 
 Valutare se servono ancora gli mdframed da:
 \begin{mdframed}[linewidth=1pt]
-Lo studio di Cheung e colleghi nel 2014
+Nel libro l'illusione della memoria\
 
 --------------------------------
 
