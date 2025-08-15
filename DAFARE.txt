@@ -10,6 +10,12 @@ Nel libro l'illusione della memoria\
 
 --------------------------------
 
+Valutare con gpt se ogni pezzo è già spiegato dal riassunto iniziale del capitolo e quindi non serve più
+
+Far analizzare a chat GPT pezzo per pezzo tutto il mio libro, in modo da trovare pezzi troppo assolutistici, consequenziali, dicotomiche o comunque poco prudenti 
+
+--------------------------------
+
 Frasi con potenziali generalizzazioni:
 
 - Ogni atto di definizione o valutazione non si limita a descrivere la realtà: la altera, la trasforma, la ricrea a propria immagine nella nostra percezione.
@@ -26,116 +32,6 @@ Frasi con potenziali generalizzazioni:
 - Si racconta che il Buddha riuscì a trasformare un assassino in un monaco, e un giorno gli chiese di dire che non aveva mai ucciso nessuno.
 - L'ex assassino replicò che non poteva affermarlo perché non era vero, ma il Buddha gli rispose che poteva farlo: da quando aveva iniziato una nuova vita, infatti, non aveva più ucciso nessuno.
 
-- Noi non possiamo vedere la realtà, ma solo interpretarla e come ogni
- interpretazione la deformiamo, coi bias che abbiamo visto nel primo capitolo e con perdita di significati e
- particolari.
-- Se diciamo “non ho mai tempo” non riusciremo a introdurre nulla di nuovo nella nostra vita.
-- Alcuni filoni di pensiero ottimista, auto aiuto ecc… utilizzano molto le frasi
- motivazionali e dirsi che va tutto bene.
-- Anche qua, torna prepotentemente la via di mezzo: pensare
- ai propri disagi è sempre sbagliato?
-- Ovviamente no, magari la tristezza è nata per portarci a cambiare qualcosa, altre
- volte invece va tutto bene, ma sono le nostre domande a farci diventare tristi, soprattutto quando ci concentriamo su
- quello che non abbiamo e che magari è un desiderio indotto dall'esterno.
-- La “positività tossica” si riferisce alla convinzione che si debba mantenere un atteggiamento positivo e ottimista in ogni situazione, ignorando o svalutando le emozioni negative.
-- La ricercatrice ha condotto diverse misurazioni sulla
- pressione sanguigna, ossigenazione del sangue, frequenza respiratoria, livelli di attenzione, ansia, benessere ecc…
- poi li ha portati in un villaggio a tema anni 60 e, ha chiesto loro di parlare al presente, come se fossero davvero gli
- anni 60, con i modi di dire, le situazioni, vestiti, insomma comportandosi e facendo tutto come se fossero ritornati
- indietro nel tempo.
-- Se dopo diverse relazioni ci troviamo a fare sempre la stessa domanda potremmo arrivare a
- interrogarci sul fatto di non essere in grado di provare amore.
-- Su quale principio ci sentiamo in dovere di essere sempre allegri?
-- Non dovremmo etichettare negativamente o come insicuro chi cerca i
- plausi, ma riconoscere che tutti noi abbiamo queste tendenze umane in modalità diverse.
-- Questo della sicurezza è solo
- un esempio, pensiamo ad ogni critica e notiamo come possiamo applicare questo ragionamento.
-- In altre parole, stiamo confinando qualcuno o qualcosa a una definizione molto stretta che fa da
- trappola sia per noi che per l'altro, svilendo e appiattendo tutto il lavoro di crescita che questo individuo può aver fatto.
-- E lo facciamo per ogni cosa, non solo le persone, tra cui anche noi stessi.
-- Noi ci diciamo che è una mancanza di rispetto per
- il nostro tempo, perché noi siamo arrivati puntuali e siamo stati costretti ad aspettare, senza poter fare niente,
- annoiandoci, se avessimo saputo che ci fosse stato questo ritardo potevamo stare a casa a finire di fare alcune commissioni.
-- Scrivo spesso che ogni scelta è giusta se non limita la libertà altrui, in questo caso io potevo fare un sacco di
- altre cose e invece sono costretto a stare qua da solo ad aspettare i comodi di questa persona, quindi l'altro ha
- sbagliato!
-- Perché se abbiamo una scelta non facciamo niente?
-- Con questo non voglio dire che sia giusto arrivare in ritardo, ma dico che se potessimo entrare nella testa
- della persona, probabilmente lei voleva arrivare in orario, ci ha provato in tutti i modi, non voleva farci rimanere
- male in nessun modo, ma purtroppo non c'è riuscita e magari non ci riesce mai.
-- Qualunque sia la motivazione,
- proviamo a vedere la cosa da un punto di vista esterno, freddo e razionale: se una persona a piacere ad uscire con voi
- che ragioni avrebbe di farvi del male?
-- E perché, ogni volta che ci siamo trovati ad aspettare abbiamo fatto mille
- pensieri, sempre lo stesso in realtà e non abbiamo mai pensato a questo aspetto?
-- Perché il nostro schema mentale
- produce sempre le stesse soluzioni ad un problema, non prova altre strade se non ci alleniamo a farlo.
-- In realtà quando
- siamo sereni, stiamo bene, anche se l'intenzione fosse stata quella di ferirci, non ci arrabbiamo,
- quindi indipendentemente dall'intenzione dovremmo sempre gestirla così, come se la persona che
- abbiamo davanti non volesse ferirci.
-- Ogni volta che sentiamo un giudizio dobbiamo allenarci a dire: ecco, la mente mi sta
- dando dei suggerimenti (non delle condanne), prenderò in considerazione quello che mi dice in un
- secondo momento, però ora ritorno a fare quello che stavo facendo e
- poi lo valuterò.
-- La mindfulness e la
- meditazione servono a non cambiare niente limitandosi ad osservarlo, senza intervenire, accettando senza giudicare i
- propri lati di se, anche quelli che ci piacciono meno.
-- Questo non vuol dire sedersi sulle proprie cattive abitudini
- giustificandosi dietro la frase “sono fatto così, non ci posso fare niente”.
-- Quindi, la prossima volta, tra pochi secondi, che etichetterai qualcosa o qualcuno con qualche definizione, non fare
- niente.
-- La nostra mente
- potrebbe ricordare delle cose mai vissute e tutti facciamo esperienza di questo errore, solo che non possiamo saperlo.
-- Probabilmente i nostri genitori ci hanno raccontato di quell'episodio,
- magari mostrandoci anche delle foto e, mentre parlavano, la nostra mente ha iniziato a produrre delle immagini; anche
- perché non riuscirebbe a fare altrimenti, esattamente come quando si dice di non pensare ad un elefante bianco.
-- Ogni volta che vogliamo accedere ad un ricordo lo dobbiamo immaginare e, questo processo, deforma anche i nostri veri ricordi.
-- I
- poliziotti pensano di saper individuare un criminale, un insegnante di essere chiaro nelle spiegazioni e, gli studenti
- di aver capito tutto.
-- Ogni volta che mi è stato proposto qualcosa
- rivoluzionario sono sempre rimasto molto deluso e, ha senso, altrimenti lo farebbero tutti.
-- Dovremmo astenerci sempre dal giudizio inconsapevole, quello che parte senza
- che l'abbiamo scelto noi.
-- Nulla è sbagliato, anche il mind wandering, ovvero quando la mente inizia a vagare.
-- Possiamo darci degli spazi, ad
- esempio quando siamo sotto la doccia, per lasciare vagabondare la mente, ma allo stesso tempo possiamo invece scegliere
- di essere presenti ad ogni nostra sensazione, non esiste un giusto o uno sbagliato.
-- Dovresti fare esercizi tutto il giorno?
-- Molto spesso capita che soffriamo perché avevamo delle
- aspettative su un certo oggetto, sul futuro, su una persona e poi, quando le cose sono diverse da come le avevamo
- immaginate, ci soffriamo, anche se, nulla ci avesse dato modo di pensare che sarebbe potuto essere così, ci avevamo
- sperato.
-- È sempre
- la nostra mente a preparare il terreno fertile per il nostro malessere.
-- Per essere deluso prima ti devi esserti illuso con frasi come: Sarà così per sempre, mi/ti conosco bene, a me non accadrà mai, ecc…
-
- Possiamo chiederci: ogni volta che proponiamo qualcosa a qualcuno, se quest'ultimo dice no, come reagiamo?
-- Notate che ritroviamo il pensiero dicotomico, o bianco/nero (parole come tutto, niente, mai, sempre, ogni volta ecc..) che abbiamo visto nelle altre distorsioni e come anche questo rientri nell'aforisma di Epitteto di inizio del capitolo.
-- Uno che ci taglia la strada è sicuramente ingiusto, ma non così
- sorprendente.
-- Ora forse ti staranno venendo in mente tutti i problemi che hai, ma probabilmente questi problemi sono cose che non
- esistono ora, riguardano ipotetici scenari per il futuro o errori fatti nel passato, in questo momento non ci sono
- problemi.
-- Quindi ridefinendo le sensazioni della felicità possiamo dire che quello che stai provando esattamente ora si chiama felicità.
-- Mi è piaciuto molto un pezzo letto su “Una gran voglia di vivere” } di
- Fabio Volo: Dalla strada guardavo la finestra della cucina e cercavo di ricostruire perfettamente
- l'appartamento.
-- L'avrei
- abbracciato, gli avrei detto di stare tranquillo e che tutto sarebbe andato per il meglio, nonostante le paure e le
- difficoltà.
-- Tutto è buono… Tutto.
-- Questo è tutto, tutto!
-- […] Tutto è bene per colui che è consapevole che
- tutto è bene.
-- Tutto!
-- Quello che spesso cerchiamo è una vita come quella dei film, coi i soldi, fama, successo,
- sempre in spiaggia e sempre in viaggio come fine per sentire quelle forti emozioni di euforia.
-- Quando poi raggiungi questo obiettivo che ti da accesso a
- tutto il mondo materiale e ti accorgi che non sei ancora felice ma con la differenza di non avere più una speranza per
- la felicità, potresti cadere in depressione.
-- Piuttosto, abbassiamo la soglia di ciò che consideriamo un problema, finendo per avere sempre lo stesso numero di preoccupazioni, che però diventano progressivamente più superficiali.
 - [linewidth=1pt]
  Ogni volta che desideriamo qualcosa stiamo cercando la sensazione che crediamo ci darà quella cosa.
 - Imparare a vedere tutto nella sua illusione nella sua bramosia, tutto è cercare di essere un pochino di più di ciò che già si è.
