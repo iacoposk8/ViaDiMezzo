@@ -6,7 +6,9 @@ Valutare se serve ancora da:
 
 Valutare se servono ancora gli mdframed da:
 \begin{mdframed}[linewidth=1pt]
-Nel libro l'illusione della memoria\
+Esperimento di Harlow sull'attaccamento tra madre e figlio 
+
+trovare fonti e rileggere: Alcune statistiche sulle dating app
 
 --------------------------------
 
