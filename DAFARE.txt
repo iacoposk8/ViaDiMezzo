@@ -1,53 +1,18 @@
 Consigli, idee e appunti per finire il libro:
 
---------------------------------
 Valutare se serve ancora da:
 \noindent \textbf{\large Obsolescenza programmata} \\
 
 Valutare se servono ancora gli mdframed da:
 \begin{mdframed}[linewidth=1pt]
-Esperimento di Harlow sull'attaccamento tra madre e figlio 
+La caccia è utile? 
 
 trovare fonti e rileggere: Alcune statistiche sulle dating app
-
---------------------------------
 
 Valutare con gpt se ogni pezzo è già spiegato dal riassunto iniziale del capitolo e quindi non serve più
 
 Far analizzare a chat GPT pezzo per pezzo tutto il mio libro, in modo da trovare pezzi troppo assolutistici, consequenziali, dicotomiche o comunque poco prudenti 
 
---------------------------------
-
-Frasi con potenziali generalizzazioni:
-
-- Ogni atto di definizione o valutazione non si limita a descrivere la realtà: la altera, la trasforma, la ricrea a propria immagine nella nostra percezione.
-- Secondo la filosofia orientale, comprendere che non possiamo fare nulla è solo un punto di partenza.
-- Non provare a ottenere nulla, non aspettarti nulla, non sperare né cercare.
-- Io aggiungerei anche che dobbiamo guardare ogni cosa nella sua interezza, magari sul momento non ci piace, ma sul lungo periodo invece sì o comunque non farla potrebbe essere peggio.
-- Siamo soliti pensare che il saggio sia colui che riconosce il divino in ogni cosa, ma se ogni cosa è divina, allora anche l'uomo comune, vedendole, non fa nulla di diverso dal saggio.
-- Quando tutto il mondo riconosce la bellezza come tale, nasce la bruttezza.
-- Quando tutto il mondo riconosce il bene come tale, nasce il male.
-- Tutto ciò che conosciamo, descriviamo o crediamo di sapere è una proiezione, una mappa, un'immagine, mai il territorio.
-- Allo stesso modo, non è dato a tutti essere una moglie generosa o un marito esemplare.
-- Alcuni di noi cercheranno sempre, con risultati limitati e forse frustranti, di migliorarsi in qualche modo, senza mai sentirsi appagati con la semplice auto-accettazione.
-- Non c'è nulla da cercare, siamo già il Buddha, lo siamo già in questo momento.
-- Si racconta che il Buddha riuscì a trasformare un assassino in un monaco, e un giorno gli chiese di dire che non aveva mai ucciso nessuno.
-- L'ex assassino replicò che non poteva affermarlo perché non era vero, ma il Buddha gli rispose che poteva farlo: da quando aveva iniziato una nuova vita, infatti, non aveva più ucciso nessuno.
-
---------------------------------
-
 in comunicazione: rileggendo il riassunto di inizio capitolo, serve ancora tutto quello che segue nel capitolo?
 
-Gemini dice: Il testo a volte utilizza generalizzazioni come "tutti", "sempre" o "mai", che potrebbero non essere accurate. (chiedere a gemini i punti esatti e altri consigli)
-https://aistudio.google.com
-
-Fine stesura:
-	usare l'espressione regolare (?<!\\)\% per provare tutti i simboli \% non preceduti da backslash. In latex rappresenta il commento, ma se io voglio scrivere una percentuale rischio di perdermi tutta la riga successiva
-
-	mettere uno spazio dove c'è }}\endnote in modo che diventi }} \endnote
-
-	tutti gli studi oltre al link mettere il nome della ricerca, autore e anno (cercare il modo corretto di scriverle)
-
-	Inserire i ringraziamenti
-
-	cercare url{(.*?)\?(.*?)} e vedere se la parte dopo il ? serve ancora
+Inserire i ringraziamenti
