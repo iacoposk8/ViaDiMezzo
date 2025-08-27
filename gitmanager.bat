@@ -11,6 +11,7 @@ set /p scelta=Inserisci il numero dell'opzione desiderata:
 if "%scelta%"=="1" (
 	git pull
 ) else if "%scelta%"=="2" (
+	python check.py Libro.tex
 	del /f /q Libro.log
 	del /f /q Libro.synctex.gz
 	git add .
