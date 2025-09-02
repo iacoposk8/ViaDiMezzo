@@ -1,11 +1,11 @@
 Consigli, idee e appunti per finire il libro:
 
 Valutare se serve ancora da:
-\noindent \textbf{\large Obsolescenza programmata} \\
+\subsection{Intelligenza artificiale}
 
-Valutare se servono ancora gli mdframed da:
-\begin{mdframed}[linewidth=1pt]
-La caccia è utile? 
+rileggere:
+\begin{mdframed}[linewidth=1pt
+Quando satira, ironia e black humor vanno oltre?
 
 trovare fonti e rileggere: Alcune statistiche sulle dating app
 
