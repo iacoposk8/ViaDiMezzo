@@ -3,10 +3,6 @@ Consigli, idee e appunti per finire il libro:
 Valutare se serve ancora da:
 \subsection{Intelligenza artificiale}
 
-rileggere:
-\begin{mdframed}[linewidth=1pt
-Quando satira, ironia e black humor vanno oltre?
-
 trovare fonti e rileggere: Alcune statistiche sulle dating app
 
 Valutare con gpt se ogni pezzo è già spiegato dal riassunto iniziale del capitolo e quindi non serve più
