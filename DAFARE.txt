@@ -1,7 +1,5 @@
 Consigli, idee e appunti per finire il libro:
 
-trovare fonti e rileggere: Alcune statistiche sulle dating app
-
 Valutare con gpt se ogni pezzo è già spiegato dal riassunto iniziale del capitolo e quindi non serve più
 
 Far analizzare a chat GPT pezzo per pezzo tutto il mio libro, in modo da trovare pezzi troppo assolutistici, consequenziali, dicotomiche o comunque poco prudenti 
