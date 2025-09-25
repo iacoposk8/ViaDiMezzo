@@ -485,11 +485,6 @@ Certamente, ecco l'analisi delle parti del testo che presentano assolutismi, dic
     *   **Critica:** L'affermazione "è un tempo lunghissimo" è un assoluto che dipende dal contesto. Per alcuni processi neuronali è un tempo significativo, ma per altri no. È un'affermazione di parte per rafforzare la tesi, ma non è universalmente vera in ogni ambito del sistema nervoso.
     *   **Riscritura proposta:** "Forse può sembrare un tempo irrisorio, ma per il sistema nervoso, dove le informazioni viaggiano a velocità elevate, è un intervallo temporalmente significativo in relazione all'insorgere della consapevolezza."
 
-3.  **Parte problematica:** "A seguito di questi esperimenti lo psicologo americano Wegner, intuì che è il cervello a decidere, non la nostra volontà."
-    *   **Poca prudenza:** 10/10
-    *   **Critica:** Questa affermazione è un assoluto e una drastica semplificazione di un dibattito filosofico-scientifico estremamente complesso. Presentare la "volontà" come qualcosa di completamente separato dal "cervello" e concludere che "il cervello decide, non la nostra volontà" è una visione radicalmente riduzionista e deterministica. Sebbene Wegner abbia elaborato una teoria sull'illusione della volontà cosciente, non è un'intuizione universale e accettata da tutti che nega totalmente l'agenzia o il ruolo della coscienza. Ignora le sfumature e le critiche a questa interpretazione.
-    *   **Riscritura proposta:** "A seguito di questi esperimenti, psicologi come Daniel Wegner hanno sviluppato teorie secondo cui la percezione della nostra volontà cosciente di agire potrebbe, in alcuni contesti, essere un'esperienza che segue, piuttosto che precedere, l'avvio inconscio dell'azione da parte del cervello." (Si noti che la frase successiva del testo originale, che menziona Libet e il veto cosciente, è già una buona mitigazione, ma l'affermazione iniziale rimane problematica se non contestualizzata).
-
 4.  **Parte problematica:** "Se hai avuto la fortuna, la casualità, di vivere in un ambiente che ti ha fornito condizionamenti positivi, che ha permesso lo sviluppo di certe connessioni neuronali, sarai più avvantaggiato rispetto a una persona che, sempre casualmente, è cresciuta in un ambiente che gli ha fornito uno schema mentale il quale non lo porta a reagire o che lo fa soffrire."
     *   **Poca prudenza:** 8/10
     *   **Critica:** L'affermazione "sarai più avvantaggiato" è corretta, ma la seconda parte "non lo porta a reagire o che lo fa soffrire" è un assoluto deterministico. Un ambiente difficile non produce *necessariamente* schemi che portano a non reagire o a soffrire in modo passivo; molte persone sviluppano resilienza e strategie di coping attive in risposta alle avversità. È una semplificazione eccessiva degli esiti dello sviluppo in ambienti sfavorevoli.
@@ -1209,11 +1204,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** La frase "è meglio" è un giudizio prescrittivo molto forte e generalizzato. Ciò che porta felicità è altamente soggettivo e dipende da valori, priorità e condizioni economiche individuali. Per alcune persone, l'acquisto di beni materiali può portare grande gioia, mentre per altre la libertà di tempo è più preziosa.
 *   **Riscrizione:** "Per molte persone, i soldi possono contribuire alla felicità quando vengono utilizzati per acquisire più tempo libero, ad esempio delegando compiti come la cura del giardino o le pulizie, **piuttosto che solo per l'acquisto di beni materiali**."
 
-**5. Parte problematica:** "Alcuni studi dimostrano come per essere felici **necessitiamo dalle 2 alle 5 ore di solitudine vera**, quindi il tempo trascorso in famiglia **non concorre ad aumentare questo conteggio**. Con meno di 2 ore **difficilmente raggiungiamo il benessere** ma con più di 5 ore **non ci sono aumenti**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa sezione è estremamente problematica. L'uso di "necessitiamo" è assolutistico, imponendo un requisito universale e preciso (2-5 ore) per la felicità, che è un'esperienza altamente individuale e sfumata. La definizione di "solitudine vera" è vaga ma usata in modo categorico. L'affermazione che il tempo in famiglia "non concorre ad aumentare questo conteggio" è una dicotomia forte che sminuisce il valore del tempo con i propri cari per il benessere complessivo. Le frasi "difficilmente raggiungiamo il benessere" e "non ci sono aumenti" sono affermazioni definitive che non ammettono eccezioni o variazioni individuali.
-*   **Riscrizione:** "Alcune ricerche **suggeriscono che un certo intervallo di tempo trascorso in solitudine significativa, ad esempio tra le 2 e le 5 ore al giorno, potrebbe essere associato a livelli più elevati di benessere per alcune persone**. Si **ipotizza** che questo tipo di solitudine sia distinto dal tempo trascorso in famiglia. **Tuttavia, l'impatto esatto di queste ore sul benessere individuale può variare, e non è sempre detto che meno di due ore impediscano il raggiungimento del benessere, né che oltre cinque ore non possano comunque portare benefici aggiuntivi o diversi per tutti**."
-
 **6. Parte problematica:** "Un sondaggio chiamato Rest Test... ha sottolineato come lo stare con gli altri non è arrivato nella top 10, **questo perché, anche gli estroversi si riposano stando da soli**."
 *   **Poca prudenza:** 7/10
 *   **Critica:** Il "questo perché" crea un legame causale troppo diretto e assoluto tra il risultato del sondaggio e l'interpretazione. Sebbene sia una possibile spiegazione, presentarla come l'unica e certa ragione, generalizzando anche sugli estroversi, è una conclusione imprudente.
@@ -1233,11 +1223,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 7/10
 *   **Critica:** Anche se le città *offrono* spesso maggiori stimoli e opportunità sociali, l'affermazione "ha a disposizione" è troppo assoluta. L'accesso e la capacità di sfruttare questi stimoli e situazioni variano enormemente a seconda della persona, della zona della città, del contesto socio-economico, ecc. Non è un beneficio garantito per tutti gli abitanti della città.
 *   **Riscrizione:** "Sebbene possa essere più soggetto a malattie polmonari, la vita in città **offre spesso maggiori stimoli cognitivi e un'ampia gamma di opportunità per la socializzazione**."
-
-**10. Parte problematica:** "Chi socializza tutti i giorni, infatti, **rischia molto meno di morire rispetto a chi lo fa una volta a settimana**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente forte e potenzialmente fuorviante. Sebbene la socializzazione sia importante per la longevità e la salute, quantificare il rischio di mortalità in modo così preciso e netto, confrontando la socializzazione quotidiana con quella settimanale, è una semplificazione eccessiva e non riflette la complessità dei fattori che influenzano la durata della vita. È un claim quasi allarmista e dicotomico (quotidiano vs. settimanale) che ignora molte sfumature.
-*   **Riscrizione:** "Alcuni studi **suggeriscono che una socializzazione frequente, come quella quotidiana, possa essere associata a una maggiore longevità rispetto a una socializzazione meno assidua**."
 
 ************************
 
@@ -1284,11 +1269,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 9/10
 *   **Critica:** "Non possiamo non pensare" è un'affermazione universale e deterministica. Molte persone possono pubblicare spontaneamente o per scopi personali, senza un'intensa deliberazione sull'effetto pubblico. Si ignora la variabilità individuale e le diverse motivazioni.
 *   **Riscrizione:** "**Spesso, quando si decide di pubblicare qualcosa, si tende a considerare l'effetto che avrà sul pubblico** (l'inquadratura, il testo, ecc.), e in questi casi, l'attenzione può allontanarsi dal momento presente per concentrarsi sulla percezione desiderata."
-
-**9. Parte problematica:** "In questo modo, si rischia di vivere esperienze **non per piacere personale, ma solo per mostrarci agli altri**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente dicotomica e assoluta. L'uso di "non... ma solo" esclude qualsiasi motivazione intrinseca o piacere personale, riducendo l'esperienza a un mero atto performativo. La realtà è quasi sempre più complessa e sfumata, con motivazioni miste.
-*   **Riscrizione:** "In questo modo, **si può correre il rischio di vivere esperienze principalmente, o talvolta esclusivamente, in funzione della condivisione e della percezione esterna, anziché per il puro piacere personale**."
 
 **10. Parte problematica:** "Alcune attività **verranno persino trascurate perché non sono “instagrammabili”**."
 *   **Poca prudenza:** 8/10
@@ -1363,11 +1343,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'uso di "sarà capitato a tutti" e "tutti abbiamo già fatto esperienza" sono generalizzazioni universali ed estreme. Sebbene l'esperienza dell'insonnia da sforzo sia comune, non è detto che *tutti* l'abbiano provata o che sia *sempre* vera per *chiunque*.
 *   **Riscrizione:** "Abbiamo diverse esperienze di questo fenomeno; per esempio, **molti avranno sperimentato la difficoltà a dormire, e la tendenza è che il sonno sia sfuggente quando ci si sforza attivamente di provocarlo**."
-
-**5. Parte problematica:** "E così anche la felicità. **Più cerchi di calmarti e più provi ansia, più cerchi di motivarti e meno lo sarai, più cerchi di essere felice e meno lo sarai**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è una sequenza di affermazioni causali dirette ed estremamente assolutistiche. Il "più... e più/meno" stabilisce una relazione causale universale e inevitabile che è troppo rigida. Sebbene l'effetto paradossale sia un fenomeno psicologico reale (es. legge dell'effetto inverso), presentarlo come una verità assoluta per *tutti* e in *ogni circostanza* è una generalizzazione eccessiva e potenzialmente fuorviante.
-*   **Riscrizione:** "E così, **spesso si osserva un effetto paradossale anche con la felicità: un tentativo eccessivo di calmarsi può aumentare l'ansia, un eccessivo sforzo di motivazione può ridurne la spontaneità, e una ricerca ossessiva della felicità può paradossalmente renderla più elusiva**."
 
 **6. Parte problematica:** "Se ti dico di non pensare a un elefante bianco, **inevitabilmente lo farai**. Allo stesso modo, se ti ripeti di non provare ansia, paura o preoccupazioni, **finirai per provarle**."
 *   **Poca prudenza:** 9/10
@@ -1449,11 +1424,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 8/10
 *   **Critica:** L'affermazione "non possono funzionare" è assoluta. Sebbene queste frasi siano spesso inefficaci o addirittura controproducenti, in contesti specifici o con determinate personalità, un incoraggiamento a "non pensarci" (inteso come spostare l'attenzione) *potrebbe* avere un minimo effetto. È troppo dicotomico affermare che non funziona *mai*.
 *   **Riscrizione:** "Per questo, frasi come 'dai… Cerca di non pensarci!' **tendono a essere inefficaci o addirittura controproducenti**."
-
-**11. Parte problematica:** "Ma se sono troppo indulgente con me, **ricadrò sempre negli stessi pensieri negativi!**"
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente assoluta e pessimistica, posta come una certezza inappellabile ("ricadrò sempre"). È una generalizzazione enorme che ignora la complessità del comportamento umano, la capacità di apprendimento e cambiamento, e la possibilità di strategie alternative all'auto-indulgenza eccessiva o all'auto-critica.
-*   **Riscrizione:** "Ma se sono troppo indulgente con me, **non c'è il rischio di rimanere intrappolato in schemi di pensieri negativi?**" (Riformulata come domanda per evidenziare la preoccupazione e aprire a una discussione, invece di presentare una conclusione assolutistica).
 
 ************************
 
@@ -1669,11 +1639,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** L'affermazione "è meglio non tenerle nella propria testa, perché sono potenzialmente infinite e angoscianti" è un consiglio molto forte e quasi proibitivo, presentando un'unica via (esternazione strutturata) e un unico esito negativo (infinite e angoscianti) se non seguita. Per alcuni, una sana contemplazione di queste domande, anche "nella testa", è parte del processo di crescita.
 *   **Riscrizione:** "Quindi è sbagliato interrogarsi sulla felicità, il vero amore o il senso della vita? No, ma queste domande profonde, **se lasciate a rimuginare nella mente senza una strategia di gestione, possono diventare cicliche e generare angoscia**. È spesso più produttivo dargli una struttura, come dicevamo prima, e affrontarle esternamente, parlandone con qualcuno o scrivendo."
 
-**6. Parte problematica:** "Come dice Raffaele Morelli: **le domande sono nemiche della felicità**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente assoluta, dicotomica e generalizzata. Negare completamente il valore delle domande e etichettarle come "nemiche della felicità" è una semplificazione eccessiva. Le domande sono fondamentali per l'apprendimento, la crescita personale, la risoluzione di problemi e la comprensione di sé e del mondo. Senza domande, non ci sarebbe progresso né introspezione.
-*   **Riscrizione:** "Come sostiene Raffaele Morelli, **alcune domande, se non gestite, possono ostacolare la serenità**." (O se si vuole mantenere l'attribuzione diretta della citazione, si può usare: "Come dice Raffaele Morelli: 'Le domande possono essere nemiche della felicità'", ma è importante notare che anche come citazione è molto assoluta.)
-
 **7. Parte problematica:** "Solitamente mentre stiamo facendo un'attività piacevole, **l'effetto di questa domanda è il blocco immediato delle sensazioni piacevoli**, perché la nostra attenzione verrà spostata dall'esperienza che stiamo vivendo alla domanda e questo intellettualmente potrebbe non avere fine, non avendo una risposta."
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "l'effetto di questa domanda è il blocco immediato delle sensazioni piacevoli" è troppo assoluta e catastrofica. Sebbene la domanda possa interrompere il flusso dell'esperienza, non sempre porta a un "blocco immediato" e completo delle sensazioni piacevoli per *tutti* e in *ogni* situazione. Può ridurle, ma non annullarle istantaneamente e universalmente.
@@ -1698,11 +1663,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "la cosa giusta da fare" è un consiglio assoluto e prescrittivo, implicando che esista una sola e unica "cosa giusta". Sebbene la strategia sia ottima (come nell'ACT o mindfulness), non è l'unica "cosa giusta" per tutti, né in ogni momento.
 *   **Riscrizione:** "Essendo impossibile non pensare e far sorgere i giudizi che sono le opinioni sulle cose che creano turbamento di cui parlava Epitteto, **un approccio efficace è quello di ritornare a ciò che stavamo facendo, accogliendo i pensieri senza aggiungere ulteriori giudizi**."
-
-**12. Parte problematica:** "Io eviterei di chiedermelo e se sorge questa domanda ritornerei a ciò che stavo facendo, godendomi il momento e concentrandomi sulle mie sensazioni corporee e **così sarai felice, anche se non te lo sarai verbalmente detto**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "e così sarai felice, anche se non te lo sarai verbalmente detto" è estremamente assoluta e quasi garantista. Promettere la felicità come un risultato automatico e inevitabile dell'applicazione di una tecnica (anche se valida) è una forma di ipersemplificazione e può creare aspettative irrealistiche. La felicità è un'esperienza complessa e non può essere garantita in questo modo.
-*   **Riscrizione:** "Io eviterei di chiedermelo e se sorge questa domanda, ritornerei a ciò che stavo facendo, godendomi il momento e concentrandomi sulle mie sensazioni corporee. **Questo approccio può favorire un maggiore senso di benessere e soddisfazione, anche senza l'esplicita etichetta verbale di 'felicità'**."
 
 ************************
 
@@ -1796,11 +1756,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** L'affermazione "non dobbiamo distinguere... ma come utili o inutili, produttivi o improduttivi" è una dicotomia forte e prescrittiva. Sebbene l'approccio basato sull'utilità sia valido (ACT), negare completamente la rilevanza delle categorie "giusto/sbagliato" o "buono/cattivo" è un'affermazione assoluta che ignora la dimensione etica, morale e valoriale che molte persone applicano ai propri pensieri (e azioni), e che è fondamentale per la crescita personale in senso più ampio.
 *   **Riscrizione:** "Per la nostra crescita personale, **un approccio costruttivo è quello di valutare i pensieri non tanto in termini assoluti di giusto o sbagliato, buono o cattivo, quanto piuttosto in base alla loro utilità o inutilità, produttività o improduttività**."
 
-**4. Parte problematica:** "Dobbiamo quindi cercare la resilienza e non la resistenza. La resilienza è la capacità di adattarsi positivamente alle difficoltà, mantenendo o ritornando a uno stato di benessere. **Il dolore capita, la sofferenza la creiamo noi.**"
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "Il dolore capita, la sofferenza la creiamo noi" è una dicotomia estremamente forte, assoluta e potenzialmente dannosa. Sebbene concettualmente derivi da alcune filosofie (es. buddhismo, stoicismo) e sia usata in certi contesti terapeutici (es. ACT) per distinguere il dolore inevitabile dalla sofferenza psicologica auto-inflitta (rimuginio, giudizio), presentarla come una verità universale e incontrovertibile è imprudente. Minimizza la sofferenza causata da eventi esterni (es. traumi, perdite, malattie croniche) che non è "creata" dal soggetto, ma è una reazione umana legittima e spesso inevitabile.
-*   **Riscrizione:** "Dobbiamo quindi cercare la resilienza e non la resistenza. La resilienza è la capacità di adattarsi positivamente alle difficoltà, mantenendo o ritornando a uno stato di benessere. **Mentre il dolore fisico o emotivo legato agli eventi della vita può capitare inevitabilmente, la sofferenza psicologica prolungata è spesso amplificata dal modo in cui interpretiamo e reagiamo a tali eventi**."
-
 **5. Parte problematica:** "Siamo quindi noi a trattenere questi pensieri che ci fanno soffrire e **che altrimenti in maniera naturale scomparirebbero**."
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "che altrimenti in maniera naturale scomparirebbero" è troppo assoluta. Sebbene i pensieri intrusivi tendano a diminuire se non alimentati, non è garantito che "scomparirebbero" completamente o "naturalmente" senza alcun intervento per tutti i tipi di pensieri o in tutte le persone, specialmente in presenza di traumi o disturbi d'ansia/depressione.
@@ -1810,11 +1765,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 8/10
 *   **Critica:** L'affermazione "non si pensa abbastanza" è un giudizio assoluto e contro-intuitivo rispetto al tema del rimuginio e del pensare troppo, senza le dovute qualificazioni. Sebbene Sadhguru possa riferirsi a un tipo specifico di pensiero (profondo, consapevole), presentarlo in modo così netto può generare confusione.
 *   **Riscrizione:** "Con questo non voglio dire che non bisogna pensare più, sarebbe impossibile, o che la nostra mente non sappia risolvere i problemi. In un video Sadhguru dice che il problema non è il pensare in eccesso, anzi, secondo lui, **spesso non si esercita un pensiero di qualità o sufficientemente consapevole**."
-
-**7. Parte problematica:** "La sera quando andiamo a letto **dovremmo essere sfiniti, sia mentalmente che fisicamente così da sfruttare a pieno il tuo corpo e il tuo potenziale per rendere al massimo la tua vita in un costante miglioramento e crescita esteriore e interiore**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente prescrittiva, assolutistica e potenzialmente dannosa. L'idea che si "dovrebbe" essere "sfiniti" ogni sera per "sfruttare a pieno il potenziale" e ottenere "costante miglioramento" è una visione iper-produttivistica e perfezionista, che ignora la necessità di riposo, recupero, momenti di non-produttività e il fatto che la vita non è una corsa all'ottimizzazione costante. Può generare senso di colpa e burnout.
-*   **Riscrizione:** "La sera, **un equilibrio tra l'impegno mentale e fisico durante il giorno e un adeguato riposo notturno è essenziale per ottimizzare il benessere e il potenziale individuale, favorendo un processo di miglioramento e crescita sia esteriore che interiore**."
 
 **8. Parte problematica:** "Dobbiamo accorgerci quando avviene questo fenomeno e cercare di vedere le cose per come realmente sono, **non per come la mente ci mostra**."
 *   **Poca prudenza:** 9/10
@@ -1851,11 +1801,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "non possiamo dare una risposta" è troppo assoluta e generalizzata. Sebbene molti dubbi esistenziali o patologici possano essere irrisolvibili in senso definitivo, non tutti i "dubbi" rientrano in questa categoria, e molte domande possono trovare risposte parziali, provvisorie o soggettive che sono comunque significative per l'individuo.
 *   **Riscrizione:** "In sostanza, la sofferenza può nascere con un dubbio e mantenersi nel tentativo di risolverlo, **specialmente quando ci si pongono domande per le quali una risposta definitiva e universalmente accettata potrebbe non essere disponibile**."
-
-**2. Parte problematica:** "Inizialmente era sano, ma **è diventato patologico solo per essersi posto la domanda sbagliata; una domanda senza risposta**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "è diventato patologico solo per essersi posto la domanda sbagliata" è estremamente riduttiva e assoluta. La patologia mentale è un fenomeno complesso con molteplici fattori (genetici, ambientali, psicologici, sociali). Ridurre l'insorgenza di una condizione patologica a un singolo atto ("essersi posto la domanda sbagliata") è una semplificazione eccessiva e potenzialmente dannosa.
-*   **Riscrizione:** "Inizialmente era sano, ma **la sua ossessiva ricerca di una definizione di 'sanità mentale', una domanda intrinsecamente complessa e senza una risposta unica, ha innescato un processo che lo ha portato a sviluppare una condizione patologica**."
 
 **3. Parte problematica:** "Dovremmo imparare a chiederci e, **farlo diventare automatico: può esistere una risposta al mio dubbio?**"
 *   **Poca prudenza:** 8/10
@@ -1913,11 +1858,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 
 ---
 
-**1. Parte problematica:** "Anche piccole quantità di alcol fanno male perché l’etanolo è una sostanza tossica per le cellule: danneggia il DNA, aumenta il rischio di cancro e interferisce con il funzionamento del cervello e del fegato. **Non esiste una soglia sicura: anche un solo bicchiere al giorno, o ogni tanto, produce effetti biologici misurabili e nocivi.**"
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "Non esiste una soglia sicura: anche un solo bicchiere al giorno, o ogni tanto, produce effetti biologici misurabili e nocivi" è un'asserzione assoluta e categorica che, sebbene supportata da alcune interpretazioni della ricerca (es. WHO), è ancora oggetto di dibattito scientifico e può essere percepita come estremista. Molti studi riconoscono che il *rischio* aumenta con la dose, ma non tutti concordano che *ogni* singola assunzione sia "nociva" in senso universale per tutti gli individui e in tutte le circostanze (es. il concetto di "moderazione" in altri contesti). La formulazione è estremamente definitiva.
-*   **Riscrizione:** "Anche piccole quantità di alcol possono comportare rischi per la salute, poiché l’etanolo è una sostanza tossica per le cellule: danneggia il DNA, aumenta il rischio di cancro e interferisce con il funzionamento del cervello e del fegato. **La ricerca scientifica più recente suggerisce che non esista una soglia di consumo completamente sicura e che anche quantità moderate possano produrre effetti biologici misurabili**. L’idea che 'un po’ faccia bene' è un mito che necessita di essere riconsiderato alla luce di queste evidenze."
-
 **2. Parte problematica:** "Non sempre è importante sapere l'origine delle emozioni, ma **è invece importante come si reagisce ad essi. Agendo o accettando, non esistono altre opzioni.**"
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "Agendo o accettando, non esistono altre opzioni" è una dicotomia eccessivamente rigida e assoluta. La gestione delle emozioni è un campo vasto e complesso che include molteplici strategie oltre all'agire o all'accettare (es. riappraisal cognitivo, espressione emotiva, ricerca di supporto, distrazione funzionale, regolazione fisiologica). Ridurre tutto a due sole opzioni è una semplificazione eccessiva.
@@ -1948,11 +1888,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** L'affermazione "agiremo con il pilota automatico e non in maniera autentica" è una dicotomia troppo netta. Sebbene la consapevolezza sia cruciale per l'autenticità, non tutte le azioni "con il pilota automatico" sono necessariamente inautentiche. Molte routine quotidiane svolte automaticamente sono allineate con i nostri valori e obiettivi.
 *   **Riscrizione:** "Senza consapevolezza, però, **si rischia di agire maggiormente con il pilota automatico, il che può ridurre la percezione di autenticità e intenzionalità nelle proprie azioni**."
 
-**8. Parte problematica:** "Apparentemente le persone meno riflessive potrebbero quindi essere più felici, ma allo stesso tempo **potrebbero essere anche quelle più influenzabili, che finiscono nelle sette, che credono alle fake news e passano da una paura all'altra**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente generalizzata, stereotipata, giudicante e assolutistica. Collegare direttamente "persone meno riflessive" con una serie di esiti negativi così gravi ("finiscono nelle sette," "credono alle fake news," "passano da una paura all'altra") è un salto logico enorme e non basato su prove specifiche. È una dicotomia che stigmatizza un gruppo di persone basandosi su una correlazione molto debole e ignorando la complessità delle vulnerabilità individuali.
-*   **Riscrizione:** "Apparentemente, le persone meno propense a una riflessione eccessiva potrebbero talvolta sperimentare una maggiore felicità immediata. Tuttavia, **potrebbero anche risultare più vulnerabili a influenze esterne, a informazioni non verificate o a cambiamenti repentini nelle proprie convinzioni, se manca una sufficiente capacità critica**."
-
 **9. Parte problematica:** "Paradossalmente dopo un po' **potrebbero riuscire a dirsi tutto riducendo gli argomenti di litigio**."
 *   **Poca prudenza:** 7/10
 *   **Critica:** L'affermazione "potrebbero riuscire a dirsi tutto riducendo gli argomenti di litigio" è un po' troppo ottimistica e generalizzata come esito di una tecnica così specifica. Sebbene le logiche paradossali possano essere efficaci, non è garantito che tutte le coppie "riusciranno a dirsi tutto" e che questo ridurrà *tutti* gli argomenti di litigio.
@@ -1974,20 +1909,10 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** L'espressione "O nulla, o cinque" è una dicotomia estremamente rigida e rischiosa. Sebbene sia una tecnica paradossale, presentarla in modo così categorico senza ulteriori qualificazioni può essere frainteso, specialmente in un contesto delicato come i disturbi alimentari. Non è una strategia universalmente applicabile.
 *   **Riscrizione:** "Giorgio Nardone propone, in chiave paradossale, che chi è a dieta scelga un regime non troppo rigido e, se sgarra, anziché limitarsi a una singola porzione extra, si conceda un numero maggiore di porzioni, ad esempio cinque. **Questa strategia, basata su un'alternativa forzata tra l'astensione totale e l'eccesso controllato**, mira a spezzare automatismi..."
 
-**2. Parte problematica:** "L'effetto paradossale è che **svaniscono le abbuffate e il desiderio verso i cibi proibiti portando alla perdita di peso**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "svaniscono le abbuffate e il desiderio verso i cibi proibiti portando alla perdita di peso" è una promessa eccessivamente forte e quasi garantista, in un campo (disturbi alimentari, gestione del peso) dove le soluzioni sono complesse e variano enormemente. Presentare un esito così certo per una strategia paradossale è molto imprudente e può creare false aspettative.
-*   **Riscrizione:** "L'effetto paradossale che si cerca di ottenere è la riduzione delle abbuffate e del desiderio per i cibi percepiti come proibiti, **il che può contribuire a una gestione più sana dell'alimentazione e, in alcuni casi, alla perdita di peso**."
-
 **3. Parte problematica:** "Inizialmente era sano, ma è diventato patologico solo per essersi posto la domanda sbagliata; una domanda senza risposta. Dovremmo imparare a chiederci e, farlo diventare automatico: può esistere una risposta al mio dubbio? Altrimenti asteniamoci dal giudizio e se proprio non ci riusciamo, tra due pensieri opposti e altrettanto indimostrabili, scegli quello che ci rende felici. La sfida quindi non si gioca sul darsi le giuste risposte, ma sul porsi le giuste domande. Possiamo porci domande infinite con uba risposta ma prima o poi potremmo incontrarne una impossibile. Una buona domanda può essere: Di che risposta avrei bisogno per stare bene? Quando si è afflitti da dubbio patologico non possiamo evitare di farci domande\endnote{\raggedright\url{https://www.amazon.it/dp/B00D8BHM18}}, ma **possiamo evitare di darci delle risposte**. Il sabotatore interno, anche di fronte a un'azione di successo, si critica dicendo che avrebbe potuto comportarsi ancora meglio o che avrebbe potuto agire prima, inducendo comunque un'insoddisfazione."
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "possiamo evitare di darci delle risposte" è un imperativo molto forte e assoluto. Sebbene l'intento sia quello di contrastare la ruminazione ossessiva, negare completamente la possibilità o l'utilità di darsi risposte (anche provvisorie o funzionali) è un'affermazione estrema. La mente umana cerca naturalmente di dare un senso e una risposta alle cose.
 *   **Riscrizione:** "Quando si è afflitti da dubbio patologico non possiamo evitare di farci domande, **ma possiamo imparare a non cercare con insistenza risposte definitive o a non fissarci su quelle che alimentano il disagio**."
-
-**4. Parte problematica:** "Se un atleta non performa più come un tempo, invece di motivarlo, va demotivato, dicendogli che probabilmente la sua miglior stagione era tramontata, **in questo modo l'atleta, reagirà per dimostrarvi che vi sbagliavate**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "in questo modo l'atleta, reagirà per dimostrarvi che vi sbagliavate" è una predizione di comportamento assoluta e universale. Sebbene la motivazione paradossale possa funzionare per *alcuni* atleti con una certa personalità e in un contesto specifico, non è detto che *tutti* reagiranno in questo modo. Molti potrebbero scoraggiarsi, sentirsi offesi, perdere fiducia o arrendersi. È una generalizzazione estremamente rischiosa.
-*   **Riscrizione:** "Se un atleta non performa più come un tempo, invece di motivarlo, può essere applicata una strategia paradossale che consiste nel 'demotivarlo', suggerendogli che la sua miglior stagione potrebbe essere tramontata. **Per alcuni atleti, questo approccio può innescare una reazione motivazionale volta a dimostrare il contrario**."
 
 **5. Parte problematica:** "Quindi per vincere l'intenzione forzata e patogena (ad esempio non riuscire a prendere sonno) la terapia è quella dell'intenzione paradossa (sforzarsi di non prendere sonno), analogamente un'iper-riflessione patogena (pensare di essere impotenti o frigide) richiede come **correttivo necessario una de-reflessione (smettere di pensarci)**."
 *   **Poca prudenza:** 9/10
@@ -2029,11 +1954,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "solo da questi sentimenti può nascere attività e movimento verso la nostra realizzazione" è un'affermazione assoluta ed esclusiva ("solo da questi sentimenti"). Minimizza o ignora il fatto che attività e realizzazione possano nascere anche da sentimenti positivi (gioia, entusiasmo, curiosità), da valori, o da una motivazione intrinseca che non deriva necessariamente dal disagio.
 *   **Riscrizione:** "Non dovremmo nemmeno cercare di fuggirli, siccome **spesso anche da questi sentimenti può nascere una spinta significativa verso l'attività e il movimento per la nostra realizzazione**."
-
-**4. Parte problematica:** "Da una ricerca riportata ne il nuovo conformismo... emerge che la parola “sindrome” non compariva sui giornali degli anni settanta. Nel 1985 invece iniziava a fare la sua presenza in 90 articoli, che diventarono 1000 nel 1993 e 8000 nel 2003. **Un discorso analogo per la parola “autostima”, sconosciuta negli anni settanta nei giornali e nel linguaggio quotidiano, da cui invece oggi dipendono insuccessi scolastici, professionali, familiari, depressione, dipendenze e così via**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** La frase "da cui invece oggi dipendono insuccessi scolastici, professionali, familiari, depressione, dipendenze e così via" è un'affermazione causale estremamente forte, assoluta e semplicistica. Suggerisce che la *mancanza di autostima* (o la sua eccessiva attenzione) sia l'unica o la principale causa di una miriade di problemi complessi. Le problematiche citate hanno eziologie multifattoriali e non "dipendono" esclusivamente da un singolo concetto come l'autostima. È una sovra-semplificazione pericolosa.
-*   **Riscrizione:** "Un discorso analogo emerge per la parola 'autostima', sconosciuta negli anni settanta nei giornali e nel linguaggio quotidiano, **mentre oggi è un concetto frequentemente richiamato in relazione a problematiche quali insuccessi scolastici, professionali, familiari, depressione e dipendenze, benché questi fenomeni abbiano cause ben più complesse e molteplici**."
 
 **5. Parte problematica:** "Kim Hill è un antropologo... Al decimo anno, dopo molte interviste e spiegazioni circa la depressione a queste tribù, **molte persone hanno iniziato a lamentare pessimismo e sintomi depressivi**."
 *   **Poca prudenza:** 8/10
@@ -2105,11 +2025,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 9/10
 *   **Critica:** La dicotomia "si trasforma in coraggio" vs. "la paura cresce perché ci auto dimostriamo di non saper affrontare" è troppo rigida. Sebbene l'esposizione e l'affrontare le paure siano fondamentali, la trasformazione in "coraggio" non è sempre un processo automatico o garantito. Inoltre, la non-affrontazione non sempre porta a una crescita esponenziale della paura per *tutti*; ci possono essere altre dinamiche.
 *   **Riscrizione:** "Se impariamo ad affrontare le paure, **questo processo può contribuire a sviluppare il coraggio, mentre un evitamento persistente rischia di rafforzare la paura, alimentando la convinzione di non essere in grado di gestire tali situazioni**."
-
-**5. Parte problematica:** "E qui troviamo un paradosso: per vivere una vita piena e realizzare quello che sono le nostre inclinazioni, serve il coraggio, che però deriva dalla paura; Quindi **se seguiamo questa linea logica, senza paura non c'è felicità**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "senza paura non c'è felicità" è una conclusione logica estremamente assoluta e pessimistica, che nonostante l'autore la definisca "chiaramente una generalizzazione", la presenta come un esito inevitabile di una "linea logica". È una dicotomia dannosa che implica che per essere felici si debba costantemente provare paura, sminuendo la possibilità di felicità in assenza di paura intensa o di confronto con essa.
-*   **Riscrizione:** "E qui troviamo un paradosso: per vivere una vita piena e realizzare le nostre inclinazioni, serve il coraggio, che però deriva dalla capacità di affrontare la paura. Quindi, **secondo questa prospettiva, la gestione della paura è un elemento cruciale per il raggiungimento di una profonda felicità**, anche se non è l’unico o indispensabile fattore per sperimentare la felicità."
 
 **6. Parte problematica:** "Il benessere, invece, è una piattaforma strutturale di condizioni utili per poter essere felici, **ma non necessariamente genera piacere**."
 *   **Poca prudenza:** 7/10
@@ -2298,11 +2213,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** L'affermazione "sono la stessa cosa" è una verità metafisica nel Taoismo che, se presa letteralmente, può essere molto difficile da comprendere e applicare in un contesto non spirituale, e appare come una dicotomia forzata nel linguaggio comune.
 *   **Riscrizione:** "Desiderio e non-desiderio non sono opposti in senso assoluto, ma **possono essere visti come due manifestazioni interconnesse della stessa realtà, proprio come l'onda è parte del mare**."
 
-**17. Parte problematica:** "Nel momento in cui non credi alle persone, **le rendi bugiarde**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "le rendi bugiarde" è una predizione causale estremamente forte e assoluta. Sebbene la diffidenza possa influenzare le relazioni e le persone possano reagire, negare il libero arbitrio altrui e attribuire la "bugia" alla propria non-credenza è una forma di pensiero magico e una generalizzazione pericolosa.
-*   **Riscrizione:** "Nel momento in cui non credi alle persone, **si può innescare una dinamica relazionale che le rende più propense a non essere sincere, contribuendo involontariamente a una percezione negativa**."
-
 **18. Parte problematica:** "Nel momento in cui perdoni le persone, **le hai prima rese colpevoli**."
 *   **Poca prudenza:** 9/10
 *   **Critica:** L'affermazione "le hai prima rese colpevoli" è un'affermazione assoluta e un po' giudicante sul processo del perdono. Il perdono spesso segue un riconoscimento (personale o interpersonale) di un'offesa, non una "creazione" della colpa da parte di chi perdona.
@@ -2344,11 +2254,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Critica:** L'affermazione "è il suo peggior nemico" è una dicotomia estremamente forte e assoluta. Sebbene l'attaccamento disfunzionale possa causare sofferenza, l'attaccamento alla vita (inteso come vitalità, desiderio di vivere, apprezzamento) non è intrinsecamente un "nemico", ma un motore di esistenza. La frase è molto dura e poco sfumata.
 *   **Riscrizione:** "L’attaccamento eccessivo alla vita, inteso come brama di possesso e paura della perdita, **può rivelarsi un ostacolo significativo al benessere autentico**."
 
-**4. Parte problematica:** "Vivere con frenesia e bramosia ti fa scivolare via l’esistenza tra le dita, come sabbia: **invece di vivere, ti ritrovi catapultato verso la morte senza nemmeno accorgertene**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** Questa è un'affermazione estremamente catastrofica e assoluta ("ti ritrovi catapultato verso la morte senza nemmeno accorgertene"). Sebbene la frenesia possa portare a una vita meno consapevole, la conclusione è un'iperbole drammatica che nega qualsiasi forma di consapevolezza o esperienza nel processo.
-*   **Riscrizione:** "Vivere con frenesia e bramosia ti fa scivolare via l’esistenza tra le dita, come sabbia: **si rischia così di perdere la pienezza del presente e di giungere alla fine del percorso senza averlo pienamente vissuto con consapevolezza**."
-
 ---
 **Critiche al testo tratto da Zhuangzi (è un testo antico, quindi la critica è sul modo in cui è presentato nel contesto moderno, non sulla sua filosofia intrinseca):**
 
@@ -2363,16 +2268,6 @@ Il testo di Zhuangzi è di per sé un'opera filosofica antica, e le sue affermaz
 *   **Poca prudenza:** 9/10 (nel contesto di un testo moderno)
 *   **Critica:** Affermazioni così assolute ("non rimpiangerlo", "non curarsene") descrivono un ideale di distacco emotivo estremo. Sebbene il non-attaccamento sia un principio taoista, la completa assenza di rimpianto o preoccupazione è un obiettivo elevatissimo e può sembrare disumano o irraggiungibile.
 *   **Riscrizione (contestualizzata):** "Un saggio con tale disposizione d'animo **era capace di accettare gli errori senza indulgere nel rimpianto e di accogliere il successo senza lasciarsene turbare eccessivamente**..."
-
-**7. Parte problematica (dal testo di Zhuangzi):** "L’autentico uomo dei tempi antichi **dormiva senza sogni e si svegliava senza preoccupazioni**."
-*   **Poca prudenza:** 10/10 (nel contesto di un testo moderno)
-*   **Critica:** L'affermazione "dormiva senza sogni" è fisiologicamente impossibile per un essere umano (si sognano anche se non si ricordano) e "si svegliava senza preoccupazioni" è un ideale estremo. Sono metafore per un profondo stato di pace, ma presentate come realtà biologica o esperienza comune, sono assolutistiche e irrealistiche.
-*   **Riscrizione (contestualizzata):** "L'autentico saggio dei tempi antichi **riposava con una tale serenità da non essere turbato dai sogni e si destava libero da affanni**."
-
-**8. Parte problematica (dal testo di Zhuangzi):** "Mangiando era indifferente ai sapori e **il suo respiro veniva dal profondo. Respirava con i calcagni, mentre la massa degli uomini respira solo con la gola**..."
-*   **Poca prudenza:** 10/10 (nel contesto di un testo moderno)
-*   **Critica:** L'affermazione "respirava con i calcagni" è un'iperbole letterale che, se non chiarita come metafora di una respirazione profonda e consapevole, è biologicamente impossibile e assolutistica, creando una dicotomia tra un modo "giusto" e uno "sbagliato" di respirare.
-*   **Riscrizione (contestualizzata):** "Mangiando era indifferente ai sapori e **il suo respiro era profondamente radicato, come se l'energia fluisse fino ai calcagni, a differenza della superficialità della respirazione della maggior parte delle persone**."
 
 **9. Parte problematica (dal testo di Zhuangzi):** "L’autentico uomo dei tempi antichi **non amava la vita né odiava la morte**."
 *   **Poca prudenza:** 9/10 (nel contesto di un testo moderno)
@@ -2530,11 +2425,6 @@ Ecco l'elenco delle parti del testo che risultano assolutistiche, dicotomiche o 
 *   **Poca prudenza:** 8/10
 *   **Critica:** L'affermazione "se desideri migliorare, va bene; se non lo desideri, va bene comunque" è troppo relativistica e potenzialmente fuorviante. Sebbene il non-dualismo promuova l'accettazione, questa frase può essere interpretata come un'indifferenza totale alla crescita personale o a comportamenti dannosi. Negare qualsiasi distinzione di valore è problematico.
 *   **Riscrizione:** "Al contrario, nel non dualismo, queste divisioni vengono trascendente: **se desideri migliorare, tale desiderio può essere accolto; se non provi tale desiderio, anche questa condizione viene accettata nel flusso dell'esistenza, senza giudizio intrinseco**."
-
-**11. Parte problematica:** "Non tutti sono destinati a diventare eroi morali o santi celebrati, né tutti possono vagare senza gli obblighi legati alla famiglia. Allo stesso modo, non è dato a tutti essere una moglie generosa o un marito esemplare. E ancora, **non tutti hanno la capacità di accettarsi pienamente come farebbe un fatalista sereno, contento di essere una semplice erbaccia senza ambire a diventare una rosa**."
-*   **Poca prudenza:** 10/10
-*   **Critica:** L'affermazione "non tutti hanno la capacità di accettarsi pienamente come farebbe un fatalista sereno, contento di essere una semplice erbaccia senza ambire a diventare una rosa" è una descrizione eccessivamente stereotipata, giudicante e dicotomica. L'immagine della "erbaccia senza ambizione" è riduttiva e offensiva, suggerendo che l'accettazione di sé equivalga a una mancanza di valore o aspirazione. È una forte imprudenza.
-*   **Riscrizione:** "Non tutti sono destinati a diventare eroi morali o santi celebrati, né tutti possono vagare senza gli obblighi legati alla famiglia. Allo stesso modo, non è dato a tutti essere una moglie generosa o un marito esemplare. E ancora, **non tutti trovano facile accettarsi pienamente, magari lottando con l'aspirazione al cambiamento anche quando ciò comporta insoddisfazione, senza accontentarsi di un'auto-accettazione passiva**."
 
 **12. Parte problematica:** "Accettarsi completamente o cercare di cambiare rinunciando all'io, sono scelte ugualmente sterili, **perché non garantiscono che il risultato rappresenti davvero la nostra essenza**."
 *   **Poca prudenza:** 9/10
@@ -2863,11 +2753,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** L'uso di "solo" e la dicotomia "bene o male" / "speranza o ansia" semplifica eccessivamente la complessità delle emozioni e delle possibilità legate al futuro, ignorando sfumature come la curiosità, l'indifferenza, la determinazione, ecc.
     *   **Poca Prudenza:** 8/10
     *   **Riscrittura:** "Nel futuro, le nostre proiezioni possono suscitare **emozioni che oscillano tra la speranza e l'ansia, a seconda delle nostre aspettative**."
-
-14. **Parte problematica:** "Fateci caso, quando proviamo dei sentimenti negativi **non fanno riferimento al presente**."
-    *   **Critica:** Questa è un'affermazione assoluta e palesemente falsa per molti tipi di sentimenti negativi (es. dolore fisico immediato, frustrazione per un evento in corso, irritazione per un rumore attuale). Molti sentimenti negativi *sono* direttamente ancorati al presente.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Fateci caso, **spesso** i sentimenti negativi **che ci assillano non sono legati a una minaccia immediata nel presente, ma piuttosto a pensieri sul passato o sul futuro**." (o "non si riferiscono *esclusivamente* al presente").
 
 15. **Parte problematica:** "Poche cosa sono definitive, irrisolvibili, se sentite che al lavoro o la società vi sta chiedendo troppo e, avete paura di non riuscire a tenere il passo, chiedetevi, cosa succederebbe se mollaste? **Tante volte le risposte che ci diamo, non sono sicuramente piacevoli, ma nemmeno così terribili o irrisolvibili.**"
     *   **Critica:** Sebbene sia un buon esercizio mentale, l'affermazione "nemmeno così terribili o irrisolvibili" è una generalizzazione eccessivamente ottimistica e imprudente. Per molte persone, "mollare" in contesti come il lavoro o la società può avere conseguenze effettivamente terribili o molto difficili da risolvere.
