@@ -28,11 +28,6 @@ Inserire i ringraziamenti
     *   **Critica:** L'aggettivo "infinite" è un assoluto. Sebbene il sapere sia vastissimo e in continua espansione, definirle "infinite" ramificazioni è un'iperbole. Suggerisce una quantità illimitata in senso matematico, quando si intende un'ampiezza molto grande.
     *   **Riscritura proposta:** "Più ci si addentra nello studio e nella conoscenza, più ci si rende conto delle innumerevoli e complesse ramificazioni del sapere."
 
-7.  **Parte problematica:** "La conoscenza diviene pertanto un processo in divenire e mai del tutto esaurito."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "mai del tutto esaurito" è un assoluto che, sebbene concettualmente vero per il sapere umano nel suo complesso, può essere fuorviante a livello individuale o per settori specifici. Si possono esaurire certi ambiti di conoscenza o raggiungere una padronanza sufficiente. "Mai del tutto" è una sfumatura, ma rimane molto forte.
-    *   **Riscritura proposta:** "La conoscenza diviene pertanto un processo in continuo divenire, che raramente può considerarsi completamente esaurito."
-
 ************************
 
 Certamente, ecco l'analisi delle parti del testo che presentano assolutismi, dicotomie o mancanza di prudenza, con i relativi punteggi e proposte di riscrittura.
@@ -125,11 +120,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Poca prudenza:** 8/10
     *   **Critica:** Questo è un assoluto eccessivamente rigido. Mentre cambiare solo per compiacere gli altri senza coerenza con sé stessi è inautentico, il cambiamento (e l'adattamento) in risposta al feedback o alle relazioni con gli altri è una parte normale e spesso sana della crescita personale e sociale. Un cambiamento autentico può benissimo essere ispirato o motivato dagli altri.
     *   **Riscritura proposta:** "Non dovremmo sentirci costretti a cambiare la nostra essenza unicamente per conformarci alle aspettative altrui, rinunciando alla nostra autenticità."
-
-6.  **Parte problematica:** "Gli altri possono scegliere se stare con noi o no."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** Sebbene sia vero in linea di principio, la formulazione è molto dicotomica e quasi aggressiva nel suo "o no". Si può scegliere di stare insieme ma a condizioni diverse, o con compromessi. Non è sempre una scelta binaria così netta.
-    *   **Riscritura proposta:** "Gli altri possono liberamente decidere se, e come, desiderano continuare la relazione con noi."
 
 7.  **Parte problematica:** "Io sono questo, è giusto che io possa fare le mie scelte, e tracciare, con anche gli errori, la mia via."
     *   **Poca prudenza:** 6/10
@@ -249,11 +239,6 @@ Certamente, ecco l'analisi delle parti del testo che presentano assolutismi, dic
     *   **Poca prudenza:** 9/10
     *   **Critica:** L'affermazione "non può cambiare la nostra personalità o il nostro umore sul lungo periodo" è un assoluto molto forte e controverso in psicologia. Sebbene la "personalità" intesa come tratti di base sia stabile, tecniche cognitive e comportamentali (inclusa la modificazione delle credenze e delle auto-suggestioni) possono avere un impatto significativo sull'umore e anche su aspetti della personalità nel lungo periodo, specialmente se integrate in un percorso più ampio. Nega la plasticità mentale e l'efficacia di interventi terapeutici e di auto-miglioramento.
     *   **Riscritura proposta:** "Questo effetto agisce però entro certi limiti: da solo, potrebbe non essere sufficiente a produrre cambiamenti radicali e duraturi nella nostra personalità profonda o nell'umore cronico."
-
-5.  **Parte problematica:** "Non basta ripetersi di essere milionari o felici per diventarlo."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** Sebbene sia un'affermazione di buon senso, l'uso di "non basta" può sottintendere che non abbia *alcun* ruolo. La visualizzazione e la mentalità positiva possono essere *parte* di un processo, ma chiaramente non sono sufficienti da sole. La frase è prudente nell'affermazione del "non basta", ma il suo posizionamento potrebbe essere letto come una totale denigrazione di quel tipo di approccio.
-    *   **Riscritura proposta:** "Semplicemente ripetersi di essere milionari o felici non è sufficiente per trasformare la realtà o il proprio stato emotivo nel lungo termine."
 
 6.  **Parte problematica:** "Allo stesso modo vale anche al contrario, se mi dico che sono un imbranato, non è che lo diventerò."
     *   **Poca prudenza:** 8/10
@@ -543,11 +528,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Critica:** L'estensione del concetto di "dipendenza" a "il non poter sbagliare" è una forzatura linguistica che diluisce il significato clinico e psicologico del termine. Sebbene l'evitamento del fallimento possa essere un comportamento compulsivo con dinamiche simili, chiamarlo "dipendenza" senza qualificarlo è impreciso e potrebbe essere fuorviante.
     *   **Riscritura proposta:** "...ma in realtà il concetto si estende a molteplici comportamenti e schemi, come la dipendenza da smartphone, televisione o, più in generale, dall'intrattenimento costante. Include anche comportamenti compulsivi verso gli zuccheri, la paura patologica di sbagliare, le dipendenze affettive e tutto ciò verso cui tendiamo compulsivamente e a cui facciamo fatica a rinunciare."
 
-7.  **Parte problematica:** "Quando si parla di dipendenze pensiamo sempre alle droghe, all'alcohol, al gioco d'azzardo, ma in realtà sono molte di più..."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'uso di "sempre" è un assoluto. Molte persone sono già consapevoli di dipendenze non chimiche. La frase è utilizzata per introdurre l'allargamento del concetto, ma la sua formulazione è un po' generalizzante.
-    *   **Riscritura proposta:** "Quando si parla di dipendenze, la nostra mente si orienta spesso verso le sostanze (droghe, alcol) o il gioco d'azzardo, ma in realtà il panorama è molto più vasto..."
-
 8.  **Parte problematica:** "Un giorno, Freud si trovava alla festa di Capodanno organizzata da Jean-Martin Charcot... L'uomo risponde che lo sta facendo perché piove, ma Freud gli fa notare che sono al chiuso. L'uomo, incapace di rispondere adeguatamente, continua a cercare una spiegazione, dicendo che ne aveva voglia, senza rendersi conto di essere stato ipnotizzato e di seguire degli ordini."
     *   **Poca prudenza:** 9/10
     *   **Critica:** Questo aneddoto è un classico della letteratura psicoanalitica, ma è spesso citato con poca prudenza come se fosse un esperimento scientifico riproducibile e rigorosamente documentato. La sua veridicità storica come "esperimento" è molto dibattuta e non ci sono fonti primarie affidabili che lo descrivano come un evento verificabile in dettaglio. Presentarlo come un fatto scientifico o un "esperimento" senza contestualizzare la sua natura aneddotica è imprudente.
@@ -679,11 +659,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
 
 ### Elenco delle parti problematiche:
 
-1.  **Parte problematica:** "Quest'ultimo punto in particolare da molta forza al metodo." (riferito alla Peer Review)
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** Sebbene la peer review sia un pilastro della scienza, l'affermazione "da molta forza al metodo" è un assoluto che ignora le ben note critiche e limitazioni della peer review (es. lentezza, bias dei revisori, difficoltà nel rilevare frodi). Non è un meccanismo infallibile.
-    *   **Riscritura proposta:** "La peer review, in particolare, è un meccanismo che conferisce notevole robustezza al metodo scientifico."
-
 2.  **Parte problematica:** "Abbiamo visto spesso durante gli anni, anche con la pandemia di Covid 19 che alcuni medici, scienziati, premi nobel possono dire cose contrastanti a quello che dice la scienza."
     *   **Poca prudenza:** 8/10
     *   **Critica:** L'espressione "contrastanti a quello che dice la scienza" crea una dicotomia fuorviante. La "scienza" non è un'entità monolitica che "dice" una cosa sola; è un processo di dibattito, evidenze e consenso in evoluzione. Le voci contrastanti (anche di esperti) sono parte del processo scientifico e non necessariamente "contro" la scienza in sé, ma spesso contro il *consenso* scientifico o interpretazioni prevalenti.
@@ -746,11 +721,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Critica:** La dicotomia "piuttosto che cercare informazioni che confermino le nostre idee" è troppo netta. Non è un'alternativa esclusiva. Si può imparare a convivere con l'incertezza E, allo stesso tempo, continuare a cercare informazioni, con l'accortezza di non limitarsi a quelle che confermano i propri bias. La ricerca di conferme è un bias, ma non è l'unica alternativa all'accettazione dell'incertezza.
     *   **Riscritura proposta:** "A volte, è fondamentale accettare che certe domande non hanno (ancora) una risposta definitiva e imparare a convivere con l'incertezza, impegnandosi a cercare informazioni in modo aperto e critico, superando la sola ricerca di conferme alle nostre idee."
 
-3.  **Parte problematica:** "Quindi la scienza non ha bias?"
-    *   **Poca prudenza:** 4/10
-    *   **Critica:** Domanda retorica che crea una dicotomia implicita troppo netta (scienza senza bias vs. scienza con bias). Sebbene l'intento sia quello di introdurre il concetto di bias nella scienza, la domanda nella sua formulazione iniziale semplifica troppo la questione.
-    *   **Riscritura proposta:** "Ci si potrebbe chiedere: il metodo scientifico è immune ai bias?"
-
 4.  **Parte problematica:** "Chi più chi meno, siamo influenzati da questo provincialismo culturale, ovvero prendere il proprio piccolo mondo e chiamarlo Il Mondo! Affacciarsi dalla propria finestra e credere che quello sia Il Mondo."
     *   **Poca prudenza:** 8/10
     *   **Critica:** L'affermazione "Chi più chi meno, siamo influenzati da questo provincialismo culturale" è un assoluto universale che, sebbene abbia un fondo di verità (tutti hanno prospettive limitate), la parola "provincialismo" ha una connotazione negativa forte che non si applica universalmente a tutti i limiti di prospettiva. La metafora "chiamarlo Il Mondo! Affacciarsi dalla propria finestra e credere che quello sia Il Mondo" è un'altra forte generalizzazione che drammatizza la situazione.
@@ -766,11 +736,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Critica:** L'affermazione "I primi risultati sono i più pertinenti" è un assoluto che dipende dall'algoritmo di ricerca e dalla query. Non è sempre vero che i primi risultati siano i *più* pertinenti per ogni utente o per ogni scopo di ricerca, specialmente per un "non addetto ai lavori" che potrebbe non formulare la ricerca nel modo più efficace.
     *   **Riscritura proposta:** "I primi risultati tendono a essere quelli che l'algoritmo giudica più pertinenti. Una volta scelto l'articolo che ci interessa, è consigliabile esaminare la rivista in cui è stato pubblicato."
 
-7.  **Parte problematica:** "Riviste con un rigoroso processo di revisione paritaria sono generalmente considerate più affidabili, ma questo può essere complicato da valutare anche con delle ricerche su Google per un non addetto ai lavori."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "può essere complicato da valutare anche con delle ricerche su Google per un non addetto ai lavori" è una generalizzazione che potrebbe sottovalutare la capacità di ricerca di alcuni utenti o l'efficacia delle guide online. "Complicato" è un giudizio soggettivo che, presentato come universale, può essere un po' scoraggiante.
-    *   **Riscritura proposta:** "Riviste con un rigoroso processo di revisione paritaria sono generalmente considerate più affidabili. Tuttavia, per un non addetto ai lavori, valutare la robustezza di questo processo può risultare impegnativo, anche con l'aiuto di ricerche su Google."
-
 ************************
 
 Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, dicotomie o mancanza di prudenza, con i relativi punteggi e proposte di riscrittura.
@@ -783,16 +748,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Poca prudenza:** 8/10
     *   **Critica:** L'affermazione "dobbiamo delegare questa responsabilità alla rivista scientifica" è un assoluto eccessivamente forte e semplificatorio. Sebbene la reputazione della rivista (misurata anche dall'Impact Factor) sia un indicatore utile, delegare *tutta* la responsabilità di valutazione è pericoloso. L'Impact Factor non misura la qualità metodologica o la validità di un singolo studio, e fidarsi ciecamente di esso è un errore. Il testo stesso poi mitiga questa affermazione, ma nella sua formulazione iniziale è imprudente.
     *   **Riscritura proposta:** "Non avendo sempre le competenze necessarie per valutare autonomamente ogni aspetto di uno studio, possiamo affidarci alla reputazione della rivista scientifica e a indicatori come l'Impact Factor per orientarci inizialmente sulla sua serietà."
-
-2.  **Parte problematica:** "Un alto numero di citazioni può indicare che lo studio ha avuto un impatto nel campo, ma non necessariamente che sia stato considerato valido da tutti i ricercatori."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "non necessariamente che sia stato considerato valido da tutti i ricercatori" è un po' eccessiva nel suo assoluto "tutti". Non è un problema gravissimo, ma è quasi tautologico dire che non *tutti* sono d'accordo, dato che il consenso universale è raro in scienza.
-    *   **Riscritura proposta:** "Un alto numero di citazioni può indicare che lo studio ha avuto un impatto significativo nel campo, anche se non implica un'accettazione unanime della sua validità da parte di ogni ricercatore."
-
-3.  **Parte problematica:** "Valutare la serietà della rivista può essere un buon primo passo, ma non garantisce da solo l’affidabilità dello studio, poiché anche le riviste autorevoli possono occasionalmente pubblicare ricerche con limiti metodologici."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** "non garantisce da solo l'affidabilità dello studio" è una mitigazione essenziale, ma la formulazione è ancora leggermente dicotomica. L'affidabilità è un continuum, non un sì/no.
-    *   **Riscritura proposta:** "Valutare la serietà della rivista è un buon primo passo, ma non costituisce una garanzia assoluta dell'affidabilità di ogni singolo studio, poiché anche le pubblicazioni più autorevoli possono occasionalmente presentare ricerche con limiti metodologici."
 
 4.  **Parte problematica:** "Un altro controllo molto veloce e che aumenta di molto la credibilità di uno studio è vedere quante volte l'articolo è stato citato da altre ricerche."
     *   **Poca prudenza:** 7/10
@@ -823,24 +778,10 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Critica:** L'affermazione "forse non vale la pena dargli ampio spazio mediatico" è un giudizio di valore assoluto e potenzialmente pericoloso. Il valore di una notizia non è *solo* dato dal numero di persone coinvolte direttamente. Anche un singolo caso isolato (es. un'ingiustizia, una violenza) può avere un enorme valore sociale, etico, investigativo o di denuncia, e può meritare ampio spazio mediatico per la sua esemplarità o per innescare un dibattito, indipendentemente dal numero di persone direttamente interessate.
     *   **Riscritura proposta:** "Bisognerebbe chiedersi: qual è la rilevanza di questa vicenda per la collettività? Se si tratta di un caso isolato che non indica un trend o una problematica sistemica, potrebbe essere opportuno modulare lo spazio mediatico, pur riconoscendo il valore intrinseco di ogni singola storia."
 
-9.  **Parte problematica:** "Al contrario, questioni che toccano la vita di milioni di persone, come casi di corruzione politica o temi d'interesse pubblico, meritano maggiore visibilità."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "meritano maggiore visibilità" è un assoluto. Sebbene l'intento sia giusto, non è sempre e solo il numero di persone a definire il "merito" di una notizia.
-    *   **Riscritura proposta:** "Al contrario, questioni che toccano la vita di milioni di persone, come casi di corruzione politica o temi d'interesse pubblico, necessitano di una visibilità proporzionale alla loro importanza e impatto."
-
 10. **Parte problematica:** "L’aspetto più subdolo e crudele della cronaca, forse anche in modo involontario, è che finisce per indurre le persone, che vivono in un Paese tra i più sicuri al mondo, a condurre un’esistenza dominata dalla paura."
     *   **Poca prudenza:** 9/10
     *   **Critica:** L'affermazione "L'aspetto più subdolo e crudele" è un assoluto iperbolico e giudicante. La "paura" è un'emozione complessa, e attribuire alla cronaca la *causa principale* di un'esistenza "dominata dalla paura" è una generalizzazione estrema e un determinismo mediatico eccessivo. Ci sono molti altri fattori che influenzano la percezione del rischio e l'ansia nella società.
     *   **Riscritura proposta:** "Un effetto spesso problematico della cronaca è che, concentrandosi su eventi negativi, può contribuire a una percezione del rischio distorta e, talvolta, indurre un senso di paura eccessivo tra le persone, anche in contesti relativamente sicuri."
-
----
-
-*(Inizia la sezione Altri punti:)*
-
-11. **Parte problematica:** "Gli autori rispettabili e le istituzioni rinomate possono aumentare la credibilità della ricerca."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'uso di "possono aumentare" è corretto. Ma l'implicazione potrebbe essere letta come un leggero appello all'autorità, pur essendo una guida pratica.
-    *   **Riscritura proposta:** "L'affiliazione degli autori a istituzioni accademiche o di ricerca riconosciute, e la loro comprovata esperienza nel campo, tendono a rafforzare la credibilità della ricerca."
 
 ************************
 
@@ -861,18 +802,6 @@ Certamente, ecco l'analisi delle parti del testo che presentano assolutismi, dic
     *   **Riscritura proposta:** "Quindi, se leggete un articolo su internet che cita ricerche, è fondamentale verificare la presenza degli estremi dell'articolo originale, in modo da poterlo consultare per una comprensione più approfondita e sviluppare un approccio critico, anche di fronte a numeri e grafici."
 
 ---
-
-*(Inizia la sezione Giornali)*
-
-3.  **Parte problematica:** "Questi tre grafici che ritroviamo sul libro mostrano i risultati di test di matematica divisi tra uomini e donne."
-    *   **Poca prudenza:** 4/10
-    *   **Critica:** L'affermazione è un fatto, ma nel contesto di un libro che critica la presentazione dei dati, è importante essere precisi. I grafici sono presi *da* un libro, ma sono *i risultati di test*, non i grafici del libro in sé. Piccola imprecisione di linguaggio.
-    *   **Riscritura proposta:** "Questi tre grafici, presenti nel libro, illustrano i risultati di test di matematica suddivisi per genere."
-
-4.  **Parte problematica:** "Se guardiamo il primo grafico, dove sono mostrate le medie dei test di matematica nei vari anni, vediamo che le donne conseguono un punteggio decisamente inferiore rispetto agli uomini, ma è davvero così?"
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "decisamente inferiore" è un giudizio di valore sul dato. Sebbene visivamente la differenza appaia tale, l'uso di "decisamente" è un po' interpretativo, e la domanda retorica "ma è davvero così?" presuppone già la risposta che seguirà.
-    *   **Riscritura proposta:** "Se guardiamo il primo grafico, che presenta le medie dei test di matematica nei vari anni, notiamo che le donne mostrano un punteggio mediamente inferiore rispetto agli uomini. Ma questa visualizzazione offre un quadro completo della realtà?"
 
 5.  **Parte problematica:** "Notiamo come i dati sono quasi sovrapponibili, non mostrando significative differenze tra uomini e donne."
     *   **Poca prudenza:** 6/10
@@ -927,11 +856,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Poca prudenza:** 7/10
     *   **Critica:** L'affermazione "sono molto complicate da spiegare o contro-intuitive" è una generalizzazione. Non *tutte* le cose semplici diventano "molto complicate" a un livello di dettaglio maggiore. La frase crea una dicotomia tra logica "ragionevole" e "realtà" che "dimostra essere sbagliato", semplificando la relazione tra intuizione, logica e scoperta scientifica.
     *   **Riscritura proposta:** "Anche alcuni fenomeni che a prima vista sembrano semplici, quando analizzati in profondità, possono rivelarsi complessi o contro-intuitivi; spesso, le spiegazioni che la logica del senso comune suggerirebbe si dimostrano non corrispondere alla realtà osservata."
-
-5.  **Parte problematica:** "Quindi come posso scegliere qual è la versione giusta?"
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** La domanda retorica "come posso scegliere qual è la versione giusta?" implica una scelta tra versioni mutuamente esclusive. A volte la "versione giusta" è una sintesi o un modello complesso. L'uso di "giusta" è un assoluto.
-    *   **Riscritura proposta:** "Quindi, come posso orientarmi tra le diverse narrazioni e scegliere quella più affidabile?"
 
 6.  **Parte problematica:** "Devo credere a qualcuno che lo sa verificare con i telescopi, o credere a qualcuno che è andato sullo spazio o, credere a qualcuno che scrive un post sui social? In qualunque caso mi dovrò fidare di qualcuno."
     *   **Poca prudenza:** 7/10
@@ -1098,11 +1022,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
 
 *(Inizia la sezione Felicità)*
 
-4.  **Parte problematica:** "Per alcune persone ansiose, questi consigli potrebbero farli stare ancora peggio o provocare una fame d'aria che li farà sentire ancora più ansiosi."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "li farà sentire ancora più ansiosi" è un assoluto deterministico. Sebbene sia un rischio reale, non è una conseguenza garantita per *tutte* le persone ansiose in *ogni* situazione.
-    *   **Riscritura proposta:** "Per alcune persone ansiose, questi consigli potrebbero non solo rivelarsi inefficaci, ma in certi casi acuire il loro disagio o provocare una sensazione di fame d'aria, rendendole ancora più ansiose."
-
 5.  **Parte problematica:** "O ancora, se non si conosce il trauma e si va a scavare, il rischio è quello di far rivivere alcune esperienze e recare un danno."
     *   **Poca prudenza:** 6/10
     *   **Critica:** L'affermazione "il rischio è quello di far rivivere alcune esperienze e recare un danno" è molto assertiva. Sebbene il rischio sia concreto e debba essere evitato, la formulazione è quasi come una certezza di "recar danno", mentre si tratta di un'alta probabilità, non una garanzia assoluta.
@@ -1126,11 +1045,6 @@ Certamente, ecco un'analisi delle parti del testo che presentano assolutismi, di
     *   **Poca prudenza:** 6/10
     *   **Critica:** Sebbene l'intento sia quello di promuovere il distacco dalle emozioni ("noi non siamo i nostri pensieri"), la formulazione è un po' assoluta e dicotomica. L'identificazione con le emozioni può essere un continuum. Negare completamente l'identità con lo stato emotivo ("non siamo tristi") può sminuire l'esperienza soggettiva di chi si sente "triste". È più accurato dire che le emozioni sono transitorie e non definiscono l'intera persona.
     *   **Riscritura proposta:** "Non siamo le nostre emozioni, ma piuttosto esseri che le provano: non siamo 'tristezza', ma 'stiamo provando tristezza'; non siamo 'rabbia', ma 'stiamo provando rabbia'."
-
-9.  **Parte problematica:** "Accettare i pensieri negativi è parte del processo, senza cercare di reprimerli a tutti i costi."
-    *   **Poca prudenza:** 5/10
-    *   **Critica:** L'affermazione "senza cercare di reprimerli a tutti i costi" è un assoluto. Sebbene la repressione cronica sia dannosa, esistono forme di soppressione o distrazione consapevole che possono essere utili a breve termine in determinate situazioni, come strategie di coping.
-    *   **Riscritura proposta:** "Accettare i pensieri negativi è parte fondamentale del processo, evitando di reprimerli in modo sistematico o dannoso."
 
 10. **Parte problematica:** "Giudicare non è il male, è importante fare valutazioni. Dobbiamo smettere di giudicare i nostri pensieri ma non le nostre azioni, che non devono nuocere oggettivamente agli altri."
     *   **Poca prudenza:** 9/10
@@ -3008,11 +2922,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "Quando sentiamo sorgere un malessere, non dovremmo fuggire, perché questa condizione **può essere un segnale che ci invita a esplorare una parte di noi stessi che potremmo aver represso. Spesso, il malessere può indicare la necessità di un cambiamento o di una maggiore consapevolezza, suggerendoci una direzione da intraprendere**."
 
-2.  **Parte problematica:** "Non ha senso quindi ragionare sulle nostre emozioni, **vanno solo guardate**."
-    *   **Critica:** L'uso di "solo" e "non ha senso ragionare" è una dicotomia estremamente assolutistica e poco prudente. Mentre l'osservazione non giudicante è una pratica utile (es. mindfulness), l'analisi e la comprensione razionale delle emozioni (es. nella terapia cognitiva) sono altrettanto fondamentali e non mutuamente esclusive.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "È opportuno quindi **imparare a osservare le nostre emozioni senza giudizio, sebbene anche la loro comprensione razionale possa essere un passo importante.**"
-
 3.  **Parte problematica:** "Vengono perché ti voglio ricordare di te, di cose che ti sei dimenticato, lati di te messi a tacere. **Gli Stati d'animo che definiamo negativi vengono per cancellare il personaggio che stiamo recitando.**"
     *   **Critica:** L'affermazione sulla "cancellazione del personaggio" è una teleologia forte e un po' mistica per tutti gli stati d'animo negativi, presentata come unica verità. Anche qui, ignora le molteplici cause e funzioni del malessere psicologico.
     *   **Poca Prudenza:** 9/10
@@ -3037,11 +2946,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** La metafora stoica è presentata come una verità letterale e assoluta sulla libertà umana ("non possiamo scegliere la strada"). Sebbene promuova l'accettazione, questa formulazione è estremamente deterministica e dicotomica, negando ogni forma di libero arbitrio o capacità di deviare il corso degli eventi o di influenzarli.
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "In entrambi i casi, la direzione fondamentale sarà la stessa, poiché il carro possiede una forza superiore a quella del cane. Pertanto, **sebbene il corso generale degli eventi possa essere fuori dal nostro controllo, abbiamo la possibilità di affrontarlo con accettazione e armonia, o con resistenza e sofferenza.**"
-
-8.  **Parte problematica:** "Accogli serenamente il tuo destino, **anche gli insulti, la morte e la malattia, evitando di farti coinvolgere troppo emotivamente**, cercare il lato bello di ogni cosa e vedere il bicchiere mezzo pieno."
-    *   **Critica:** L'affermazione di "accogliere serenamente" e "evitando di farti coinvolgere troppo emotivamente" insulti, morte e malattia è un ideale stoico molto elevato, ma presentato come un'istruzione diretta e universalmente applicabile. È poco prudente e irrealistico suggerire che si possa o si debba evitare un forte coinvolgimento emotivo di fronte a tali eventi traumatici.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "È un invito ad accogliere con maggiore serenità il proprio destino, **cercando di non farsi sopraffare emotivamente anche di fronte a sfide difficili come gli insulti, la malattia o la perdita. L'obiettivo è sviluppare la capacità di trovare una prospettiva costruttiva o di accettazione in ogni circostanza, persino in quelle più dolorose.**"
 
 9.  **Parte problematica:** "Non hai fatto la scelta sbagliata! **Una parte di te ha preso la decisione che gli serviva per andare in quella direzione. La tua maturazione aveva bisogno di quelle scelte.**"
     *   **Critica:** L'affermazione "Non hai fatto la scelta sbagliata!" e le motivazioni successive sono un tentativo di rassicurazione eccessivamente assoluto. Sebbene l'apprendimento dagli errori sia fondamentale, negare l'esistenza di scelte oggettivamente "sbagliate" può minare la responsabilità personale o la capacità di valutazione critica. "Aveva bisogno di quelle scelte" è un determinismo psicologico molto forte.
@@ -3077,11 +2981,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** "Più ci metteranno a fare quello che devono" è un'affermazione assoluta e quasi antropomorfica sui pensieri. La resistenza può effettivamente prolungare l'intensità di certi pensieri, ma il concetto di "fare quello che devono" è impreciso.
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Più li ostacoliamo e **più potremmo prolungare la loro persistenza o la loro intensità**."
-
-16. **Parte problematica:** "Se senti di voler fare qualcosa è perché sei pronto a fare quella cosa, o meglio: il desiderio di fare qualcosa può essere un segnale importante da ascoltare, ma va anche valutato alla luce della nostra consapevolezza, delle nostre capacità e delle circostanze."
-    *   **Critica:** La prima frase "Se senti di voler fare qualcosa è perché sei pronto a fare quella cosa" è un'affermazione estremamente imprudente, idealistica e potenzialmente pericolosa. Il desiderio non è automaticamente sinonimo di prontezza, capacità o saggezza. È una visione ingenua del processo decisionale. La correzione successiva attenua, ma la frase iniziale è molto problematica.
-    *   **Poca Prudenza:** 10/10 (per la prima parte della frase)
-    *   **Riscrittura:** "Il desiderio di fare qualcosa può essere un segnale importante da ascoltare, **che merita di essere attentamente valutato alla luce della nostra consapevolezza, delle nostre capacità e delle circostanze attuali.**"
 
 ************************
 
@@ -3134,16 +3033,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "Perché se così fosse, se sto facendo una cosa che normalmente non farei, allora **potrebbe indicare che non sto agendo in piena autonomia, ma che sono influenzato da stimoli esterni o da schemi di comportamento osservati altrove**."
 
-10. **Parte problematica:** "Se non conosci quali sono i tasti che ti innescano allora **sei in balia della casualità e degli eventi esterni. Saranno quest'ultimi a decidere per te e a farti agire. Sarà l'ambiente esterno a muovere la tua vita e non più te stesso**."
-    *   **Critica:** Questa è una serie di affermazioni assolutistiche e deterministiche estremamente forti, che negano qualsiasi agency o autonomia all'individuo. La mancanza di consapevolezza rende *più vulnerabili*, ma non annulla completamente la capacità di scelta o l'influenza sul proprio percorso.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Se non conosci quali sono i meccanismi che ti attivano, allora **potresti trovarti maggiormente influenzato dalla casualità e dagli eventi esterni, rischiando che questi ultimi indirizzino le tue azioni e il corso della tua vita più di quanto tu stesso vorresti.**"
-
-11. **Parte problematica:** "nell'elenco delle interruzioni va aggiunto il 'phubbing,' ossia ignorare gli altri per guardare il telefono che rappresenta una forma di interruzione delle relazioni **ma anche i figli che interrompono le conversioni dei genitori o dei loro amici e che andrebbero quindi gestiti**."
-    *   **Critica:** L'affermazione che i figli che interrompono "andrebbero quindi gestiti" è estremamente imprudente e sconsiderata. Implica che i bambini siano un fastidio da "gestire" come un'interruzione tecnologica, senza riconoscere la loro età, i loro bisogni di attenzione, o la complessità della relazione genitore-figlio. Il linguaggio è dicotomico (interruzione = problema da gestire).
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "nell'elenco delle interruzioni va aggiunto il 'phubbing,' ossia ignorare gli altri per guardare il telefono che rappresenta una forma di interruzione delle relazioni, **e si dovrebbe prestare attenzione anche alle interruzioni da parte dei figli durante le conversazioni dei genitori o con i loro amici, cercando strategie per bilanciare le esigenze di tutti.**"
-
 ************************
 
 Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotomiche o poco prudenti, con il relativo punteggio di "poca prudenza" e la riscrittura suggerita:
@@ -3154,11 +3043,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** L'affermazione "è lasciare che siano gli altri a scegliere per noi" è una dicotomia troppo forte. Sebbene il non agire possa implicare una delega di responsabilità, non significa *sempre* che siano *altri* a scegliere attivamente al nostro posto. A volte è il caso o la mancanza di opportunità.
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Anche il non scegliere è una scelta: **può significare permettere che le circostanze o le decisioni altrui influenzino il nostro percorso**."
-
-2.  **Parte problematica:** "Per diverse correnti filosofiche, come quelle orientali o lo stoicismo, **é possibile arrivare ad uno stato dove potenzialmente nulla può farci soffrire, nemmeno la morte o la malattia, il tuo animo può essere sereno qualsiasi cosa accada**."
-    *   **Critica:** Questa è un'affermazione estremamente assoluta e idealizzata sugli stati di imperturbabilità. Sebbene queste filosofie puntino a una maggiore resilienza, il suggerimento che "nulla può farci soffrire, nemmeno la morte o la malattia" è irrealistico per la maggior parte delle persone e potenzialmente dannoso, negando la legittimità del dolore umano.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Per diverse correnti filosofiche, come quelle orientali o lo stoicismo, **è possibile coltivare uno stato di maggiore serenità e accettazione, tale da ridurre l'impatto della sofferenza derivante dagli eventi esterni, inclusi quelli più difficili come la malattia o la morte.**"
 
 3.  **Parte problematica:** "Possiamo fare una guerra, anche metaforicamente, ma con la pace nel cuore."
     *   **Critica:** L'idea di "fare una guerra con la pace nel cuore" è una dicotomia quasi paradossale. Sebbene possa indicare un distacco emotivo, la frase è presentata come un ideale raggiungibile in modo assoluto e può minimizzare la gravità e le implicazioni di un conflitto (anche metaforico).
@@ -3174,11 +3058,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** "Probabilmente sta facendo il meglio che ha imparato a fare" è una generalizzazione ottimistica e potenzialmente ingenua. Sebbene l'intenzione possa essere positiva, non è vero che *tutti* facciano *sempre* il loro meglio o che agiscano solo per ignoranza e non per malizia o disfunzione.
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Spesso, le persone agiscono basandosi sulle loro conoscenze e capacità attuali, **facendo quello che credono sia il meglio in quel momento, o che hanno imparato a fare**."
-
-6.  **Parte problematica:** "L'unica fonte di sofferenza umana è che il mondo non sta accadendo come credo che dovrebbe accadere."
-    *   **Critica:** L'uso di "L'unica fonte" è un assoluto estremo. Questa è una visione specifica e radicale della sofferenza (spesso legata al buddhismo o allo stoicismo), ma è imprudente presentarla come l'unica e universale causa di tutta la sofferenza umana, ignorando dolore fisico, privazione, perdita, trauma, ingiustizia oggettiva, ecc.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Secondo alcune prospettive filosofiche, **una fonte significativa di sofferenza umana risiede nella discrepanza tra il modo in cui il mondo si manifesta e il modo in cui crediamo che dovrebbe essere.**"
 
 7.  **Parte problematica:** "A meno che non ci sia un reale problema o un ingiustizia che realmente impatterebbe sulla nostra vita, **spesso è meglio lasciar perdere**."
     *   **Critica:** "Spesso è meglio lasciar perdere" è una generalizzazione. Sebbene il distacco sia utile, non è sempre la soluzione migliore. Ci sono situazioni in cui intervenire è necessario per la propria integrità o per difendere altri, anche se non impattano "realmente" sulla propria vita immediata.
@@ -3220,11 +3099,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
 Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotomiche o poco prudenti, con il relativo punteggio di "poca prudenza" e la riscrittura suggerita:
 
 ---
-
-1.  **Parte problematica:** "Epitteto si limitò semplicemente a dire, che se avesse continuato così, la gamba si sarebbe rotta. Il padrone continuò finché non gli provocò una lesione che lo rese zoppo per tutta la vita. In questo esempio davvero estremo Epitteto ha voluto dimostrare che anche se avesse urlato la gamba si sarebbe rotta lo stesso, **lui però ha potuto scegliere di non vivere emozioni negative né durante l'accaduto, ne per i suoi restanti giorni da zoppo**."
-    *   **Critica:** L'affermazione che Epitteto "ha potuto scegliere di non vivere emozioni negative né durante l'accaduto, né per i suoi restanti giorni da zoppo" è un'interpretazione estrema e assolutistica della filosofia stoica, spesso romanticizzata e difficilmente replicabile per la maggior parte degli esseri umani. Negare completamente la presenza di emozioni negative (anche se gestite) di fronte a un dolore fisico così atroce e una disabilità permanente è poco prudente e irrealistico.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "In questo esempio davvero estremo, Epitteto ha voluto dimostrare che, pur di fronte a un evento inevitabile come la rottura della gamba, **è possibile esercitare un certo grado di controllo sulla propria risposta interiore, scegliendo di non farsi sopraffare dalle emozioni negative, né al momento dell'evento né per le conseguenze a lungo termine.**"
 
 2.  **Parte problematica:** "Il dolore è fisiologico, naturale e con una sua utile funzione, quella di scoraggiarci a farci del male. La sofferenza mentale può derivare da interpretazioni e giudizi interiori. Sebbene alcune forme di sofferenza abbiano una funzione evolutiva o riflessiva, **spesso diventano disfunzionali quando si cronicizzano o non vengono comprese**."
     *   **Critica:** La dicotomia "dolore è fisiologico, sofferenza mentale da interpretazioni" è troppo netta, sebbene l'idea sia corretta. Il "spesso diventano disfunzionali quando si cronicizzano o non vengono comprese" è una generalizzazione. Non tutta la sofferenza non compresa è disfunzionale e non tutta la sofferenza cronica è necessariamente "disfunzionale" in tutti i sensi (es. dolore cronico incurabile).
@@ -3287,20 +3161,10 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Quindi, per assumere maggiore responsabilità emotiva, può essere più utile dire 'Sono arrabbiato con te', piuttosto che 'Mi hai fatto arrabbiare'."
 
-3.  **Parte problematica:** "Secondo Adler il passato e i traumi **non influenzano il presente**."
-    *   **Critica:** Questa è un'affermazione estremamente assoluta e clinicamente imprudente, che semplifica eccessivamente la complessa relazione tra passato, traumi e presente. Sebbene Adler abbia sottolineato l'orientamento al futuro e agli scopi, negare qualsiasi influenza del passato o dei traumi è un'iperbole pericolosa e non supportata dalla vasta letteratura sulla psicologia del trauma.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Secondo la psicologia adleriana, **l'attenzione si sposta dall'idea che il passato e i traumi determinino rigidamente il presente, ponendo invece l'accento sulla direzione e sugli scopi che l'individuo persegue nel qui e ora.**"
-
 4.  **Parte problematica:** "Se uno se ne sta chiuso in casa non è detto che sia per i traumi passati, ma per agire in linea coi propri scopi presenti (che potrebbe essere l'evitare il confronto con gli altri, come prevenzione alla sofferenza, o perché in questo modo viene compatito e si sente apprezzato)."
     *   **Critica:** Il "non è detto che sia per i traumi passati, ma per agire in linea coi propri scopi presenti" crea una dicotomia falsa e assolutizza la teleologia. Ignora che i "propri scopi presenti" possono essere *direttamente influenzati* o *derivati* proprio da traumi passati o da schemi appresi. Non c'è una separazione così netta.
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "Se una persona si ritira in casa, **secondo Adler, la causa non risiederebbe tanto nei traumi passati quanto piuttosto negli scopi che essa persegue nel presente** (come l'evitare il confronto per prevenire la sofferenza, o il desiderio di ottenere compassione e apprezzamento)."
-
-5.  **Parte problematica:** "Ad esempio, se ci fosse una guerra, non dovremmo dare la colpa al conflitto, ma **solo a noi stessi, in quanto ho sempre una scelta, posso decidere di sottrarmi dal combattimento, fuggire o addirittura togliermi la vita, ma non avendolo fatto, ho scelto la guerra**."
-    *   **Critica:** Questa è l'applicazione estrema e letterale del concetto di responsabilità sartriana, presentata come una verità universale e assoluta. "Solo a noi stessi" e "ho scelto la guerra" sono affermazioni dicotomiche che ignorano la coercizione, la mancanza di alternative reali e la complessità delle dinamiche di guerra. È filosoficamente provocatorio, ma imprudente come guida pratica.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Ad esempio, applicando questo concetto all'estremo, di fronte a una guerra, Sartre suggerirebbe che **la responsabilità ultima risieda nell'individuo stesso: pur in condizioni estreme, si ha sempre una scelta – come sottrarsi al combattimento, fuggire o persino togliersi la vita. Non scegliendo queste vie, si sarebbe implicitamente 'scelto' di partecipare al conflitto. Questa è una visione radicale dell'autonomia individuale.**"
 
 6.  **Parte problematica:** "L'essere umano è così costretto alla libertà e all'angoscia della scelta, perché **possiamo diventare qualsiasi cosa e, in queste infinite potenziali persone che possiamo diventare, dovremmo rinunciarne ad altre e, non potendo sapere a priori quale sia la scelta giusta, potremmo provare nausea**."
     *   **Critica:**
@@ -4734,11 +4598,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 6/10
     *   **Riscrittura:** "Se io mi dico: 'devo arrivare lì, ottenere quella cosa entro X tempo', potrei incontrare difficoltà, perché ci sono fattori indipendenti dal mio agire che possono interferire e demotivarmi, facendoci sentire non all'altezza." (la frase è già abbastanza prudente, ma si può aggiungere un'enfasi sulla gestione)
 
-6.  **Parte problematica:** "Non esiste una formula che vada bene per tutti."
-    *   **Critica:** L'affermazione "Non esiste una formula che vada bene per tutti" è un assoluto (nel senso che generalizza a tutti). Sebbene sia vera e prudente, in un elenco di critiche la segnalo per la sua forma.
-    *   **Poca Prudenza:** 4/10 (più una forma assoluta che un contenuto imprudente)
-    *   **Riscrittura:** "È importante riconoscere che **non esiste un'unica formula universale valida per tutti.**"
-
 7.  **Parte problematica:** "Non hai bisogno della motivazione per fare le cose ma di metodo."
     *   **Critica:** La dicotomia "non hai bisogno della motivazione... ma di metodo" è troppo rigida. Sebbene il metodo sia cruciale, la motivazione (anche quella minima) è quasi sempre un prerequisito per avviare o mantenere qualsiasi azione significativa. Non è un "o uno o l'altro".
     *   **Poca Prudenza:** 8/10
@@ -5902,11 +5761,6 @@ Ecco l'elenco delle parti del seguente testo che sono troppo assolutistiche, dic
     *   **Critica:** L'affermazione "non esiste ingiustizia nelle condizioni sfavorevoli" è estremamente assoluta e potenzialmente dannosa, in quanto nega un fondamentale concetto etico e di giustizia sociale. Sebbene le condizioni possano essere casuali, il termine "ingiustizia" si riferisce spesso alla percezione umana di ciò che è moralmente sbagliato o iniquo, anche in assenza di intento dannoso. "Non volte a farti danno" è un assoluto.
     *   **Poca Prudenza:** 10/10
     *   **Riscrittura:** "Con questa visione, invece, **la sofferenza derivante da condizioni sfavorevoli può essere interpretata come conseguenza di eventi casuali, privi di una volontà deliberata di causare danno, ridimensionando la nozione di un'ingiustizia intenzionale.**"
-
-5.  **Parte problematica:** "La morte è la misura definitiva, è il limite definitivo."
-    *   **Critica:** L'affermazione "definitiva" e "limite definitivo" sono assolute, ma nel contesto filosofico del testo (mortalità vs. immortalità), sono usate per sottolineare una realtà oggettiva e non sembrano imprudenti o ingiustificate, ma piuttosto una base del ragionamento.
-    *   **Poca Prudenza:** 4/10
-    *   **Riscrittura:** "La morte rappresenta il limite ultimo e inequivocabile dell'esistenza terrena."
 
 6.  **Parte problematica:** "Se hai desideri infiniti ma non hai la capacità di raggiungerli prepari la tua tristezza."
     *   **Critica:** L'affermazione "prepari la tua tristezza" è deterministica. Sebbene la discrepanza tra desiderio e capacità possa portare tristezza, non è una preparazione *garantita* della tristezza, e il grado di sofferenza varia.
@@ -8354,16 +8208,6 @@ La sezione sulle "strategie" e le "fallacie logiche" è, per sua natura, un elen
 *   **Poca prudenza:** 5/10
 *   **Riscrittura proposta:** "Appello all’autorità: Presentare l’opinione di una persona influente come prova sufficiente o definitiva di una tesi, senza ulteriori supporti logici o fattuali."
 
-**2. Parte del testo problematica:** "Screditamento totale: Ritenere che, se una persona commette un errore in un'affermazione, **tutto ciò che dice sia automaticamente falso o privo di valore.**"
-*   **Critica:** L'uso di "tutto ciò che dice sia automaticamente falso o privo di valore" è un assoluto. Sebbene l'errore sia corretto per definire la fallacia, la conseguenza "tutto ciò che dice" è l'esagerazione. Questa formulazione è però intrinseca alla definizione della fallacia stessa, che si basa proprio su questa generalizzazione indebita. È difficile criticarla senza snaturare la descrizione della fallacia.
-*   **Poca prudenza:** 4/10 (la formulazione è essenziale per descrivere la fallacia).
-*   **Riscrittura proposta:** (Mantiene la formulazione attuale, in quanto descrive accuratamente la natura della fallacia.)
-
-**3. Parte del testo problematica:** "Generalizzazione indebita: Supporre che ciò che è vero per una parte di una questione **debba necessariamente valere per l’intero insieme.**"
-*   **Critica:** Anche qui, "debba necessariamente valere per l'intero insieme" è l'elemento assoluto, ma è proprio ciò che definisce la fallacia della generalizzazione indebita. È la natura dell'errore logico.
-*   **Poca prudenza:** 4/10 (la formulazione è essenziale per descrivere la fallacia).
-*   **Riscrittura proposta:** (Mantiene la formulazione attuale, in quanto descrive accuratamente la natura della fallacia.)
-
 **4. Parte del testo problematica:** "A tutte queste strategie si può rispondere chiedendo i dati, le fonti, ricordando che uno scienziato da solo, anche se è un premio nobel, **non fa la Scienza.**"
 *   **Critica:** L'affermazione "non fa la Scienza" è un assoluto. Sebbene la scienza sia un processo collettivo e verificabile, un singolo scienziato (anche un premio Nobel) può fare scoperte rivoluzionarie o proporre teorie che, seppur necessitino di verifica, rappresentano un contributo fondamentale alla "Scienza". La frase è un po' riduttiva del ruolo dell'individuo nel progresso scientifico, anche se il punto generale sulla verifica è valido.
 *   **Poca prudenza:** 6/10
@@ -9247,11 +9091,6 @@ Ecco un'analisi delle parti del testo che risultano troppo assolutistiche, dicot
 *   **Poca prudenza:** 7/10
 *   **Riscrittura proposta:** "Se si avverte una diminuzione della voglia di fare sesso, non è detto che la relazione stia necessariamente andando male. È comune che, in relazioni consolidate o in periodi di intensa vicinanza, l'intensità del desiderio possa evolvere o attenuarsi, richiedendo un approccio consapevole per essere mantenuto vivo."
 
-**10. Parte del testo problematica:** "Non tutte le relazioni sono uguali e con i medesimi bisogni o che le vostre serate sul divano debbano per questo sembrarvi meno preziose rispetto a coppie con una vita sessuale più attiva."
-*   **Critica:** La frase "non tutte le relazioni sono uguali e con i medesimi bisogni o che le vostre serate sul divano debbano per questo sembrarvi meno preziose rispetto a coppie con una vita sessuale più attiva" è ben formulata, ma potrebbe essere rafforzata per evitare qualsiasi ambiguità nel suggerire che la mancanza di sesso non diminuisca affatto il valore.
-*   **Poca prudenza:** 4/10 (Critica minore per completezza)
-*   **Riscrittura proposta:** "È fondamentale riconoscere che non tutte le relazioni sono uguali e non hanno i medesimi bisogni o priorità. Pertanto, le vostre serate tranquille sul divano non dovrebbero essere percepite come meno preziose o significative rispetto a quelle di coppie con una vita sessuale più attiva, se queste soddisfano i vostri bisogni e rafforzano la vostra connessione."
-
 ************************
 
 Ecco un'analisi delle parti del testo che risultano troppo assolutistiche, dicotomiche o comunque poco prudenti.
@@ -9352,11 +9191,6 @@ Ecco un'analisi delle parti del testo che risultano troppo assolutistiche, dicot
 *   **Riscrittura proposta:** "Lo studio ha dimostrato che un esercizio di sette minuti, svolto tre volte all'anno, può essere un valido strumento per migliorare la gestione dei conflitti e favorire un più rapido ritorno alla serenità all'interno della coppia, contribuendo a diminuire l'impatto negativo degli scontri."
 
 #### Sezione "Comunicazione" (Uomini e Donne)
-
-**7. Parte del testo problematica:** "Secondo John Gray quando un uomo affronta stress o problemi, tende a ritirarsi emotivamente per riflettere e trovare soluzioni da solo. Durante questo periodo, l'uomo può sembrare distante o poco comunicativo, ma è un processo temporaneo che gli permette di ritrovare l'equilibrio. Le donne, invece, affrontano lo stress cercando connessione emotiva. Quando si sentono sopraffatte, esprimendo i loro sentimenti condividendo le preoccupazioni con persone di fiducia. Questo processo le aiuta a elaborare le emozioni e a sentirsi comprese e sostenute. **Di conseguenza gli uomini comunicano principalmente per risolvere problemi e trasmettere informazioni, mentre le donne lo fanno per connettersi emotivamente e costruire relazioni.**"
-*   **Critica:** Questa è una dicotomia estremamente rigida e una generalizzazione stereotipata sulla comunicazione di genere. Sebbene ci siano tendenze generali, non è vero che *tutti* gli uomini comunicano "principalmente per risolvere problemi" e *tutte* le donne "per connettersi emotivamente". Uomini e donne usano la comunicazione per una vasta gamma di scopi, e molti uomini cercano connessione emotiva, così come molte donne cercano soluzioni ai problemi. Questa visione essenzialista dei generi è ampiamente criticata nella psicologia moderna.
-*   **Poca prudenza:** 10/10 (Rinforza stereotipi di genere dannosi per la comprensione reciproca).
-*   **Riscrittura proposta:** "Secondo le teorie di John Gray, si possono osservare tendenze diverse negli stili di coping allo stress: gli uomini tenderebbero a ritirarsi emotivamente per cercare soluzioni, mentre le donne cercherebbero connessione e condivisione. Di conseguenza, si potrebbe generalizzare che, per molti uomini, la comunicazione è spesso orientata alla risoluzione di problemi e alla trasmissione di informazioni, mentre per molte donne, è un mezzo primario per la connessione emotiva e la costruzione di relazioni. Tuttavia, è fondamentale riconoscere che queste sono generalizzazioni e che le differenze individuali all'interno di ogni genere sono significative."
 
 **8. Parte del testo problematica:** "Una donna potrebbe interpretare il ritiro emotivo dell'uomo come disinteresse, mentre l'uomo potrebbe non comprendere il bisogno della donna di parlare dei problemi. **Riconoscere e rispettare questi diversi approcci può favorire una maggiore empatia e connessione tra i partner.**"
 *   **Critica:** L'affermazione "Riconoscere e rispettare questi diversi approcci può favorire una maggiore empatia e connessione tra i partner" è un assoluto troppo ottimistico. Sebbene il riconoscimento e il rispetto siano fondamentali, non garantiscono automaticamente "maggiore empatia e connessione", specialmente se le differenze sono molto marcate o se ci sono altri problemi nella relazione. Possono comunque rimanere delle difficoltà.
@@ -9592,11 +9426,6 @@ Ecco un'analisi delle parti del testo che risultano troppo assolutistiche, dicot
 *   **Critica:** L'affermazione "devi prima criminalizzarlo e poi perdonarlo" è un assoluto prescrittivo che usa un linguaggio molto forte e problematico. Sebbene il punto di Sadhguru sia smontare il concetto tradizionale di perdono, presentare la "criminalizzazione" come un passo *necessario* è fuorviante e potenzialmente dannoso.
 *   **Poca prudenza:** 9/10
 *   **Riscrittura proposta:** "Per perdonare qualcuno, devi prima attribuirgli una colpa e poi assolverlo. Sadhguru suggerisce che questo processo di 'criminalizzazione' è un prerequisito per il perdono tradizionale."
-
-**4. Parte del testo problematica:** "Una persona ha fatto quello che ha fatto perché è il meglio che ha saputo fare, **se avesse saputo fare di meglio in quel momento, lo avrebbe fatto.**"
-*   **Critica:** L'affermazione "se avesse saputo fare di meglio in quel momento, lo avrebbe fatto" è un assoluto e una visione estremamente ottimistica (e talvolta ingenua) del comportamento umano. Non è vero che le persone fanno *sempre* il meglio che "sanno fare". Possono agire con malizia, negligenza, paura, oppure semplicemente non voler fare il meglio per l'altro. Questa frase, se presa alla lettera, può giustificare qualsiasi comportamento.
-*   **Poca prudenza:** 10/10 (Rischia di deresponsabilizzare eccessivamente).
-*   **Riscrittura proposta:** "Sadhguru propone la prospettiva che una persona agisce secondo le sue capacità e conoscenze in un dato momento. Da questa prospettiva, se avesse avuto la capacità o la consapevolezza di agire diversamente o meglio in quel frangente, lo avrebbe fatto."
 
 **5. Parte del testo problematica:** "Quindi io ti accetto così per come sei, non c'è da perdonare. **Se ti perdono è perché prima ti ho dato una colpa da cui poterti eventualmente assolvere.**"
 *   **Critica:** L'affermazione "Se ti perdono è perché prima ti ho dato una colpa da cui poterti eventualmente assolvere" è un assoluto e una dicotomia che riduce il perdono a un mero processo di assoluzione da una colpa attribuita. Il perdono è più complesso e può avvenire anche senza attribuire una colpa specifica (es. perdonare circostanze, o liberare se stessi dal rancore), o può avvenire con la piena consapevolezza della colpa, ma scegliendo di non tenerla.
@@ -10027,11 +9856,6 @@ Ecco un elenco delle parti del testo che risultano troppo assolutistiche, dicoto
 
 #### Sezione "Ecologia - Surriscaldamento globale e deforestazione"
 
-**1. Parte del testo problematica:** "Il maggiore responsabile del surriscaldamento globale è la CO2, di cui però sappiamo che gli esseri umani sono responsabili della produzione di **sole 30 gigatonnellate rispetto alle 780 emesse dall'oceano e dal terreno.**"
-*   **Critica:** La frase "sole 30 gigatonnellate rispetto alle 780 emesse dall'oceano e dal terreno" è estremamente fuorviante e minimizza grossolanamente l'impatto umano. La quantità di CO2 prodotta dagli esseri umani è una *aggiunta netta* al ciclo naturale del carbonio, che gli ecosistemi non riescono più ad assorbire, alterando l'equilibrio. Le emissioni naturali sono parte di un ciclo bilanciato; quelle umane no. Presentare le emissioni umane come "sole 30" rispetto alle naturali è una tattica negazionista dei cambiamenti climatici, molto imprudente.
-*   **Poca prudenza:** 10/10 (perché fornisce un'informazione scientificamente ingannevole).
-*   **Riscrittura proposta:** "Il principale responsabile del surriscaldamento globale è l'aumento della CO2 nell'atmosfera. Sebbene oceani e terreno emettano naturalmente circa 780 gigatonnellate di CO2 all'anno come parte del ciclo naturale del carbonio, gli esseri umani aggiungono circa 30 gigatonnellate di CO2 che squilibrano questo ciclo, poiché il pianeta non ha più la capacità di riassorbire l'eccesso."
-
 **2. Parte del testo problematica:** "Il pianeta terra ha però le risorse per riassorbire queste 780 gigatonnellate **a patto che ci siano sufficienti piante.**"
 *   **Critica:** L'affermazione "a patto che ci siano sufficienti piante" è una semplificazione eccessiva del meccanismo di riassorbimento del carbonio. Le piante sono fondamentali, ma il ciclo del carbonio coinvolge anche gli oceani, il suolo, i processi geologici, e la capacità di assorbimento è influenzata da molti altri fattori oltre alla mera quantità di piante (es. tipo di ecosistema, salute del suolo, temperatura degli oceani).
 *   **Poca prudenza:** 7/10
@@ -10053,11 +9877,6 @@ Ecco un elenco delle parti del testo che risultano troppo assolutistiche, dicoto
 *   **Critica:** L'affermazione "ma il modo in cui vengono prodotti gli alimenti sì" è una dicotomia troppo netta e un assoluto. Sebbene la produzione sia il fattore principale, anche l'atto di mangiare inquina (es. spreco alimentare, trasporto al punto vendita, energia per la cottura, imballaggi monouso non riciclati). La frase semplifica eccessivamente il ciclo di vita del cibo.
 *   **Poca prudenza:** 6/10
 *   **Riscrittura proposta:** "L'atto di mangiare in sé non inquina, ma l'impatto ambientale significativo deriva principalmente dal modo in cui gli alimenti vengono prodotti, trasportati e consumati."
-
-**6. Parte del testo problematica:** "Per fare la carne **non servono macchinari o particolari processi industriali.**"
-*   **Critica:** L'affermazione "non servono macchinari o particolari processi industriali" per fare la carne è un assoluto palesemente falso, specialmente per la produzione di carne moderna e su larga scala. L'allevamento intensivo (la fonte di gran parte della carne consumata) fa ampio uso di macchinari (per foraggio, ventilazione, mungitura, macellazione), processi industriali (mangimi, antibiotici, smaltimento dei liquami) e ha una filiera altamente industrializzata.
-*   **Poca prudenza:** 10/10 (affermazione fattuale gravemente errata).
-*   **Riscrittura proposta:** "Per produrre carne, sebbene il processo primario sia l'allevamento degli animali, la filiera moderna e su larga scala si avvale di complessi sistemi industriali che includono la produzione di mangimi, la gestione delle stalle e i processi di macellazione e confezionamento."
 
 **7. Parte del testo problematica:** "Immaginate quanti chili di cibo mangia una mucca prima di essere macellata e soprattutto quanti litri d'acqua beve. La produzione di 1kg di carne di manzo comporta circa 15500 litri (94\% di ‘green water’ che non incide direttamente sui bacini idrici) e tra 300–1300 litri di acqua blu e grigia utilizzata). Ora immaginate di essere in una stanza e di avere da una parte la nostra mucca macellata e dall'altra parte tutto quello che la mucca ha mangiato e bevuto durante la sua vita. **Se doveste scegliere quale delle due opzioni vi permetterà di sopravvivere più a lungo, bisognerebbe mangiare il cibo della mucca e non la mucca.**"
 *   **Critica:** L'affermazione "Se doveste scegliere quale delle due opzioni vi permetterà di sopravvivere più a lungo, bisognerebbe mangiare il cibo della mucca e non la mucca" è una dicotomia estrema e un argomento ad hominem (anche se implicito) eccessivamente semplicistico. Non considera che l'uomo è onnivoro e beneficia della carne, che il cibo della mucca (foraggio) non è direttamente commestibile o digeribile per l'uomo nelle stesse quantità. Il punto sulla conversione inefficiente è valido, ma la conclusione è un falso dilemma presentato in modo assoluto e poco scientifico.
@@ -10190,11 +10009,6 @@ Ecco un elenco delle parti del testo che risultano troppo assolutistiche, dicoto
 *   **Critica:** L'affermazione "Talmente inclusivo che tutti possiamo diventare reducetariani" è un assoluto. Sebbene sia un obiettivo lodevole, non è praticabile che *tutti* diventino reducetariani per varie ragioni (culturali, economiche, di salute, di scelta personale). La frase è un'iperbole.
 *   **Poca prudenza:** 6/10
 *   **Riscrittura proposta:** "Il concetto di reducetarianismo è talmente inclusivo che offre una strada percorribile per la maggior parte delle persone, consentendo a ciascuno di contribuire alla riduzione del consumo di carne."
-
-**11. Parte del testo problematica:** "Se tutti noi seguissimo una dieta del “lunedì senza carne”, astenendoci dal mangiare carne ogni lunedì, **avremmo un miliardo di vegetariani in più dall'oggi al domani, con ciò che questo comporta come impatto ambientale.**"
-*   **Critica:** L'affermazione "avremmo un miliardo di vegetariani in più dall'oggi al domani" è un assoluto numerico errato. "Lunedì senza carne" significa essere vegetariani per un giorno alla settimana, non diventare "un miliardo di vegetariani in più" in senso permanente. La frase confonde una pratica occasionale con un'identità alimentare permanente, distorcendo l'impatto reale del movimento.
-*   **Poca prudenza:** 10/10 (affermazione fattuale errata e fuorviante).
-*   **Riscrittura proposta:** "Se tutti adottassimo una pratica come il 'lunedì senza carne', astenendoci dal consumo di carne solo in quel giorno, l'impatto cumulativo sarebbe paragonabile a quello generato da un significativo aumento della popolazione vegetariana, con conseguenze positive notevoli sull'ambiente."
 
 #### Sezione "Microbiota" (nel box)
 
