@@ -3180,11 +3180,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "Per l'uomo non c'è un 'naturale' predefinito in senso rigido; **possiede una plasticità e una capacità di autodefinizione ben maggiori**, rispetto ad altri animali che sono guidati prevalentemente dall'istinto."
 
-8.  **Parte problematica:** "Socialmente non è più malvisto non seguire delle dottrine religiose, per cui **non abbiamo ne natura ne cultura a dirci cosa fare**."
-    *   **Critica:** L'affermazione "non abbiamo né natura né cultura a dirci cosa fare" è un assoluto estremo e falso. Sebbene le dottrine religiose possano avere meno presa, la natura umana (bisogni, istinti, biologia) e la cultura (valori laici, norme sociali, educazione) continuano a fornire un quadro di riferimento e a influenzare profondamente i nostri comportamenti e le nostre scelte, anche se non in modo prescrittivo e rigido come prima.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Socialmente non è più malvisto non seguire delle dottrine religiose; tuttavia, **continuiamo a essere profondamente influenzati sia dalla nostra natura intrinseca che dagli schemi culturali, che, pur non 'dicendoci' rigidamente cosa fare, plasmano le nostre percezioni e le nostre possibilità.**"
-
 9.  **Parte problematica:** "Questo è un pensiero dove la responsabilità è centrale, portandoli a prendere le redini della loro vita e non lasciare che sia un evento a decidere per loro, **togliendogli potere e lasciandoli nel vittimismo, nonostante ne avessero tutto il diritto, visto la gravità di ciò che gli è capitato**."
     *   **Critica:** L'affermazione "togliendogli potere e lasciandoli nel vittimismo" è un giudizio molto forte e potenzialmente insensibile. Dire che "avevano tutto il diritto" di cadere nel vittimismo è una frase che cerca di bilanciare, ma il linguaggio "vittimismo" e "togliendogli potere" può suonare giudicante di fronte a un evento così catastrofico, quasi implicando che chi vive un trauma e non riesce a rialzarsi sia "vittima" per scelta.
     *   **Poca Prudenza:** 9/10
@@ -3245,11 +3240,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** L'affermazione "è utile distrarsi, lasciando spazio alla fantasia" presentata come unica alternativa a "rifletterci sopra" è una dicotomia troppo forte e imprudente. Sebbene la distrazione creativa possa avere un ruolo, il disagio spesso *richiede* riflessione e comprensione, non solo distrazione. Inoltre, l'associazione con "radici più profonde" è un'interpretazione specifica della psicologia analitica (Morelli) presentata come fatto universale.
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "Quando emerge un disagio, **oltre alla riflessione, può essere utile anche distrarsi attivamente, dedicando spazio alla fantasia con immagini di paesaggi, animali e figure evocative, che possono richiamare aspetti profondi del nostro immaginario.**"
-
-11. **Parte problematica:** "Il disagio ci segnala che una parte di noi è stata trascurata. Per ritrovare il benessere, **basta immaginare quel lato della nostra personalità che tendiamo a mettere da parte. Non è necessario cambiare vita; è sufficiente visualizzarlo**."
-    *   **Critica:** L'uso di "basta immaginare" e "Non è necessario cambiare vita; è sufficiente visualizzarlo" è una semplificazione eccessiva e irrealisticamente ottimistica delle soluzioni al disagio e al raggiungimento del benessere. Negare la necessità di un cambiamento comportamentale o di vita, sostituendolo con la sola visualizzazione, è una promessa imprudente e potenzialmente fuorviante.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Il disagio ci segnala che una parte di noi potrebbe essere stata trascurata. Per ritrovare il benessere, **l'immaginazione e la visualizzazione di quel lato della nostra personalità che tendiamo a mettere da parte possono essere un primo passo importante. Sebbene non sempre sia necessario un cambiamento radicale di vita, l'integrazione di questi aspetti può contribuire al raggiungimento di un maggiore equilibrio interiore.**"
 
 12. **Parte problematica:** "Chi raggiunge un buon equilibrio interiore **tende a proiettare meno il proprio disagio sul mondo esterno, e può sentirsi meno spinto a cambiarlo per trovare pace**."
     *   **Critica:** "Tende a proiettare meno" è corretto, ma "può sentirsi meno spinto a cambiarlo per trovare pace" è una generalizzazione. Anche chi è equilibrato può e deve desiderare cambiamenti nel mondo (es. ingiustizie sociali) non per trovare pace personale, ma per etica o valori.
@@ -3500,11 +3490,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "La felicità **spesso non deriva unicamente da uno sforzo ossessivo o da una rigida pianificazione; un approccio più sereno potrebbe includere la riduzione dei pensieri superflui.**"
 
-3.  **Parte problematica:** "Quali sono i pensieri inutili? **Quasi tutti!** Soprattutto quelli che si presentano come domande: è il lavoro giusto? È la persona giusta? Sono una persona buona?"
-    *   **Critica:** "Quasi tutti!" è un'affermazione estremamente assoluta e iperbolica. Molti pensieri, incluse le domande esistenziali, sono tutt'altro che inutili; sono essenziali per la riflessione, la crescita personale e l'orientamento nella vita. Classificarli tutti come "inutili" è molto imprudente.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Quali sono i pensieri inutili? **Molti di quelli che generano ansia senza portare a un'azione costruttiva, in particolare quelli che si presentano come domande incessanti e irrisolvibili nell'immediato, come 'è il lavoro giusto?', 'è la persona giusta?', 'sono una persona buona?'**"
-
 4.  **Parte problematica:** "Per Giulio Cesare Giacobbe, autore di 'Come smettere di farsi le seghe mentali e godersi la vita', ogni pensiero che non da luogo ad un'azione **potrebbe essere una sega mentale!** Ma questo non è necessariamente un problema. Se un pensiero non porta all'azione e peggiora il nostro stato mentale, allora è una sega mentale dannosa!"
     *   **Critica:** La definizione che "ogni pensiero che non da luogo ad un'azione potrebbe essere una sega mentale!" è una generalizzazione eccessiva e semplicistica. Molti pensieri (creativi, contemplativi, emotivi, empatici) non portano direttamente all'azione ma sono vitali per il benessere e la cognizione. Il linguaggio è molto informale ma dicotomico.
     *   **Poca Prudenza:** 8/10
@@ -3529,11 +3514,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** "Quella da me stesso!" è un assoluto e un'affermazione estrema. Sebbene un certo distacco dal proprio ego possa essere benefico, la "migliore distrazione" non è *sempre* quella da sé stessi, e il distacco può essere dannoso se si traduce in evitamento o negazione di parti di sé.
     *   **Poca Prudenza:** 9/10
     *   **Riscrittura:** "E quale potrebbe essere una forma di distrazione costruttiva? **Quella che ci permette di allontanarci temporaneamente dalle nostre ossessioni o autocritiche!**"
-
-9.  **Parte problematica:** "Per cui se proprio un lavoro volete fare, **non lavorate su di voi, non ditevi: devo cambiare questo carattere, questo rapporto ecc… provate a stare con voi senza alcuno scopo se non quello di portare voi stessi nelle cose che state facendo**."
-    *   **Critica:** L'imperativo "non lavorate su di voi, non ditevi: devo cambiare..." è un assoluto e una negazione imprudente dell'importanza del lavoro introspettivo e del desiderio di miglioramento personale. La dicotomia "non lavorare su di voi vs. essere presenti" è troppo rigida.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Per cui, se desiderate un approccio diverso, **anziché concentrarvi esclusivamente sul 'dover cambiare' aspetti del vostro carattere o delle vostre relazioni, provate a stare con voi stessi con l'intenzione di portare la vostra autentica presenza nelle attività che svolgete.**"
 
 10. **Parte problematica:** "Tuttavia, le prove sono limitate e sono necessarie ulteriori ricerche per comprendere **appieno gli effetti neurologici del gioco**."
     *   **Critica:** "Appieno" è un assoluto irrealistico nel contesto della ricerca scientifica. La comprensione di fenomeni complessi è sempre un processo in evoluzione, raramente "pieno".
@@ -3580,16 +3560,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** La generalizzazione "per noi occidentali" è una dicotomia culturale troppo ampia e semplicistica. Anche all'interno delle culture occidentali ci sono diverse filosofie di vita e atteggiamenti verso l'appagamento e il desiderio.
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "A pensarci bene, per chi è cresciuto in contesti culturali che valorizzano la continua ricerca e il progresso, il concetto di 'accontentarsi' può suonare strano o limitante, nonostante l'abbondanza di ciò che già possediamo."
-
-2.  **Parte problematica:** "Non dico che non sia importante avere obiettivi e ambizioni, è giusto averle, ma nel viaggio per raggiungerle accontentarsi di tutte le belle cose che avete e, ne avete! Se pensate di no, vi sbagliate! **Anche se non vi conosco lo so per certo!** Siccome accontentarsi ha ormai preso una connotazione negativa, forse è meglio dire: essere grati."
-    *   **Critica:** L'affermazione "Anche se non vi conosco lo so per certo!" è un'asserzione assoluta e imprudente, che pretende di conoscere la realtà individuale del lettore senza alcuna base. È una generalizzazione estremamente forte e invadente.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Non dico che non sia importante avere obiettivi e ambizioni, è giusto averle, ma nel viaggio per raggiungerle è fondamentale apprezzare le belle cose che già possedete, e che **spesso sono più numerose di quanto si creda. Se pensate di no, vi invito a riflettere più a fondo.** Siccome 'accontentarsi' ha ormai preso una connotazione negativa, forse è meglio dire: essere grati."
-
-3.  **Parte problematica:** "L'unica gioia di molte persone è che stanno facendo meglio di qualcun altro. Se gli togli questo non gli resta **davvero nulla**. l'unica gioia è qualcuno sta facendo peggio di te. Quanto è malato tutto ciò?"
-    *   **Critica:** L'uso di "L'unica gioia" e "davvero nulla" e "l'unica gioia è" sono assoluti estremamente forti e dicotomici. Anche se il confronto sociale negativo può essere una motivazione, è molto improbabile che sia l'unica fonte di gioia di "molte persone" o che, tolto quello, non resti "davvero nulla". Il linguaggio "Quanto è malato tutto ciò?" è un giudizio morale assoluto.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Per alcune persone, **una parte significativa della gioia deriva dal sentirsi superiori agli altri. Se questa comparazione viene a mancare, possono percepire un grande vuoto. Questa dipendenza dal confronto negativo rivela un'inclinazione problematica.**"
 
 4.  **Parte problematica:** "Fai qualcosa perché è magnifico, **non perché qualcuno non lo fa bene come te**."
     *   **Critica:** "Non perché qualcuno non lo fa bene come te" è una dicotomia che implica che la motivazione debba essere *esclusivamente* intrinseca e non possa essere minimamente influenzata da un desiderio di eccellere o di fare meglio degli altri (che, se gestito, può essere sano).
@@ -3678,11 +3648,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Tante di queste le percepiamo come terribili per una convenzione culturale, come l'essere single, non raggiungere un certo status sociale, essere preso in giro, non aiutare gli altri, subire tradimenti, **o l'idea di non vivere un'esistenza sempre ricca di emozioni positive, o di affrontare la solitudine.**"
 
-3.  **Parte problematica:** "È normale essere contrariati, moderatamente tristi, ma **non depressi**."
-    *   **Critica:** L'affermazione categorica "ma non depressi" è clinicamente imprudente. La depressione è una condizione medica complessa, non è una "scelta" o un'emozione da evitare con la volontà. Equivale a dire che non è "normale" ammalarsi.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "È normale essere contrariati, moderatamente tristi, **ma è importante riconoscere quando queste sensazioni evolvono in stati di malessere più profondi, come la depressione, che richiedono attenzione specifica.**"
-
 4.  **Parte problematica:** "Sarebbe bello che le cose andassero **sempre** bene, ma questa è la realtà e non ne ho bisogno per essere felice. Sarebbe bello che tutti mi trattassero bene, ma questa è la realtà e sono felice ugualmente. **Si tratta solo di abbandonare queste irrealistiche e immature idee di perfezione.**"
     *   **Critica:** "Sempre" è un assoluto. L'affermazione "Si tratta solo di abbandonare queste irrealistiche e immature idee di perfezione" è una svalutazione dicotomica e semplificata. Le aspirazioni alla perfezione o a un mondo migliore non sono necessariamente "immatura", ma possono essere motore di miglioramento.
     *   **Poca Prudenza:** 8/10
@@ -3697,11 +3662,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** L'uso di "solo" e la dicotomia "arricchire vs. requisito fondamentale" è troppo rigida. Sebbene la felicità intrinseca sia l'ideale, i desideri (soprattutto quelli profondi e significativi) possono essere parte integrante e fondamentale della costruzione della felicità, non solo un "arricchimento" secondario.
     *   **Poca Prudenza:** 8/10
     *   **Riscrittura:** "I desideri dovrebbero **essere visti come elementi che possono arricchire una vita già percepita come felice, piuttosto che come requisiti indispensabili per la felicità stessa.**"
-
-7.  **Parte problematica:** "Se dovessero consegnarti una valigetta piena di soldi e, il giorno dopo, queste persone si si accorgessero dell'errore e te la portassero via, **non dovresti essere triste, perché non ti hanno tolto nulla rispetto a ieri**."
-    *   **Critica:** L'affermazione "non dovresti essere triste, perché non ti hanno tolto nulla rispetto a ieri" è un'indicazione assoluta ed eccessivamente razionale, che nega la legittimità delle emozioni umane. La tristezza per una perdita, anche se subitanea e inaspettata, è una reazione umana valida. La frase minimizza il senso di perdita o di delusione.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Se dovessero consegnarti una valigetta piena di soldi e, il giorno dopo, queste persone si accorgessero dell'errore e te la portassero via, **potresti provare delusione, ma è utile ricordarsi che non ti è stato sottratto nulla che possedevi prima, aiutando a mitigare il senso di perdita.**"
 
 8.  **Parte problematica:** "Le persone temono che se smettessero di preoccuparsi finirebbero nel menefreghismo, ma questo “mito” può compromettere seriamente il nostro benessere."
     *   **Critica:** L'affermazione che sia un "mito" che la mancanza di preoccupazione porti al menefreghismo è un'affermazione forte. Sebbene la preoccupazione eccessiva sia dannosa, un'assenza totale di preoccupazione (che non è l'obiettivo della consapevolezza) potrebbe effettivamente portare a una mancanza di cura o responsabilità. La dicotomia è troppo netta.
@@ -3718,22 +3678,12 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Se abbiamo sentimenti o reazioni che percepiamo come esagerate o illogiche, **è utile diventarne consapevoli e cercare, nel tempo, di sviluppare una maggiore moderazione.**"
 
-11. **Parte problematica:** "Ci sta sentirsi un po' giù o contrariati, ma **non depressi per la maggior parte delle cose che ci capitano**."
-    *   **Critica:** L'affermazione categorica "ma non depressi per la maggior parte delle cose che ci capitano" è clinicamente imprudente e svalutante. La depressione non è una reazione proporzionale a "cose che capitano", ma una condizione di salute mentale con cause multifattoriali.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Ci sta sentirsi un po' giù o contrariati per gli eventi della vita; tuttavia, **è cruciale distinguere queste reazioni temporanee da stati di malessere più persistenti, come la depressione, che non sono semplicemente risposte esagerate agli eventi ma condizioni che meritano attenzione specifica.**"
-
 12. **Parte problematica:** "Ci accorgeremo che la maggioranza delle cose, **non sono negative di per sé, in assoluto e, quindi, se qualcun altro può avere reazioni più moderate al medesimo problema, possiamo riuscirci anche noi**."
     *   **Critica:**
         *   "Non sono negative di per sé, in assoluto" è una generalizzazione forte, ma la sua validità dipende dalla prospettiva filosofica.
         *   "Se qualcun altro può avere reazioni più moderate... possiamo riuscirci anche noi" è un'affermazione troppo ottimistica e generalizzante sulle capacità di adattamento individuale, ignorando le differenze psicologiche, le storie personali e le risorse.
     *   **Poca Prudenza:** 8/10
     *   **Riscrittura:** "Ci accorgeremo che la maggioranza delle cose, **spesso, non possiede una negatività intrinseca e assoluta. Pertanto, se altri riescono ad avere reazioni più moderate al medesimo problema, questo suggerisce che anche noi possiamo lavorare per sviluppare una maggiore resilienza.**"
-
-13. **Parte problematica:** "Bisogna imparare a godersi la vita **qualsiasi cosa accada**."
-    *   **Critica:** L'affermazione "qualsiasi cosa accada" è un assoluto irrealistico. In situazioni di estrema sofferenza, trauma o privazione, "godersi la vita" è un'aspettativa imprudente e quasi crudele. L'obiettivo dovrebbe essere la resilienza o l'accettazione, non una gioia costante.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Bisogna imparare a godersi la vita **nonostante le avversità che possono presentarsi**."
 
 14. **Parte problematica:** "La persona equilibrata non colloca nessun evento al di là del “brutto” e vive di conseguenza."
     *   **Critica:** L'affermazione "La persona equilibrata non colloca nessun evento al di là del 'brutto'" è una definizione assoluta e limitante di persona equilibrata. Implica che eventi come genocidi, torture o perdite estreme non possano essere classificati come "terribili" o "tragici" da una persona equilibrata, il che è irrealistico.
@@ -3750,11 +3700,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** L'affermazione che i desideri immateriali sono "più problematici" rispetto a quelli materiali è una generalizzazione e una dicotomia troppo forte. Entrambi possono essere problematici, e la difficoltà di definirli non li rende intrinsecamente "più problematici".
     *   **Poca Prudenza:** 7/10
     *   **Riscrittura:** "Tra i desideri che spesso vengono confusi per necessità, quelli immateriali possono rivelarsi particolarmente complessi da gestire, data la loro natura più astratta e la tendenza a stimolare la fantasticheria, talvolta più dei desideri materiali."
-
-2.  **Parte problematica:** "In alcuni casi sono addirittura delle virtù, come il sapere amare, ma dal punto di vista psicologico sono nocive come l'avidità."
-    *   **Critica:** L'affermazione che virtù come "il sapere amare" sono "nocive come l'avidità" "dal punto di vista psicologico" è estremamente imprudente e dicotomica. Equivale a svalutare una virtù fondamentale, associandola a un vizio distruttivo. Il problema non è "amare", ma un amore *disfunzionale* o *trasformato in necessità*, che è ben diverso.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "In alcuni casi, desideri che pure sottendono virtù, come la capacità di amare profondamente, possono diventare psicologicamente problematici se si trasformano in necessità ossessive, **similmente a come un'avidità incontrollata può esserlo**."
 
 3.  **Parte problematica:** "Anzi, un eccesso di comodità è incompatibile con la felicità perché subentrerebbe la noia."
     *   **Critica:** L'affermazione "un eccesso di comodità è incompatibile con la felicità perché subentrerebbe la noia" è assoluta e dicotomica. Sebbene la noia possa essere una conseguenza, "incompatibile con la felicità" è troppo forte; molte persone possono trovare felicità anche in contesti confortevoli, se bilanciati da altri stimoli o relazioni.
@@ -4120,11 +4065,6 @@ Ecco l'elenco delle parti del testo che risultano troppo assolutistiche, dicotom
     *   **Critica:** L'affermazione "allora diventi VERO" è un assoluto. Sebbene sia una metafora potente per il concetto di autenticità e valore, è presentata come una condizione unica e automatica per "diventare vero". Ignora che "vero" può avere molteplici significati.
     *   **Poca Prudenza:** 8/10
     *   **Riscrittura:** "Quando un bambino ti tiene accanto a sé per molto tempo, e tu sei per lui non solo qualcosa con cui giocare, ma qualcuno a cui volere VERAMENTE bene, **allora assumi per lui un'autenticità profonda.**"
-
-2.  **Parte problematica:** "Sì, risponde il Cavallino, ma quando sei vero, **non ti importa molto del male**."
-    *   **Critica:** L'affermazione "non ti importa molto del male" è un assoluto esagerato e potenzialmente dannoso. Sebbene l'autenticità possa portare a una maggiore resilienza, negare completamente l'impatto o l'importanza del male (dolore, sofferenza) è irrealistico e non salutare.
-    *   **Poca Prudenza:** 10/10
-    *   **Riscrittura:** "Sì, risponde il Cavallino, ma quando sei vero, **il dolore assume una dimensione diversa, e la sua importanza nel contesto della tua esistenza si ridimensiona.**"
 
 3.  **Parte problematica:** "Essere vero, continua il Cavallino, "**non accade spesso a coloro che si rompono facilmente, o hanno spigoli vivi, oppure che devono essere tenuti con grande cura**"."
     *   **Critica:** L'affermazione "non accade spesso a coloro che si rompono facilmente..." è una generalizzazione forte che stigmatizza la vulnerabilità. Suggerisce che la fragilità o la necessità di cura siano ostacoli all'autenticità o al "diventare vero", il che è dicotomico e poco empatico.
