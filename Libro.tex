@@ -6027,7 +6027,7 @@ Alcuni studi (IPCC e ricerche recenti) osservano che, se le emissioni non sarann
 \end{figure}
 
 \begin{table}[H]
-\centering % Consigliato per centrare la tabella
+\centering 
 \begin{tabular}{|l|l|l|} \hline
 \textbf{Mezzo di trasporto} & \textbf{Media passeggeri} & \textbf{Emissioni (g CO2/km)} \\ \hline
 Aeroplano & 88 & 285 \\ \hline
@@ -6889,17 +6889,16 @@ Questo grafico mostra come negli ultimi 15 anni la criminalità in Italia contin
 \needspace{4cm}
 \begin{figure}[H] 
 \centering
-% \floatsetup{valign=c} % Se ti dà errori, assicurati di avere il pacchetto floatrow, altrimenti commentalo
 \begin{subfigure}[b]{0.48\textwidth} 
 \begin{tikzpicture}
 \begin{axis}[
-    width=\textwidth, % <--- AGGIUNTO: Forza il grafico a stare nella colonna
+    width=\textwidth,
     xmin=2006, xmax=2020,
     ymin=0, ymax=3000000,
     xtick={2006,2008,...,2020},
     ytick={0,500000,1000000,1500000,2000000,2500000,3000000},
     xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, 
-    xticklabel style={rotate=45, font=\tiny}, % Font piccolo per evitare sovrapposizioni
+    xticklabel style={rotate=45, font=\tiny}, 
     legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1},
     ymajorgrids=true,
     grid style=dashed,
@@ -6918,7 +6917,7 @@ Questo grafico mostra come negli ultimi 15 anni la criminalità in Italia contin
 \begin{subfigure}[b]{0.48\textwidth} 
 \begin{tikzpicture}
 \begin{axis}[
-    width=\textwidth, % <--- AGGIUNTO: Forza il grafico a stare nella colonna
+    width=\textwidth,
     xmin=2006.5, xmax=2019.5, 
     ymin=0, ymax=350000,
     xtick={2006,2008,...,2020},
