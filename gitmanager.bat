@@ -18,12 +18,12 @@ if "%scelta%"=="1" (
 	del /f /q Libro.out
 	del /f /q Libro.toc
 	del /f /q Libro.run.xml
-	del /f /q Libro.synctex(busy)
+	del /f /q "Libro.synctex(busy)"
 	del /f /q Libro.log
 	del /f /q Libro.synctex.gz
-	% git add .
-	% git commit -m "Update"
-	% git push	
+	git add .
+	git commit -m "Update"
+	git push	
 ) else if "%scelta%"=="3" (
 	git checkout --orphan nuovo-branch
 	git add -A
