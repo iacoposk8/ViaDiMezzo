@@ -12,15 +12,6 @@ if "%scelta%"=="1" (
 	git pull
 ) else if "%scelta%"=="2" (
 	python check.py Libro.tex
-	del /f /q Libro.aux
-	del /f /q Libro.bcf
-	del /f /q Libro.ent
-	del /f /q Libro.out
-	del /f /q Libro.toc
-	del /f /q Libro.run.xml
-	del /f /q "Libro.synctex(busy)"
-	del /f /q Libro.log
-	del /f /q Libro.synctex.gz
 	git add .
 	git commit -m "Update"
 	git push	

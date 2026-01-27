@@ -1,7 +1,7 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 1.9.9
 % see \raggedright\url{http://writer2latex.sourceforge.net} for more info
 \documentclass[12pt]{book} % Imposta la dimensione del testo su 12pt
-\usepackage[a4paper]{geometry}
+\usepackage[a4paper, margin=2cm]{geometry}
 % \usepackage{mathptmx} % Times New Roman
 \usepackage{calc,amsmath,amssymb,amsfonts}
 \usepackage[LGR,T1]{fontenc}
@@ -12,6 +12,7 @@
 \usepackage{endnotes}
 \usepackage{wrapfig}
 \usepackage{mdframed}
+\usepackage{xurl}
 \usepackage{wrapfig}
 \usepackage[justification=raggedright,singlelinecheck=false]{caption}
 \usepackage{hyperref}
@@ -22,6 +23,7 @@
 \usepackage{float}
 \usepackage{needspace}
 \usepackage{parskip}
+\usepackage{pdfpages}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage[absolute]{textpos}
@@ -33,6 +35,8 @@
 \renewcommand\theFigure{\arabic{Figure}}
 \date{2024-04-09}
 \setlength\tabcolsep{1mm}
+
+\raggedbottom
 
 \setlength{\parskip}{10pt} % Spazio tra i paragrafi
 \setlength{\parindent}{0pt} % Nessuna indentazione
@@ -46,19 +50,10 @@
 \g@addto@macro{\UrlBreaks}{\do\-}
 \makeatother
 
-% Imposta i margini a zero
-\geometry{margin=0pt, paperwidth=\paperwidth, paperheight=\paperheight}
-
 \begin{document}
 
-% Inserisce l'immagine di copertina su tutta la pagina
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=\paperwidth,height=\paperheight]{images/cover.png}
-    \vspace{-\baselineskip} % Rimuove lo spazio extra sotto l'immagine
-\end{figure}
-
-\newgeometry{a4paper, margin=2cm} % Ripristina i margini a 2cm
+% Prima pagina: copertina
+\includepdf[width=\paperwidth, height=\paperheight]{images/cover.png}
 
 \thispagestyle{empty}
 \tableofcontents % Inserisce l'indice
@@ -204,7 +199,7 @@ Yan Dong, Antonello Bonci, Robert C. Malenka, “Drugs of Abuse and Stress Trigg
 Alcune strategie o sostanze che alleviano il dolore possono, in certi casi, generare dipendenza, soprattutto se usate in modo ripetitivo e senza controllo.
 \end{mdframed}
 
-\noindent \textbf{\large Filter Bubble e Echo-chamber} \\
+\subsubsection{Filter Bubble e Echo-chamber}
 Il web, in particolare social network e motori di ricerca, al fine di offrire un'esperienza percepita come più rilevante e coinvolgente ai propri utenti (e per altri scopi, tra cui commerciali), crea dei risultati personalizzati. Se io faccio una ricerca su YouTube, sto indirettamente comunicando
 all'algoritmo le mie preferenze, i miei gusti, e quest'ultimo in futuro
 cercherà di fornirmi contenuti in linea con ciò che stima potrebbe interessarmi. Questa funzionalità ha però un effetto
@@ -231,7 +226,7 @@ Il telefono ci ascolta davvero?
 Molti di noi hanno avuto la sensazione inquietante di parlare di un argomento e, poco dopo, vedere comparire pubblicità ad esso legate. Questo ha alimentato la diffusa convinzione che il telefono ci ascolti in segreto. In realtà, secondo le ricerche finora disponibili, non sono emerse prove che i dispositivi mobili registrino costantemente le nostre conversazioni per fini pubblicitari. Il motivo per cui riceviamo annunci così mirati è più sottile: si tratta di una combinazione di tracciamento digitale avanzato e di meccanismi psicologici. Le app e i siti raccolgono enormi quantità di dati sul nostro comportamento online, dalle ricerche effettuate alla posizione geografica, passando per le interazioni con altre persone. Questo consente agli algoritmi pubblicitari di prevedere con sorprendente precisione i nostri interessi, senza dover ascoltare nulla. Inoltre, un fenomeno noto come “illusione di frequenza” o “effetto Baader-Meinhof” ci porta a notare maggiormente ciò che ci è appena venuto in mente, facendoci credere che sia comparso “dal nulla”. In definitiva, sebbene non si tratti di intercettazioni nel senso tradizionale, siamo oggetto di un'osservazione da parte di sistemi predittivi estremamente sofisticati, con implicazioni per la nostra privacy.
 \end{mdframed}
 
-\noindent \textbf{\large Effetto Bandwagon} \\
+\subsubsection{Effetto Bandwagon}
 L'effetto Bandwagon, noto anche come effetto carrozzone o conformismo, è un fenomeno psicologico e
 sociale che descrive la tendenza delle persone a fare qualcosa principalmente perché altre persone lo stanno facendo,
 indipendentemente dalle proprie convinzioni. Questo comportamento è spesso osservato in vari contesti, come la
@@ -289,7 +284,7 @@ Questi eventi sono stati descritti nel libro L'effetto Lucifero di Philip Zimbar
 \end{mdframed}
 
 \needspace{4cm}
-\noindent \textbf{\large Effetto Dunning-Kruger} \\
+\subsubsection{Effetto Dunning-Kruger}
 
 \begin{wrapfigure}{i}{9cm}
   \centering
@@ -322,7 +317,7 @@ caso, dalla fortuna o dalla sopravvalutazione degli altri. Paradossalmente però
 truffare qualcuno, ma provando solo a fare un buon lavoro. Il fatto di interrogarsi sulle proprie capacità è positivo,
 ci porta a migliorare e non finire vittima dell'effetto Dunning-Kruger.
 
-\noindent \textbf{\large Fattore culturale} \\
+\subsubsection{Fattore culturale}
 Nell'Africa sub-Sahariana, in lingua bantu esiste la parola ubuntu. Appellandosi a questa parola si è soliti dire Umuntu
 ngumuntu ngabantu, "io sono ciò che sono in virtù di ciò che tutti siamo". L'ubuntu esorta
 a sostenersi e aiutarsi reciprocamente, a prendere coscienza non solo dei propri diritti, ma anche dei propri doveri,
@@ -377,7 +372,7 @@ semplicemente ci rialzavamo e continuavamo, senza giudicarci. In questo modo il 
 “Io non perdo mai: o vinco o imparo.” - Nelson Mandela 
 \end{mdframed}
 
-\noindent \textbf{\large De-responsabilizzazione} \\
+\subsubsection{De-responsabilizzazione}
 Verso la metà del 900, lo psicologo J. B. Rotter parlò di “Locus of control” (“luogo di controllo”) ovvero, la
 percezione di quanto la propria vita sia influenzata dalle proprie azioni o dalla casualità e, di conseguenza, a quali
 di questi due fattori si attribuiscono successi e insuccessi. In alcuni casi, le persone tendono ad attribuire i propri successi a fattori interni e i fallimenti a cause esterne, un meccanismo noto come attribuzione auto-protettiva. 
@@ -399,7 +394,7 @@ all'infinito.
 È frequente sentire lamentele 'è colpa del governo', in un contesto in cui si verificano comportamenti come l'evasione fiscale, pratiche scorrette sul lavoro (es. timbrare il cartellino per un collega assente), abusi dei permessi di malattia, indebite richieste di invalidità, infrazioni stradali. Alcuni cittadini criticano aspramente la società ma contribuiscono anche al mantenimento di certi problemi.
 L’evasione fiscale riduce le risorse disponibili per i servizi pubblici, contribuendo a una percezione di inefficienza del sistema. In questo senso, la responsabilità collettiva gioca un ruolo cruciale.
 
-\noindent \textbf{\large Suggestioni} \\
+\subsubsection{Suggestioni}
 Effetto Priming\endnote{\raggedright\url{https://it.wikipedia.org/wiki/Priming\_(psicologia)} }: Questo effetto dice che
 l'esposizione a uno stimolo può influenzare la tua risposta.
 Ad esempio, dopo aver letto la parola ospedale, una persona riconoscerà più rapidamente parole come medico o iniezione. Oppure, vedere immagini legate alla pulizia può indurre le persone a comportarsi in modo più ordinato.
@@ -424,7 +419,7 @@ suo opposto meno noto effetto nocebo. L'effetto nocebo è un condizionamento in 
 diciamo a una persona che questo macchinario potrebbe provocarti del dolore, probabilmente lo farà, anche se si tratta
 di una lampada che fa un leggero calore\endnote{\raggedright\url{https://youtu.be/OUdXMoY6fLY}}.
 
-\noindent \textbf{\large Illusione della memoria} \\
+\subsubsection{Illusione della memoria}
 Nel libro l'illusione della memoria\endnote{\raggedright\url{https://www.amazon.it/dp/8868334313} } di Julia Shaw abbiamo numerosi esempi
 e spiegazioni di come, il nostro principale oggetto riguardante la nostra identità, sia fallibile. La nostra mente
 potrebbe ricordare delle cose mai vissute e tutti facciamo esperienza di questo errore, solo che non possiamo saperlo.
@@ -461,7 +456,7 @@ tempo sia influenzata dalla memoria. Se abbiamo tanti ricordi di un certo period
 lunga rispetto a quando abbiamo pochi ricordi. Secondo l’effetto reminiscenza, la maggior parte dei nostri ricordi autobiografici si forma tra i 10 e i 30 anni, con un picco nell’adolescenza/giovane età adulta (Rubin et al., 1998); dopo il tempo soggettivamente scorre più veloce perché ci sono meno nuovi ricordi.
 Nota che quando ti focalizzi le cose durano di più… Quindi se vuoi massimizzare un momento piacevole, potresti prestarci maggiore attenzione.
 
-\noindent \textbf{\large Altre distorsioni comuni} \\
+\subsubsection{Altre distorsioni comuni}
 Errori di ragionamento chiamate fallacie induttive, ovvero, pensare che se è successo una volta allora succederà sempre.
 Se una cosa è vera una volta allora lo sarà sempre. Vediamo alcuni esempi:
 
@@ -563,7 +558,7 @@ l'esperienza di oggi modificando la storia attorno a quell'evento.
 Queste sono solo alcune delle fallacie studiate. Abbiamo anche quelle che fanno appello alle emozioni, che portano a
 cambiare opinione per paura o compassione, usate molto in televisione\endnote{\raggedright\url{https://it.wikipedia.org/wiki/Fallacia}}.
 
-\noindent \textbf{\large Libero Arbitrio} \\
+\subsubsection{Libero Arbitrio}
 Prendiamo decisioni attraverso schemi mentali o automatismi fallaci, bias cognitivi, di cui non ci rendiamo conto. I
 bias cognitivi che abbiamo visto precedentemente sono comuni, con percentuali più o meno diverse. In più,
 ognuno di noi sviluppa degli schemi mentali suoi, che sono unici, ma di cui non sempre ne è a conoscenza, ma da cui può
@@ -901,8 +896,6 @@ valori corretti, se elaborarli o visualizzati in un certo modo, possono far assu
 \vspace{1em}
 \begin{center}
     \includegraphics[width=0.95\textwidth]{images/Libro-img00345.jpg}
-    \captionof{figure}{Descrizione della tua immagine}
-    \label{fig:mia_immagine}
 \end{center}
 \vspace{1em}
 
@@ -1256,7 +1249,7 @@ Felicità e social
 
 Chi usa i social network in modo attivo, ovvero pubblicando contenuti, può trarne benefici, anche se esiste il rischio di sviluppare comportamenti narcisistici. Al contrario, un uso passivo, cioè limitarsi a fruire dei contenuti altrui, è stato associato a una minore soddisfazione nella vita\endnote{Passive social network usage and life satisfaction among Vietnamese university students: a moderated mediation model of self-esteem and gender\raggedright\url{https://www.semanticscholar.org/paper/Passive-social-network-usage-and-life-satisfaction-Nguyen-Dang/7151b8ecc33af2a0b81e2244420be2f48937db75}}. Il problema è che ciò che viene condiviso online tende a rappresentare principalmente momenti eccezionali e positivi, creando una distorsione: si ha la falsa impressione che gli altri vivano costantemente esperienze straordinarie, mentre noi siamo fermi davanti a uno schermo.
 
-Inoltre, i social costruiscono delle “para-relazioni” che possono illudere il cervello di avere una vita sociale appagante. Questo può ridurre la motivazione a impegnarsi in relazioni autentiche e offline, spesso più faticose da mantenere. Per chi sta attraversando un momento difficile, queste scorciatoie digitali, come community online, videogiochi o i social stessi, rischiano di diventare rifugi che impediscono di sviluppare strumenti per affrontare la realtà. Tuttavia, in altri casi, questi strumenti possono offrire supporto emotivo e senso di appartenenza. Alcuni studi suggeriscono che l’uso intensivo dei social media, soprattutto in modalità multitasking, potrebbe essere associato a una ridotta capacità di attenzione sostenuta. Tuttavia, le evidenze non sono ancora univoche. Quel che è certo è che il tempo dedicato ai social è tempo sottratto ad altre attività come lavorare, studiare o conversare. Se però l’uso resta contenuto, possono offrire anche momenti di svago e rilassamento.
+Inoltre, i \hyphenation{so-cial} costruiscono delle “para-relazioni” che possono illudere il cervello di avere una vita sociale appagante. Questo può ridurre la motivazione a impegnarsi in relazioni autentiche e offline, spesso più faticose da mantenere. Per chi sta attraversando un momento difficile, queste scorciatoie digitali, come community online, videogiochi o i social stessi, rischiano di diventare rifugi che impediscono di sviluppare strumenti per affrontare la realtà. Tuttavia, in altri casi, questi strumenti possono offrire supporto emotivo e senso di appartenenza. Alcuni studi suggeriscono che l’uso intensivo dei social media, soprattutto in modalità multitasking, potrebbe essere associato a una ridotta capacità di attenzione sostenuta. Tuttavia, le evidenze non sono ancora univoche. Quel che è certo è che il tempo dedicato ai social è tempo sottratto ad altre attività come lavorare, studiare o conversare. Se però l’uso resta contenuto, possono offrire anche momenti di svago e rilassamento.
 La comunicazione ormai passa in gran parte attraverso gli smartphone. In un contesto altamente digitalizzato, un gruppo che scegliesse di rinunciare completamente ai dispositivi mobili potrebbe incontrare difficoltà a comunicare con il resto della società circa la sua rivoluzione.
 
 Usare attivamente i social non ci rende comunque immuni ai problemi: Ogni volta che pensiamo di pubblicare qualcosa, difficilmente non penseremo all'effetto che potrebbe avere su chi lo guarderà, quale inquadratura usare, che testo scrivere ecc... così la nostra attenzione si allontana dal momento presente e si concentra sulla percezione che vogliamo generare negli altri. In questo modo, si rischia di vivere esperienze non per piacere personale, ma prevalentemente per mostrarci agli altri. Alcune attività potrebbero venire trascurate perché non “instagrammabili”. In certi casi, ciò può compromettere il valore esperienziale, attivando dinamiche mentali che finiscono ridurre la propria autenticità.
@@ -1777,7 +1770,7 @@ semplice, abituale, per mantenere una certa identità, per non uscire dalla nost
 per non cambiare, per i bias o per altri infiniti motivi. Ad esempio, può essere capitato a tutti, quando ci invitano ad
 uscire il sabato sera, che appena arriva quella data, non si ha voglia di uscire, ma poi, decidiamo comunque di vedere i
 nostri amici e, a fine serata, siamo contenti di aver fatto questa scelta anche se inizialmente, le nostre emozioni, ci avrebbero
-fatto restare a casa.
+fatto restare a casa. Senza regole rischiamo di essere preda delle passioni, dei desideri insaziabili, o della comodità.
 
 Ciò che etichettiamo come negativo dipende in gran parte dal non voler sentire quella cosa - Gennaro Romagnoli
 
@@ -2126,12 +2119,9 @@ Non vogliamo essere buoni a tutti i costi per poi esplodere violentemente.
 Possiamo scoprire di essere violenti ma se impariamo a riconoscere e accettare questa energia, possiamo incanalarla in modi costruttivi, come attraverso la pratica sportiva, senza causare danno agli altri.
 
 \subsubsection{Accettazione}
-Coraggioso non è chi non ha paura, anzi, il contrario. Coraggioso è chi, nonostante la paura, riesce ad agire, altrimenti, forse, sarebbe semplicemente mancanza di paura.
-Allo stesso modo, una persona gentile è capace di violenza, ma semplicemente, decide di non usarla.
-
-Quando parlo di accettazione non vorrei che venisse confusa con rassegnazione. Il rischio altrimenti sarebbe quello di
+Quando si parla di accettazione, non va confusa con rassegnazione. Il rischio altrimenti potrebbe essere quello di
 non cambiare, giustificando i propri atteggiamenti con frasi tipo “sono fatto così”, lamentandosi, deresponsabilizzandosi. Accettare significa riconoscere
-che le cose ora stanno così e, da qui, posso capire cosa fare per intervenire. Se invece mi lamento e do la colpa a fattori esterni, difficilmente inizierò a capire come intervenire, se credo che la questione sia completamente dipendente da qualcosa che non sono io. Se ci
+che le cose ora stanno così e, da qui, posso capire cosa fare per intervenire e nel frattempo vivere sereno. Se invece mi lamento e do la colpa a fattori esterni, difficilmente inizierò a capire come intervenire, se credo che la questione sia completamente dipendente da qualcosa che non sono io. Se ci
 troviamo imbottigliati nel traffico, non possiamo intervenire in nessun modo. Molte persone si arrabbiano, suonano il
 clacson, ma la situazione difficilmente cambierà. L'unica scelta che hai è quella di passare i prossimi
 minuti o le prossime ore nervoso o sereno, impiegando al meglio il proprio tempo, magari con un audio libro. 
@@ -2139,10 +2129,6 @@ Quando senti un disagio non devi fare per forza qualcosa. Magari bisogna solo ac
 questa situazione ti fa stare così.
 
 Possiamo fare una guerra, anche metaforicamente, ma con la pace nel cuore.
-
-È sbagliato ciò che limita ingiustamente la libertà e il benessere altrui. Quindi è sbagliato non stare
-nel presente? Giudicare? Farsi le seghe mentali? Pensare al passato o al futuro? Essere preoccupati? Fantasticare? No! Ognuna di queste tendenze può avere una sua utilità; l'obiettivo è imparare a far sì che questi meccanismi si avviino il meno possibile in modo inconsapevole, campulsivamente. 
-Come suggersice Gennaro Romagnoli chiediamoci: cos'è importante per me in questo momento?
 
 Non esiste il piacere o il dolore in una vita, ma il piacere e il dolore. Bisogna imparare a fare stare, a trovare quel
 che ci piace attraverso le burrasche emozionali.
@@ -2327,44 +2313,6 @@ A volte ricerchiamo così ossessivamente il benessere da viverlo con ansia.
 
 "Nella nostra cultura esiste uno stigma sulla tristezza." - Eric Wilson
 
-
-
-
-
-
-
-
-
-
-
-
-
-Spesso alla domanda: “quali sono i tuoi valori?” vediamo che molte persone non ci hanno ancora pensato e, potrebbero rispondere,
-l'amicizia, l'onestà, l'amore ecc… tutte cose molto
-importanti, ma anche piuttosto generiche. Provate a pensate di essere al vostro funerale,
-cosa vorreste che le persone dicessero di voi? Se sapessi che ti resta soltanto un anno di vita, che tipo di
-persona ti piacerebbe essere e cosa vorresti fare in questo tempo? Se rimanessi intrappolato sotto le macerie di un
-edificio e ti rimanessero pochi minuti di vita, chi chiameresti al telefono e cosa diresti? 
-Se potessi premere un pulsante che mi darebbe la piena approvazione di tutte le persone, cosa farei della mia vita e, che tipo di persona vorrei essere?
-Queste domande possono darci indizi sui nostri valori. 
-
-
-
-
-
-
-A volte sentiamo che bisogna fare quello che si sente, in maniera spontanea, ed è vero! Ma non basta! Questo pensiero,
-presuppone erroneamente che tutti gli uomini agiscano in maniera coerente con i propri valori, ma se così fosse sapremmo
-già tutti cosa fare per essere felici e lo faremmo. Il nostro cervello tende a essere più sensibile ai pericoli e alle minacce che alle emozioni positive, per ragioni evolutive. Per questo motivo, coltivare la felicità può richiedere intenzionalità e direzione. Senza regole rischiamo di essere preda delle passioni, dei desideri insaziabili, finito uno ne inizia un altro all'infinito. Inoltre, alcune scelte che rappresentano
-uno sforzo o qualcosa che non vorremmo fare, possono rivelarsi utili per il futuro, che presto o tardi verrà e ne
-potremmo giovare. Una volta che avremo coltivato un maggiore equilibrio interiore e una direzione chiara, potrà emergere un maggiore spazio per la spontaneità.
-
-Concentrati sul significato che dai alla tue azioni e, non sulla felicità. Non chiederti cosa ti faccia felice, ma cosa
-fornisca senso alla tua vita.
-Se cerchi un significato, quest'ultimo lo potrai trovare sia nei momenti felici che in quelli tristi. Nei momenti tristi chiediamoci: qual è il significato di questo momento? A cosa mi servirà sopportare certe fatiche?
-Quando ci fissiamo rigidamente sull’idea di dover essere sempre felici, rischiamo di reagire con evitamento o disagio ai momenti di difficoltà, perdendo l’opportunità di dargli un senso.
-Se invece cerchi un senso, anche nella tristezza, non sarai frenetico nell'attesa che questo momento passi, perché anche quel momento potrebbe acquisire un suo significato.
-
 \begin{mdframed}[linewidth=1pt]
 Motivazione Vs Metodo
 
@@ -2459,7 +2407,169 @@ fare niente non è mai fare niente: ti obbliga a riflettere e a compiere libere 
 utili. Gennaro Romagnoli nella puntata 81 consiglia di allenarsi a non fare niente, per non avere il pilota automatico sempre sul "fare".
 \end{mdframed}
 
-In psicologia si osserva spesso una relazione bidirezionale tra autostima e azione: se non agiamo, falliamo, e questo può abbassare l’autostima; viceversa, una bassa autostima può ostacolare l’azione. Quindi l'autostima può essere l'effetto, non la causa e, questo può essere osservato in diverse abilità psicologiche.
+\subsubsection{Aspettative}
+Spesso soffriamo perché abbiamo aspettative su qualcosa, sul futuro, su una persona e poi, quando le cose si sono mostrate diverse da come le avevamo
+immaginate, ci soffriamo, anche se, nulla ci avesse dato modo di pensare che sarebbe potuto essere così, ci avevamo
+sperato. Quando abbiamo aspettative su qualcosa, soprattutto sulle persone, spesso possono diventare pretese. Spesso
+è la nostra mente a preparare il terreno fertile per il nostro futuro malessere.
+Va bene avere delle aspettative, ma bisogna stare attenti a non farle diventare delle pretese. 
+Per essere deluso prima ti devi illudere.
+
+Possiamo chiederci: ogni volta che proponiamo qualcosa a qualcuno, se quest'ultimo dicesse no, come reagiremo? In base a
+questa possiamo capire se si tratta di una aspettativa o una pretesa. Anche qua, non esiste un bianco o un nero, anche
+la pretesa non è sempre sbagliata, nel caso ci siano dei patti ad esempio.
+
+Per lo stoicismo, in controtendenza con l'idea comune, il pensiero pessimista diventa un utile
+esercizio per la felicità. Più che immaginare che una cosa andrà bene, si ipotizza che una cosa andrà male, il praemeditatio malorum, per farsi
+trovare pronti e reagire concretamente. 
+
+Seneca ci invita a distinguere tra eventi che possiamo cambiare da quelli che non possiamo cambiare. Quando la situazione non si può cambiare, come il comportamento degli altri, forse è meglio cambiare il nostro atteggiamento verso essi.
+
+
+
+
+
+
+
+
+Secondo Epicuro, la felicità (atarassia) consiste nell’assenza di dolore fisico e turbamento mentale, cercata attraverso piaceri moderati e la virtù. Se mangi, dormi, bevi e non stai male in generale allora sei felice. Per altri il contrario della felicità non è il dolore, ma la noia. Pensa a
+come stai ora, probabilmente sei seduto, rilassato, la tua vita non è in pericolo, non c'è dolore.
+Ora forse ti staranno venendo in mente tutti i problemi che hai, ma forse sono cose che non esistono ora, riguardano ipotetici scenari per il futuro o errori fatti nel passato, in questo momento forse non ci sono
+problemi. I problemi spesso sono vivi solo nella nostra testa, siamo noi a tenerli vivi e spesso non riguardano il
+momento presente. Va bene pensare ai problemi anticipatamente, solo se siamo noi a deciderlo. Mentre va notato quando la nostra mente torna ai problemi in maniera "automatica" e compulsiva, quando non l'abbiamo deciso noi, quando di default, la nostra mente torna su questi pensieri.
+Quindi ridefinendo le sensazioni della felicità possiamo dire che quello che stai provando ora possiamo chiamarla felicità. 
+
+Le persone più felici sono quelle che tendono a pensare meno alla felicità.
+
+Recenti teorie psicologiche ritengono essere piuttosto raro avere un trauma che rimane così nascosto alla nostra parte conscia come
+suggeriva Freud da non conoscerlo. I traumi che hai avuto, probabilmente li conosci. In certi contesti, può risultare più efficace un approccio orientato al presente, come quello offerto dall'ACT, dalla DBT o dalla psicoterapia breve strategica. Questi modelli, focalizzati sulla risoluzione dei problemi e supportati da evidenze scientifiche, possono fornire strumenti utili per il cambiamento, pur senza la necessità di un'esplorazione approfondita e prolungata del passato.
+
+Mi è piaciuto molto un pezzo letto su “Una gran voglia di vivere”\endnote{\raggedright\url{https://www.amazon.it/dp/8804707275} } di
+Fabio Volo: Dalla strada guardavo la finestra della cucina e cercavo di ricostruire perfettamente
+l'appartamento. Ho realizzato che in quegli anni ero felice, più di quanto mi rendessi conto
+allora. Forse, invece che desiderare di essere felice, sarebbe bastato imparare a riconoscere quando lo ero. Avrei
+voluto indietro uno di quei giorni, avrei voluto incontrare il ragazzo che ero. L'avrei
+abbracciato, gli avrei detto di stare tranquillo e che tutto sarebbe andato per il meglio, nonostante le paure e le
+difficoltà. 
+
+Tutto è buono… Tutto. L'uomo è infelice perché non sa di essere felice. Solo per questo. Questo è tutto, tutto! Chi lo
+comprende sarà subito felice, immediatamente, nello stesso istante. […] Tutto è bene per colui che è consapevole che
+tutto è bene. Se sapessero di stare bene, starebbero bene; ma, finché non sapranno di stare bene, staranno male. Ecco
+tutta l'idea! Tutto! E non ce n'è un'altra.“ - Fëdor Dostoevskij, libro I demoni
+
+Quindi è tutto qua? Questa è la felicità? Ti aspettavi qualcosa di meglio? Delle sensazioni più forti? Il problema a volte è questo, ci aspettiamo qualcosa di troppo elevato, irraggiungibile e irrealistico ma se non riusciamo a
+realizzarlo potremmo stare male. Quello che tanti cercano è una vita come quella dei film, coi i soldi, fama, successo,
+sempre in spiaggia e sempre in viaggio come fine per sentire quelle forti emozioni di euforia. Potresti anche riuscire
+a raggiungere tutti questi obiettivi, avere belle macchine, soldi, fama, successo, questo seppur sia difficile non è
+irrealizzabile, ma lo è la impermutabile sensazione di euforia per come la intendiamo. Il mondo è pieno di esempi, di
+documentari, biografie di persone di successo andate in depressione e, questi racconti hanno in comune la
+sensazione di aver raggiunto tutto quello che serviva per essere felici ma non esserlo. Se ti dici: sarò felice quando
+avrò tot milioni in banca, hai una speranza di felicità. Quando poi raggiungi questo obiettivo, che ti da accesso a
+tutto il mondo materiale e, ti accorgi che non sei ancora felice, ma con la differenza di non avere più una speranza per la felicità, potresti cadere in depressione.
+
+Nelle ricerche di Jutta Heckhausen su donne in premenopausa senza figli, è stato osservato che, abbandonata l’illusione della maternità, alcuni indicatori di distress emotivo diminuivano; tuttavia lo studio va interpretato con cautela per campione, durata e fattori di supporto sociale. A volte alla base della depressione, può esserci la speranza. 
+
+Nel libro "Troppo comodi"\endnote{\raggedright\url{https://www.amazon.it/dp/8836201474}} viene spiegato il concetto di adattamento edonico (Brickman \& Campbell, 1971) che ha osservato che quando le condizioni ci sono favorevoli, potremme abbassarsi la soglia di ciò che consideriamo un problema, il che può portare a focalizzare l'attenzione su un numero maggiore di preoccupazioni. Il libro consiglia, tra le varie cose, possiamo passare 20 minuti nella natura, tre volte a settimana, per fare una pausa e staccare e, durante questo tempo, i livelli di colesterolo tendono a ridursi\endnote{\raggedright\url{https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00722/full}}. Uno studio ha osservato questo fenomeno anche nei film: se solitamente guardi commedie sarai più coinvolto da situazioni tese rispetto a chi guarda thriller, perché meno abituato\endnote{\raggedright\url{https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2024.1396811/full}}.
+
+\begin{mdframed}[linewidth=1pt]
+Capita che quando desideriamo qualcosa stiamo cercando la sensazione che crediamo ci darà. 
+
+C'è un'antica storia taoista su un contadino il cui cavallo scappa.
+"Che sfortuna" gli dice suo fratello. Il contadino scrolla le spalle.
+"Un bene, un male, chissà" dice. Una settimana dopo il cavallo torna,
+portando con sé una bella cavalla selvatica. "Che meraviglia" dice il
+fratello. Ancora una volta, il contadino resta impassibile. "Un bene, un male,
+chissà" dice. Alcuni giorni dopo, il figlio del contadino salta in groppa alla cavalla sperando di
+domare la bestia selvaggia, ma viene disarcionato e cade a terra, rompendosi una gamba.
+"Terribile!" esclama il fratello. "Un bene, un male,
+chissà" risponde il contadino. Il giorno dopo i giovani del villaggio sono chiamati al servizio
+militare, ma poiché il figlio del contadino ha la gamba rotta, viene esonerato. Il fratello dice al contadino che
+quella è senza dubbio la notizia migliore di tutte. "Un bene, un male,
+chissà" ripete lui. Il contadino in questa storia non si perde nel “che cosa succederebbe se” ma
+si concentra su “ciò che è”, senza giudicare il momento.
+
+Molto simile anche la parabola zen che racconta:
+Un giovane monaco si reca dal suo maestro e gli dice, preoccupato:
+"Maestro, la mia meditazione è un disastro! La mia mente è agitata, mi distraggo continuamente, mi sento frustrato e non riesco a trovare pace."
+
+Il maestro, con calma, lo guarda e risponde:
+"Passerà."
+
+Dopo qualche tempo, il monaco ritorna, questa volta raggiante di gioia:
+"Maestro, la mia meditazione è meravigliosa! Mi sento in pace, concentrato, pieno di beatitudine!"
+
+E ancora una volta il maestro, con la stessa calma, risponde:
+"Passerà."
+
+
+Possiamo pensare di tenere un piccolo quaderno dei desideri, con  anche le piccole cose:
+ho bisogno di finire questo, di comprare quest'altro, di organizzare quello ecc…
+A fianco di ogni voce aggiungere: anche quando lo avrò ottenuto, potrebbe rimanere tutto come prima.
+In modo da ridurre le illusioni che il futuro sarà necessariamente migliore e vivere il presente.
+E anche se riuscissi a vivere il presente, forse non mi cambierà nemmeno questo.
+Capita spesso di avere la tendenza a voler essere un pochino di più di ciò che già siamo.
+
+Come consiglia Jay Shetty in Pensa come un monaco\endnote{Pensa come un monaco
+\raggedright\url{https://www.amazon.it/dp/B08DLDBTPM}}, quando state prendendo una
+decisione, discutendo con qualcuno, programmando il fine settimana, quando siete spaventati, turbati, arrabbiati o
+smarriti, ponetevi questa domanda: Che cosa farebbe un monaco in questo momento? 
+
+Ne “Il lupo e il filosofo”\endnote{\raggedright\url{https://www.amazon.it/filosofo-Lezioni-dalla-natura-selvaggia/dp/8804679336/} } Mark
+Rowlands Spiega come gli esseri umani siano creature del tempo mentre i lupi creature del momento. Quando si ha un
+tumore ci sono alcuni momenti dove ci si sente bene e altri no. Un lupo nei momenti in cui si sente bene si comporta
+come se tutto andasse bene e può uscire per andare a correre. Un essere umano no, prenderebbe quel tempo per riposarsi.
+Anche un momento dove potrebbe sentirsi bene, verrà vissuto comunque come il momento di una persona che ha un tumore.
+
+A differenza degli esseri umani, un gatto o qualsiasi altro animale non ha progetti da portare avanti, un percorso di studi da completare o relazioni da sistemare. Non ha alternative, non ha scelte, nemmeno quella di annoiarsi. Le loro vite sono spesso dominate dall'istinto e dalla reazione al momento presente, il che permette loro di vivere con una pienezza sensoriale che a noi a volte sfugge. 
+\end{mdframed}
+
+Abbiamo sempre di più, ma non sembriamo più felici. Alcuni esempi quando guardiamo i vip o i nostri amici sui
+social network sembra che tutti stiano facendo una vita perfetta, viaggi, esperienze, amici, mare, montagna mentre noi
+siamo lì sul divano a non fare niente e ci sembra che sia davvero così. Sembra che tutti siano in vacanza quando siamo sui social, ma se
+ci pensiamo sappiamo che le persone generalmente fanno una o due settimane all'anno di vacanza e
+probabilmente anche loro per il resto dell'anno si troveranno sul divano con la percezione che
+tutti stiano facendo un sacco di cose interessanti. Quando guardiamo i social network, la
+televisione, le riviste di moda ecc… la nostra insoddisfazione potrebbe aumentare se facciamo il paragone con noi e persone
+più ricche, belle, in forma, con più soldi e che si stanno divertendo. L'insoddisfazione dipende dai paragoni che
+facciamo, che dipendono da definizioni e aspettative. Se ci paragoniamo verso l'alto pensiamo che gli altri siano
+migliori di noi, ma anche paragonarsi verso il basso, con persone che crediamo peggiori di noi non ci aiuterà.
+
+Il confronto con gli altri può rivelarsi problematico, perché non riusciamo a confrontare tutta la nostra vita con quella
+degli altri, ma solo aspetti particolari. Quindi troveremo quello più magro, quello più ricco, quello più bello, ma difficilmente qualcuno senza problemi o difetti. Se ci alleniamo a notare ciò che già realmente abbiamo, ci sarà meno spazio per sentirsi
+insoddisfatti di ciò che non abbiamo. Imparare a vedere il bicchiere mezzo pieno insomma! 
+Per altre persone, l'unica gioia, è che stanno facendo meglio di qualcun altro. Se gli togli questo, possono percepire un grande vuoto. l'unica gioia è qualcuno sta facendo peggio di te. Quanto è malato tutto ciò? Fai qualcosa perché è magnifico, non perché qualcuno non lo fa bene come te\endnote{\raggedright\url{https://www.youtube.com/watch?v=HeX9kuhSLkE}} - Sadhguru
+
+Quindi come facciamo a cercare la felicità? 
+La felicità è difficile da cercare. Se la cerchi, la stai immaginando, ti ci stai abituando e, spesso gli stai dando delle aspettative. La felicità non possiamo programmarla! Nel momento in cui lo facciamo, rischiamo di toglierli forza. Forse è meglio non chiedersi se siamo felici, perché spesso abbiamo una definizione insostenibile di felicità che difficilmente cambieremo e, anche se ci riuscissimo, forse non la percepiremo mai come "abbastanza". Questo "abbastanza" è potenzialmente infinito e incolmabile. 
+
+Rischiamo di soffrire quando cerchiamo una soluzione a quello che probabilmente non è un problema e, la soluzione la cerchiamo tramite il
+pensiero, cosa difficile per questioni esistenziali e non solo , perché il cervello troverà ipotesi e contro-ipotesi. Dentro
+di noi ci sono tantissime figure, anche contraddittorie, c'è un io solitario, un io compagnone, un io aggressivo, un io
+amorevole, ma solitamente mi identifico in maniera polarizzata con uno solo di questi. 
+Quando sentiamo di esserci comportati in maniera aggressiva non ha senso mortificarsi, perché noi
+non siamo aggressivi, siamo anche aggressivi, il nostro comportamento è stato aggressivo, non noi in assoluto. Anche il
+comportamento opposto non è costruttivo, ovvero dirsi che abbiamo fatto bene a comportarci così e che sono gli altri a
+sbagliare. È importante invece riconoscere che siamo stati aggressivi, senza giudicarci e trovare delle strategie per
+riconoscere quando scatta questa cosa in noi e gestirla. 
+
+\begin{mdframed}[linewidth=1pt]
+\textbf{Cosa fare se qualcuno sta per aggredirti fisicamente?}
+
+Se ti trovi in una situazione in cui qualcuno sta per aggredirti fisicamente, è fondamentale evitare lo scontro fisico per molte ragioni. Non solo per evitare lunghe battaglie legali e possibili sanzioni che possono superare le diverse migliaia di euro, ma anche per non compromettere la tua fedina penale.
+
+Come evitare lo scontro?\endnote{\raggedright\url{https://www.youtube.com/watch?v=Y7be57VAiIU}}
+\begin{itemize}
+\item Mantieni la calma: Usa una voce calma, lenta e pacata. Cerca di apparire piccolo, ma non troppo, e guarda l’aggressore negli occhi senza fissarlo troppo intensamente. È importante essere calmi, ma evita di dire “calmati”, poiché questo potrebbe irritare ulteriormente la persona.
+\item Mantieni la distanza: Mostra le mani in alto per far vedere che sei disarmato e non intendi attaccare. Questo gesto può anche essere utile per difenderti rapidamente, come nel pugilato, ma deve essere fatto solo in casi estremi. Altrimenti, potrebbe sembrare che tu sia pronto allo scontro, il che potrebbe metterti dalla parte del torto legalmente.
+\item Non gridare genericamente 'aiuto': a causa dell'effetto spettatore, è più efficace rivolgersi direttamente a una sola persona, indicandola chiaramente (es. 'Tu con la giacca blu, chiama la polizia!')
+\end{itemize}
+Seguendo questi consigli, puoi cercare di disinnescare la situazione e proteggerti senza ricorrere alla violenza.
+\end{mdframed}
+
+Sarebbe meglio evitare identificazioni troppo rigide, perché il giusto e lo sbagliato non esistono in assoluto e anche quando
+proviamo a definirlo, la nostra definizione è filtrata da mille cose, dai miei schemi mentali,
+bias, fattori culturali, stati emotivi in cui ci troviamo ecc… Insomma, una miriade di errori che non riconosciamo e che
+danno un risultato troppo deformato per poter fare affidamento e attribuirci una cosa così importante come la nostra identità.
 
 Paul Watzlawick in Istruzioni per rendersi infelici, Ci fornisce
 numerosi esempi: se vi concentrate sulle vostre scarpe, vi accorgerete che in alcuni punti possano essere scomode,
@@ -2685,6 +2795,9 @@ demonizzati\endnote{\raggedright\url{https://www.psicologianeurolinguistica.net/
 L'ideale sarebbe riuscire a scegliere noi, grazie alla nostra consapevolezza, in quale modalità
 portare la nostra mente, in base al nostro scopo in quel momento.
 
+L'obiettivo è imparare a far sì che questi meccanismi si avviino il meno possibile in modo inconsapevole, campulsivamente. 
+Come suggersice Gennaro Romagnoli chiediamoci: cos'è importante per me in questo momento?
+
 Non bisogna essere sempre presenti, nemmeno cercare di passare la maggior parte del tempo in questo stato. Se ti viene
 voglia di essere più presente, puoi essere più presente. Se vuoi far vagare la mente, puoi far vagare la mente. è come
 la palestra. Dovresti fare esercizi tutto il giorno? No! Anche se fa meglio camminare che stare seduti, non è sempre
@@ -2696,172 +2809,6 @@ documentavano il proprio stato d'animo e ciò che stavano facendo. Sulla base di
 testimonianze la ricerca ha scoperto che, a prescindere dalle loro attività specifiche, le persone si dichiaravano
 significativamente più felici quando erano completamente immerse nel presente. L'effetto non dipendeva da ciò che stavano pensando. Potevano essere impegnate in un pensiero piacevole, neutro o sgradito.
 Quand'erano concentrate su elementi esterni al presente erano meno felici. 
-
-\subsubsection{Aspettative}
-Ne parlo spesso all'interno del libro. Molto spesso capita che soffriamo perché avevamo delle
-aspettative su un certo oggetto, sul futuro, su una persona e poi, quando le cose si sono mostrate diverse da come le avevamo
-immaginate, ci soffriamo, anche se, nulla ci avesse dato modo di pensare che sarebbe potuto essere così, ci avevamo
-sperato. Quando abbiamo aspettative su qualcosa, soprattutto sulle persone, spesso possono diventare pretese. È spesso
-la nostra mente a preparare il terreno fertile per il nostro malessere.
-Ci sta avere delle aspettative, ma bisogna stare attenti a non farle diventare delle pretese. 
-Per essere deluso prima ti devi illudere con frasi come: Sarà così per sempre, mi/ti conosco bene, a me non accadrà mai, ecc…
-
-Possiamo chiederci: ogni volta che proponiamo qualcosa a qualcuno, se quest'ultimo dice no, come reagiremo? In base a
-questa possiamo capire se si tratta di una aspettativa o una pretesa. Anche qua, non esiste un bianco o un nero, anche
-la pretesa non è sempre sbagliata, nel caso ci siano dei patti impliciti o espliciti ad esempio.
-
-Notate che ritroviamo il pensiero dicotomico, o bianco/nero (parole come tutto, niente, mai, sempre, ogni volta ecc..).
-
-Per lo stoicismo, in controtendenza con l'idea comune, il pensiero pessimista diventa un utile
-esercizio per la felicità. Più che immaginare che una cosa andrà bene, si ipotizza che una cosa andrà male, il praemeditatio malorum, per farsi
-trovare pronti e reagire concretamente e facendosi trovare psicologicamente preparati. Secondo Seneca, l'ira nasce in chi ha una visione razionale del mondo e si arrabbia perché nutre aspettative eccessivamente ottimistiche. Prendiamo ad esempio un
-camionista, una persona che a viaggia tanto su strada. Può capitare di vedere qualcuno che fa qualcosa di stupido,
-taglia la strada ecc… Non è quindi strano arrabbiarsi per qualcosa che sappiamo che probabilmente succederà? Non è
-ottimismo credere che in 8 ore o più di guida tutte le persone che incontreremo saranno automobilisti modello? Ci si dovrebbe
-arrabbiare per qualcosa di ingiusto e sorprendente. Uno che ci taglia la strada è ingiusto, ma non così
-sorprendente. Non per questo dobbiamo accettare delle cose ingiuste che però sono entrate nella quotidianità. Sempre
-Seneca ci viene in aiuto dicendo che grazie al raziocinio possiamo distinguere tra eventi che possiamo cambiare da
-quelli che non possiamo cambiare, mentre solitamente agiamo spesso allo stesso modo, trattando tutte le situazioni nella stessa maniera, come se fossero tutte modificabili. Quando la situazione non si può cambiare, come il comportamento degli altri, forse è meglio cambiare il nostro atteggiamento verso essi. L'accettazione. Dove accettazione non significa rassegnazione o non avere più obiettivi.
-
-Secondo Epicuro, la felicità (atarassia) consiste nell’assenza di dolore fisico e turbamento mentale, cercata attraverso piaceri moderati e la virtù. Se mangi, dormi, bevi e non 
-stai male in generale allora sei felice. Per altri il contrario della felicità non è il dolore, ma la noia. Pensa a
-come stai ora, probabilmente sei seduto, rilassato, la tua vita non è in pericolo, non c'è dolore.
-Ora forse ti staranno venendo in mente tutti i problemi che hai, ma forse sono cose che non esistono ora, riguardano ipotetici scenari per il futuro o errori fatti nel passato, in questo momento forse non ci sono
-problemi. I problemi spesso sono vivi solo nella nostra testa, siamo noi a tenerli vivi e spesso non riguardano il
-momento presente. Va bene pensare ai problemi anticipatamente, solo se siamo noi a deciderlo. Mentre va notato quando la nostra mente torna ai problemi in maniera "automatica" e compulsiva, quando non l'abbiamo deciso noi, quando di default, la nostra mente torna su questi pensieri.
-Quindi ridefinendo le sensazioni della felicità possiamo dire che quello che stai provando ora possiamo chiamarla felicità. 
-
-Le persone più felici sono quelle che tendono a pensare meno alla felicità.
-
-Recenti teorie psicologiche ritengono essere piuttosto raro avere un trauma che rimane così nascosto alla nostra parte conscia come
-suggeriva Freud da non conoscerlo. I traumi che hai avuto, probabilmente li conosci. In certi contesti, può risultare più efficace un approccio orientato al presente, come quello offerto dall'ACT, dalla DBT o dalla psicoterapia breve strategica. Questi modelli, focalizzati sulla risoluzione dei problemi e supportati da evidenze scientifiche, possono fornire strumenti utili per il cambiamento, pur senza la necessità di un'esplorazione approfondita e prolungata del passato.
-
-Mi è piaciuto molto un pezzo letto su “Una gran voglia di vivere”\endnote{\raggedright\url{https://www.amazon.it/dp/8804707275} } di
-Fabio Volo: Dalla strada guardavo la finestra della cucina e cercavo di ricostruire perfettamente
-l'appartamento. Ho realizzato che in quegli anni ero felice, più di quanto mi rendessi conto
-allora. Forse, invece che desiderare di essere felice, sarebbe bastato imparare a riconoscere quando lo ero. Avrei
-voluto indietro uno di quei giorni, avrei voluto incontrare il ragazzo che ero. L'avrei
-abbracciato, gli avrei detto di stare tranquillo e che tutto sarebbe andato per il meglio, nonostante le paure e le
-difficoltà. 
-
-Tutto è buono… Tutto. L'uomo è infelice perché non sa di essere felice. Solo per questo. Questo è tutto, tutto! Chi lo
-comprende sarà subito felice, immediatamente, nello stesso istante. […] Tutto è bene per colui che è consapevole che
-tutto è bene. Se sapessero di stare bene, starebbero bene; ma, finché non sapranno di stare bene, staranno male. Ecco
-tutta l'idea! Tutto! E non ce n'è un'altra.“ - Fëdor Dostoevskij, libro I demoni
-
-Quindi è tutto qua? Questa è la felicità? Ti aspettavi qualcosa di meglio? Delle sensazioni più forti? Il problema a volte è questo, ci aspettiamo qualcosa di troppo elevato, irraggiungibile e irrealistico ma se non riusciamo a
-realizzarlo potremmo stare male. Quello che tanti cercano è una vita come quella dei film, coi i soldi, fama, successo,
-sempre in spiaggia e sempre in viaggio come fine per sentire quelle forti emozioni di euforia. Potresti anche riuscire
-a raggiungere tutti questi obiettivi, avere belle macchine, soldi, fama, successo, questo seppur sia difficile non è
-irrealizzabile, ma lo è la impermutabile sensazione di euforia per come la intendiamo. Il mondo è pieno di esempi, di
-documentari, biografie di persone di successo andate in depressione e, questi racconti hanno in comune la
-sensazione di aver raggiunto tutto quello che serviva per essere felici ma non esserlo. Se ti dici: sarò felice quando
-avrò tot milioni in banca, hai una speranza di felicità. Quando poi raggiungi questo obiettivo, che ti da accesso a
-tutto il mondo materiale e, ti accorgi che non sei ancora felice, ma con la differenza di non avere più una speranza per la felicità, potresti cadere in depressione.
-
-Nelle ricerche di Jutta Heckhausen su donne in premenopausa senza figli, è stato osservato che, abbandonata l’illusione della maternità, alcuni indicatori di distress emotivo diminuivano; tuttavia lo studio va interpretato con cautela per campione, durata e fattori di supporto sociale. A volte alla base della depressione, può esserci la speranza. 
-
-Nel libro "Troppo comodi"\endnote{\raggedright\url{https://www.amazon.it/dp/8836201474}} viene spiegato il concetto di adattamento edonico (Brickman \& Campbell, 1971) che ha osservato che quando le condizioni ci sono favorevoli, potremme abbassarsi la soglia di ciò che consideriamo un problema, il che può portare a focalizzare l'attenzione su un numero maggiore di preoccupazioni. Il libro consiglia, tra le varie cose, possiamo passare 20 minuti nella natura, tre volte a settimana, per fare una pausa e staccare e, durante questo tempo, i livelli di colesterolo tendono a ridursi\endnote{\raggedright\url{https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00722/full}}. Uno studio ha osservato questo fenomeno anche nei film: se solitamente guardi commedie sarai più coinvolto da situazioni tese rispetto a chi guarda thriller, perché meno abituato\endnote{\raggedright\url{https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2024.1396811/full}}.
-
-\begin{mdframed}[linewidth=1pt]
-Capita che quando desideriamo qualcosa stiamo cercando la sensazione che crediamo ci darà. 
-
-C'è un'antica storia taoista su un contadino il cui cavallo scappa.
-"Che sfortuna" gli dice suo fratello. Il contadino scrolla le spalle.
-"Un bene, un male, chissà" dice. Una settimana dopo il cavallo torna,
-portando con sé una bella cavalla selvatica. "Che meraviglia" dice il
-fratello. Ancora una volta, il contadino resta impassibile. "Un bene, un male,
-chissà" dice. Alcuni giorni dopo, il figlio del contadino salta in groppa alla cavalla sperando di
-domare la bestia selvaggia, ma viene disarcionato e cade a terra, rompendosi una gamba.
-"Terribile!" esclama il fratello. "Un bene, un male,
-chissà" risponde il contadino. Il giorno dopo i giovani del villaggio sono chiamati al servizio
-militare, ma poiché il figlio del contadino ha la gamba rotta, viene esonerato. Il fratello dice al contadino che
-quella è senza dubbio la notizia migliore di tutte. "Un bene, un male,
-chissà" ripete lui. Il contadino in questa storia non si perde nel “che cosa succederebbe se” ma
-si concentra su “ciò che è”, senza giudicare il momento.
-
-Molto simile anche la parabola zen che racconta:
-Un giovane monaco si reca dal suo maestro e gli dice, preoccupato:
-"Maestro, la mia meditazione è un disastro! La mia mente è agitata, mi distraggo continuamente, mi sento frustrato e non riesco a trovare pace."
-
-Il maestro, con calma, lo guarda e risponde:
-"Passerà."
-
-Dopo qualche tempo, il monaco ritorna, questa volta raggiante di gioia:
-"Maestro, la mia meditazione è meravigliosa! Mi sento in pace, concentrato, pieno di beatitudine!"
-
-E ancora una volta il maestro, con la stessa calma, risponde:
-"Passerà."
-
-
-Possiamo pensare di tenere un piccolo quaderno dei desideri, con  anche le piccole cose:
-ho bisogno di finire questo, di comprare quest'altro, di organizzare quello ecc…
-A fianco di ogni voce aggiungere: anche quando lo avrò ottenuto, potrebbe rimanere tutto come prima.
-In modo da ridurre le illusioni che il futuro sarà necessariamente migliore e vivere il presente.
-E anche se riuscissi a vivere il presente, forse non mi cambierà nemmeno questo.
-Capita spesso di avere la tendenza a voler essere un pochino di più di ciò che già siamo.
-
-Come consiglia Jay Shetty in Pensa come un monaco\endnote{Pensa come un monaco
-\raggedright\url{https://www.amazon.it/dp/B08DLDBTPM}}, quando state prendendo una
-decisione, discutendo con qualcuno, programmando il fine settimana, quando siete spaventati, turbati, arrabbiati o
-smarriti, ponetevi questa domanda: Che cosa farebbe un monaco in questo momento? 
-
-Ne “Il lupo e il filosofo”\endnote{\raggedright\url{https://www.amazon.it/filosofo-Lezioni-dalla-natura-selvaggia/dp/8804679336/} } Mark
-Rowlands Spiega come gli esseri umani siano creature del tempo mentre i lupi creature del momento. Quando si ha un
-tumore ci sono alcuni momenti dove ci si sente bene e altri no. Un lupo nei momenti in cui si sente bene si comporta
-come se tutto andasse bene e può uscire per andare a correre. Un essere umano no, prenderebbe quel tempo per riposarsi.
-Anche un momento dove potrebbe sentirsi bene, verrà vissuto comunque come il momento di una persona che ha un tumore.
-
-A differenza degli esseri umani, un gatto o qualsiasi altro animale non ha progetti da portare avanti, un percorso di studi da completare o relazioni da sistemare. Non ha alternative, non ha scelte, nemmeno quella di annoiarsi. Le loro vite sono spesso dominate dall'istinto e dalla reazione al momento presente, il che permette loro di vivere con una pienezza sensoriale che a noi a volte sfugge. 
-\end{mdframed}
-
-Abbiamo sempre di più, ma non sembriamo più felici. Alcuni esempi quando guardiamo i vip o i nostri amici sui
-social network sembra che tutti stiano facendo una vita perfetta, viaggi, esperienze, amici, mare, montagna mentre noi
-siamo lì sul divano a non fare niente e ci sembra che sia davvero così. Sembra che tutti siano in vacanza quando siamo sui social, ma se
-ci pensiamo sappiamo che le persone generalmente fanno una o due settimane all'anno di vacanza e
-probabilmente anche loro per il resto dell'anno si troveranno sul divano con la percezione che
-tutti stiano facendo un sacco di cose interessanti. Quando guardiamo i social network, la
-televisione, le riviste di moda ecc… la nostra insoddisfazione potrebbe aumentare se facciamo il paragone con noi e persone
-più ricche, belle, in forma, con più soldi e che si stanno divertendo. L'insoddisfazione dipende dai paragoni che
-facciamo, che dipendono da definizioni e aspettative. Se ci paragoniamo verso l'alto pensiamo che gli altri siano
-migliori di noi, ma anche paragonarsi verso il basso, con persone che crediamo peggiori di noi non ci aiuterà.
-
-Il confronto con gli altri può rivelarsi problematico, perché non riusciamo a confrontare tutta la nostra vita con quella
-degli altri, ma solo aspetti particolari. Quindi troveremo quello più magro, quello più ricco, quello più bello, ma difficilmente qualcuno senza problemi o difetti. Se ci alleniamo a notare ciò che già realmente abbiamo, ci sarà meno spazio per sentirsi
-insoddisfatti di ciò che non abbiamo. Imparare a vedere il bicchiere mezzo pieno insomma! 
-Per altre persone, l'unica gioia, è che stanno facendo meglio di qualcun altro. Se gli togli questo, possono percepire un grande vuoto. l'unica gioia è qualcuno sta facendo peggio di te. Quanto è malato tutto ciò? Fai qualcosa perché è magnifico, non perché qualcuno non lo fa bene come te\endnote{\raggedright\url{https://www.youtube.com/watch?v=HeX9kuhSLkE}} - Sadhguru
-
-Quindi come facciamo a cercare la felicità? 
-La felicità è difficile da cercare. Se la cerchi, la stai immaginando, ti ci stai abituando e, spesso gli stai dando delle aspettative. La felicità non possiamo programmarla! Nel momento in cui lo facciamo, rischiamo di toglierli forza. Forse è meglio non chiedersi se siamo felici, perché spesso abbiamo una definizione insostenibile di felicità che difficilmente cambieremo e, anche se ci riuscissimo, forse non la percepiremo mai come "abbastanza". Questo "abbastanza" è potenzialmente infinito e incolmabile. 
-
-Rischiamo di soffrire quando cerchiamo una soluzione a quello che probabilmente non è un problema e, la soluzione la cerchiamo tramite il
-pensiero, cosa difficile per questioni esistenziali e non solo , perché il cervello troverà ipotesi e contro-ipotesi. Dentro
-di noi ci sono tantissime figure, anche contraddittorie, c'è un io solitario, un io compagnone, un io aggressivo, un io
-amorevole, ma solitamente mi identifico in maniera polarizzata con uno solo di questi. 
-Quando sentiamo di esserci comportati in maniera aggressiva non ha senso mortificarsi, perché noi
-non siamo aggressivi, siamo anche aggressivi, il nostro comportamento è stato aggressivo, non noi in assoluto. Anche il
-comportamento opposto non è costruttivo, ovvero dirsi che abbiamo fatto bene a comportarci così e che sono gli altri a
-sbagliare. È importante invece riconoscere che siamo stati aggressivi, senza giudicarci e trovare delle strategie per
-riconoscere quando scatta questa cosa in noi e gestirla. 
-
-\begin{mdframed}[linewidth=1pt]
-\textbf{Cosa fare se qualcuno sta per aggredirti fisicamente?}
-
-Se ti trovi in una situazione in cui qualcuno sta per aggredirti fisicamente, è fondamentale evitare lo scontro fisico per molte ragioni. Non solo per evitare lunghe battaglie legali e possibili sanzioni che possono superare le diverse migliaia di euro, ma anche per non compromettere la tua fedina penale.
-
-Come evitare lo scontro?\endnote{\raggedright\url{https://www.youtube.com/watch?v=Y7be57VAiIU}}
-\begin{itemize}
-\item Mantieni la calma: Usa una voce calma, lenta e pacata. Cerca di apparire piccolo, ma non troppo, e guarda l’aggressore negli occhi senza fissarlo troppo intensamente. È importante essere calmi, ma evita di dire “calmati”, poiché questo potrebbe irritare ulteriormente la persona.
-\item Mantieni la distanza: Mostra le mani in alto per far vedere che sei disarmato e non intendi attaccare. Questo gesto può anche essere utile per difenderti rapidamente, come nel pugilato, ma deve essere fatto solo in casi estremi. Altrimenti, potrebbe sembrare che tu sia pronto allo scontro, il che potrebbe metterti dalla parte del torto legalmente.
-\item Non gridare genericamente 'aiuto': a causa dell'effetto spettatore, è più efficace rivolgersi direttamente a una sola persona, indicandola chiaramente (es. 'Tu con la giacca blu, chiama la polizia!')
-\end{itemize}
-Seguendo questi consigli, puoi cercare di disinnescare la situazione e proteggerti senza ricorrere alla violenza.
-\end{mdframed}
-
-Sarebbe meglio evitare identificazioni troppo rigide, perché il giusto e lo sbagliato non esistono in assoluto e anche quando
-proviamo a definirlo, la nostra definizione è filtrata da mille cose, dai miei schemi mentali,
-bias, fattori culturali, stati emotivi in cui ci troviamo ecc… Insomma, una miriade di errori che non riconosciamo e che
-danno un risultato troppo deformato per poter fare affidamento e attribuirci una cosa così importante come la nostra identità.
 
 \subsubsection{Morte}
 \paragraph{Immortalità}
@@ -3159,9 +3106,10 @@ Per capire meglio i nostri valori possiamo anche porci alcune domande:
 \item Se, qualsiasi cosa tu decida di fare, le persone ti ammirassero, cosa vorresti fare nella tua vita?
 \item Se potessi assistere al tuo funerale, come vorresti che le persone ti ricordassero?
 \item Immagina di ereditare un enorme patrimonio economico, cosa faresti? E con chi?
-\item Come hai reagito in momenti difficili, di dolore, di paura, ansia ecc?
+\item Se sapessi che ti resta soltanto un anno di vita, che tipo di persona ti piacerebbe essere e cosa vorresti fare in questo tempo?
 \item Cosa disapprovi o ti irrita nel comportamento degli altri? Cosa faresti di diverso, se fossi nei loro panni?
 \item Chi ammiri? Quali sono punti di forza e qualità che ti ispirano in queste persone?
+\item Se rimanessi intrappolato sotto le macerie di un edificio e ti rimanessero pochi minuti di vita, chi chiameresti al telefono e cosa diresti? 
 \end{itemize}
 
 Queste domande potrebbero mostrarti che tu vuoi essere ricordato come “curioso”, “amante della libertà”, “coraggioso” ecc… 
@@ -4607,7 +4555,7 @@ teoria, piuttosto che la spiegazione di teorie complesse.
 noi, con il nostro tentativo di fargli cambiare idea, gli artefici del suo irrigidimento?
 \end{itemize}
 
-\noindent \textbf{\large Argomentazione} \\
+\subsubsection{Argomentazione}
 Perché è importante argomentare quando si parla? Perché l'alternativa sarebbe il: è così e
 basta, fidati, te lo dico io, per me è così. Ovviamente non si può argomentare tutto, a volte non è nemmeno necessario
 sviscerare dei presupposti che sono già chiari per entrambi o quando la complessità tecnica diventa troppo alta da
@@ -4705,7 +4653,7 @@ arrivare più in ritardo. Non sono d'accordo con le tue idee, invece di: non cap
 In generale possiamo tenere la conversazione molto semplice, se pensi di aver fatto qualcosa di male, chiedi scusa, che problema c'è a dirlo? Se le argomentazioni sono valide ma non sei ancora convinto del tutto, puoi dire che vorresti rifletterci un po' su. Se il discorso va in una direzioni in cui non sei molto ferrato, puoi dire che non conosci abbastanza questo campo ecc…
 Per questo non mi piace tanto la modalità in cui uno dei due dice: ok, la pensiamo in modo diverso, va bene così. A volte può sembrare un altro modo di dire, io non voglio cambiare idea ma non so come ribattere. A parte su questioni estetiche, penso che si possa sempre arrivare ad un punto nella questione, è chiaro però che se i due hanno idee diverse, uno dovrà cambiare opinione, o forse entrambi trovando una terza strada a metà.
 
-\noindent \textbf{\large Manipolazione} \\
+\subsubsection{Manipolazione}
 Se una moglie, sperimentando una nuova ricetta che non dovesse riuscire nel migliore dei modi,
 ponesse al marito la domanda: ti è piaciuta la minestra? Il marito si troverebbe davanti a due possibilità: nelle
 relazioni possiamo avere un punto di vista personale e uno relazionale. La risposta dal punto di vista personale
@@ -4834,7 +4782,7 @@ esprimevano opinioni su argomenti neutri, scegliendo di dire la verità o di men
 un altro incarico, ma indicato come non rilevante, il terzo nessuno. Alla fine dell’esperimento, i bugiardi sottoposti al compito importante furono percepiti dagli intervistatori come meno plausibili e meno chiari. Gli autori concludono che lo sforzo cognitivo richiesto per mentire mentre si svolge un altro compito rende le bugie meno plausibili e meno chiare, facilitando la loro individuazione.
 \end{mdframed}
 
-\noindent \textbf{\large Cambiare idea al pubblico} \\
+\subsubsection{Cambiare idea al pubblico}
 Continuiamo con alcune strategie usate da persone abituate a parlare in pubblico ad esempio nei dibattiti televisivi,
 non tanto per utilizzarle a nostra volta, ma piuttosto per riconoscerle e non esserne vittime. Alcuni dei seguenti
 punti sono contraddittori con quanto detto precedentemente. Queste strategie sono pensate per il dibattito pubblico,
@@ -4908,7 +4856,7 @@ Nel 2012, Haslam e Reicher reinterpretano gli studi tramite il concetto di ‘en
 \end{mdframed}
 
 \clearpage\section{Amore}
-\noindent \textbf{\large Il problema della definizione} \\
+\subsubsection{Il problema della definizione}
 La definizione di parole come 'felicità' e 'amore' si è evoluta nel tempo, assumendo significati diversi in contesti culturali e storici differenti. Questa evoluzione può generare aspettative poco realistiche e, talvolta, frustrazione.
 
 Spesso confondiamo l'amore con l'infatuazione. Le sensazioni che proviamo nelle fasi iniziali di una relazione, spesso le chiamiamo amore mentre invece è un innamoramento o fase luna di miele. Questa fase iniziale, caratterizzata da forte attrazione e idealizzazione del partner, tende fisiologicamente ad attenuarsi nel tempo, in media tra i 6 mesi e i 2 anni, a causa di cambiamenti neurochimici. Quando finisce la passione, il desiderio, siamo meno gelosi, non sentiamo
@@ -5119,7 +5067,7 @@ solida rete di supporto sociale sulla quale poter contare.
 Insomma, per ognuno è diverso. Mentre dormire con i figli peggiora la qualità del sonno in quanto più fragile e porta a frequenti risvegli.
 \end{mdframed}
 
-\noindent \textbf{\large Single o coppia o poliamore?} \\
+\subsubsection{Single o coppia o poliamore?}
 Secondo uno studio longitudinale su oltre 24.000 persone in Germania ha rilevato che il matrimonio generalmente porta solo un piccolo e temporaneo aumento della felicità, con i livelli di soddisfazione che tendono a ritornare alla normalità dopo l'iniziale entusiasmo. Avere una buona rete relazionale da coltivare anche durante il matrimonio e che resterà anche nel caso di divorzio impatta maggiormente sul nostro benessere complessivo\endnote{\raggedright\url{https://www.apa.org/news/press/releases/2003/03/married-happy}}.
 
 L'ideale sarebbe essere a proprio agio sia da soli che in relazione, cercare di essere il più indipendenti possibili, senza perdere le tue passioni e le tue amicizie che comporterebbe una perdita identitaria di ciò che sei. 
@@ -5457,7 +5405,7 @@ quello che importa è che entrambi siano d'accordo e consapevoli della propria s
 cosa decidiamo essere giusta per noi, non deve essere un modo per fuggirsi. Ad esempio per qualcuno il poliamore
 potrebbe essere un modo per non impegnarsi, per altri, la monogamia è la scelta che non riceverà critiche dall'esterno.
 
-\noindent \textbf{\large Può durare? E come?} \\
+\subsubsection{Può durare? E come?}
 Secondo Massimo Recalcati un amore dura quando un corpo sa rivelarsi sempre nuovo, come un libro o una canzone che,
 anche dopo anni, non via ha ancora stufato. Un'altra caratteristica, contraria
 all'amore romantico della televisione che ci ha imposto un immaginario romantico irrealizzabile è
@@ -5592,7 +5540,7 @@ scrivere su un foglio di carta circa il conflitto più recente con il partner as
 un'ipotetica terza persona che desidera il bene di entrambi. Lo studio ha osservato che un esercizio di sette minuti, svolto tre volte all'anno, può essere un valido strumento per migliorare la gestione dei conflitti e favorire un più rapido ritorno alla serenità all'interno della coppia, contribuendo a diminuire l'impatto negativo degli scontri.\endnote{\raggedright\url{https://www.focus.it/comportamento/psicologia/come-non-litigare-con-partner-salvare-crisi-coppia} }.
 \end{mdframed}
 
-\noindent \textbf{\large Comunicazione} \\
+\subsubsection{Comunicazione}
 Ne gli uomini vengono da Marte le donne da
 Venere\endnote{\raggedright\url{https://www.amazon.it/dp/B00AA6F2OI}} leggiamo di alcune
 differenze comportamentali tra uomini e donne, che però non si conoscono, tendiamo così ad avere aspettative sbagliate.
@@ -5812,7 +5760,7 @@ video\endnote{\raggedright\url{https://www.youtube.com/watch?v=\_O60TYAIgC4} }
 \endnote{\raggedright\url{https://www.stateofmind.it/2016/04/attaccamento-esperimento-di-harlow/}}.
 \end{mdframed} 
 
-\noindent \textbf{\large Quando è finita?} \\
+\subsubsection{Quando è finita?}
 Ma come si fa a capire quando una relazione è finita? A volte ci siamo talmente dentro da non riuscire a vedere la nostra relazione in maniera abbastanza 
 obiettiva. La paura di restare soli, la routine,
 l'abitudine, ci portano a vedere questo come la nostra normalità, finendo talvolta per accettare situazioni asfissianti e tossiche. 
@@ -5871,7 +5819,7 @@ sexual behavior, 48(8), 2473-2489. \raggedright\url{https://pubmed.ncbi.nlm.nih.
 \endnote{\raggedright\url{https://www.stateofmind.it/2020/04/cambiamento-desiderio-sessuale/} }.
 \end{mdframed}
 
-\noindent \textbf{\large Figli} \\
+\subsubsection{Figli}
 Non ne so molto di figli, ma ho comunque raccolto qualcosa, nel caso un giorno mi servisse.
 
 \textbf{Rimpianti}
@@ -6021,7 +5969,7 @@ Una delle qualità principali del liberalismo è il modo in cui riesce a coniuga
 
 \clearpage\subsection{Ecologia}
 
-\noindent \textbf{\large Orologio dell'apocalisse} \\
+\subsubsection{Orologio dell'apocalisse}
 Doomsday Clock in inglese, è un orologio metaforico creato nel 1947 dalla rivista Bulletin of the Atomic Scientists, fondata da scienziati dell’Università di Chicago che indica la vicinanza alla fine dell'umanità,
 rappresentata dalla mezza notte. Ogni anno studiosi e ricercatori ricalcolano quanti minuti mancano alla mezza notte,
 ovvero alla fine dell'umanità tirando in avanti o indietro le lancette. Inizialmente
@@ -6041,7 +5989,7 @@ riarmo nucleare, e la mancanza di azioni da parte delle grandi potenze nel contr
 propria, Pubblico dominio, \raggedright\url{https://commons.wikimedia.org/w/index.php?curid=1575536}}
 \end{figure}
 
-\noindent \textbf{\large Overshoot Day} \\
+\subsubsection{Overshoot Day}
 L'Overshoot Day è il giorno in cui l'umanità ha consumato tutte le risorse naturali (inclusa la capacità di assorbire i nostri rifiuti, come l'anidride carbonica) che la Terra è in grado di rigenerare in un intero anno.
 
 Nel 2019 l'overshoot day è stato il 29 luglio, questo vuol dire che per 5 mesi siamo stati in
@@ -6078,19 +6026,20 @@ Alcuni studi (IPCC e ricerche recenti) osservano che, se le emissioni non sarann
   \caption{Tratto da un ritaglio di giornale (Focus)}
 \end{figure}
 
-\begin{table}[]
-\begin{tabular}{lllll}
-Mezzo di trasporto & Media di passeggeri & Emissioni (g CO2/(km * passeggeri) & & \\
-Aeroplano & 88 & 285 & & \\
-Nave & - & 245 & & \\
-Grande macchina & 1,5 & 158 & & \\
-Piccola Macchina & 1,5 & 104 & & \\
-Moto & 1,2 & 72 & & \\
-Pullman & 12,7 & 68 & & \\
-Grande macchina & 4 & 55 & & \\
-Piccola macchina & 4 & 42 & & \\
-Treno & 156 & 14 & & \\
-Bicicletta & 1 & 0 & & 
+\begin{table}[H]
+\centering % Consigliato per centrare la tabella
+\begin{tabular}{|l|l|l|} \hline
+\textbf{Mezzo di trasporto} & \textbf{Media passeggeri} & \textbf{Emissioni (g CO2/km)} \\ \hline
+Aeroplano & 88 & 285 \\ \hline
+Nave & - & 245 \\ \hline
+Grande macchina & 1,5 & 158 \\ \hline
+Piccola Macchina & 1,5 & 104 \\ \hline
+Moto & 1,2 & 72 \\ \hline
+Pullman & 12,7 & 68 \\ \hline
+Grande macchina & 4 & 55 \\ \hline
+Piccola macchina & 4 & 42 \\ \hline
+Treno & 156 & 14 \\ \hline
+Bicicletta & 1 & 0 \\ \hline
 \end{tabular}
 \end{table}
 
@@ -6102,7 +6051,7 @@ trasportare.
 La scelta del treno, riducendo le macchine in circolazione permette quindi la diminuzione di CO2 di ridurre il
 traffico, aumentare la sicurezza stradale.
 
-\noindent \textbf{\large Cambiamento climatico} \\
+\subsubsection{Cambiamento climatico}
 Una delle critiche al cambiamento climatico, portata avanti da alcune persone, che sostengono di sentire più freddo rispetto ad anni fa. 
 Meno 33 gradi a Chicago, meno 35 gradi in Nord
 Dakota con venti freddi a meno 52 gradi. Questo dipende da diversi fattori, il primo è confondere il meteo con il clima. Il meteo fa riferimento ad un tempo e uno spazio limitato. Mentre il clima si riferisce a tempi più lunghi,
@@ -6138,7 +6087,7 @@ Reports di Nature, il ritmo attuale della deforestazione, se mantenuto, potrebbe
 La CO2 porta a diversi effetti a catena. L'aumento della temperatura provoca una maggiore evaporazione dell'acqua, che forma più nuvole. Il ruolo delle nuvole nel bilancio energetico è complesso: possono contribuire all'effetto serra intrappolando il calore, ma possono anche riflettere la luce solare nello spazio. Tuttavia, l'effetto serra in generale è il fenomeno per cui alcuni gas nell'atmosfera intrappolano il calore riflesso dalla Terra, impedendogli di disperdersi nello spazio e causando un ulteriore aumento della temperatura.
 
 \clearpage
-\noindent \textbf{\large Dieta} \\
+\subsubsection{Dieta}
 
 \begin{wraptable}{r}{6cm}
 \centering
@@ -6146,7 +6095,7 @@ La CO2 porta a diversi effetti a catena. L'aumento della temperatura provoca una
 \begin{tabular}{|m{3cm}|m{2cm}|}
 \hline
 Alimento &
-Impronta idrica (in litri per kg)\\\hline
+\hyphenation{Im-pron-ta} \hyphenation{i-dri-ca} (L/kg)\\\hline
 carne di manzo &
 15 400\\\hline
 carne di pecora &
@@ -6333,7 +6282,7 @@ efficiente se fin dalla nascita si viene a contatto con una quantità sufficient
 \end{mdframed}
 
 \needspace{15cm}
-\noindent \textbf{\large Cosa si può fare?} \\
+\subsubsection{Cosa si può fare?}
 
 \begin{wrapfigure}{i}{9cm}
   \centering
@@ -6442,23 +6391,20 @@ fiscale, ma come possiamo vedere nelle mappe qui di seguito, welfare e tasse van
 Questo non ci deve portare al nazionalismo più cieco, l'Italia ha anche una pressione fiscale alta perché è tra i paesi che evadono di più il fisco, più numerosi altri problemi, come ad esempio l'occupazione.
 
 \needspace{4cm}
-\begin{table}[H]
-\centering
-\caption{Possiamo notare una correlazione tra tasse e welfare. Le mappe sono focalizzate solo sull'Europa in quanto nel resto del mondo non si hanno dati, come potete constatare entrando nella fonte. Inoltre la testa della classifica è composta da stati europei: 1° Francia, 2° Finlandia 3° Belgio 4° Italia, 5° Danimarca, il Giappone si trova in 11° posizione, Nuova Zelanda 21° e Stati Uniti al 23.}
-\begin{tabular}{cc}
-  \begin{subfigure}{0.5\textwidth}
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\linewidth]{images/Libro-img028.png}
-    \caption{Entrate fiscali totali, 2016 - Fonte: \raggedright\url{https://ourworldindata.org/grapher/total-tax-revenues-gdp?tab=map\&time=2016}}
-  \end{subfigure}
-  &
-  \begin{subfigure}{0.5\textwidth}
-    \centering
-    \includegraphics[width=0.8\linewidth]{images/Libro-img029.png}
-    \caption{Spesa pubblica sociale in percentuale del PIL, 2016 - Fonte: \raggedright\url{https://ourworldindata.org/grapher/social-spending-oecd-longrun?tab=map}}
-  \end{subfigure}
-\end{tabular}
-\end{table}
+    \begin{subfigure}[t]{0.495\textwidth}
+        \centering
+        \includegraphics[width=1\linewidth]{images/Libro-img028.png}
+        \caption{Entrate fiscali totali, 2016 - Fonte: \raggedright\url{https://ourworldindata.org/grapher/total-tax-revenues-gdp?tab=map\&time=2016}}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[t]{0.495\textwidth}
+        \centering
+        \includegraphics[width=1\linewidth]{images/Libro-img029.png}
+        \caption{Spesa pubblica sociale in percentuale del PIL, 2016 - Fonte: \raggedright\url{https://ourworldindata.org/grapher/social-spending-oecd-longrun?tab=map}}
+    \end{subfigure}
+\end{figure}
 
 Anni fa, scaricando i dati di sugli indici di pace, clima, potere d'acquisto, welfare, sistema sanitario, istruzione, morti per abuso di sostanze, salute mentale e suicidi, ho creato una pagina web\endnote{\raggedright\url{https://iacoposk8.github.io/projects/best-country/}} dove poter assegnare un importanza da 1 a 100 a questi fattori per generare una classifica dei paesi più adatti a noi. Lasciando tutto a 100 l'Italia è in seconda posizione sotto la Danimarca.
 
@@ -6597,7 +6543,7 @@ In sintesi, gli studi suggeriscono che la presenza di armi in casa non aumenta l
 
 \needspace{15cm}
 \begin{mdframed}[linewidth=1pt]
-Droga
+\hyphenation{Dro-ga}
 \begin{wrapfigure}{i}{4.972cm}
 \includegraphics[width=4.972cm,height=7.287cm]{images/Libro-img054.jpg}
 \caption*{Di Mpv\_51 at English Wikipedia - Transferred from English Wikipedia, Pubblico dominio, \raggedright\url{https://commons.wikimedia.org/w/index.php?curid=546164} }
@@ -6943,71 +6889,56 @@ Questo grafico mostra come negli ultimi 15 anni la criminalità in Italia contin
 \needspace{4cm}
 \begin{figure}[H] 
 \centering
-\floatsetup{valign=c}
+% \floatsetup{valign=c} % Se ti dà errori, assicurati di avere il pacchetto floatrow, altrimenti commentalo
 \begin{subfigure}[b]{0.48\textwidth} 
 \begin{tikzpicture}
 \begin{axis}[
+    width=\textwidth, % <--- AGGIUNTO: Forza il grafico a stare nella colonna
     xmin=2006, xmax=2020,
     ymin=0, ymax=3000000,
     xtick={2006,2008,...,2020},
     ytick={0,500000,1000000,1500000,2000000,2500000,3000000},
     xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, 
-    xticklabel style={rotate=45},
-    legend style={at={(0.5,-0.15)},
-    anchor=north,legend columns=-1},
+    xticklabel style={rotate=45, font=\tiny}, % Font piccolo per evitare sovrapposizioni
+    legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1},
     ymajorgrids=true,
     grid style=dashed,
     axis x line*=bottom, 
     axis y line*=left, 
-    every axis x label/.style={at={(current axis.right of origin)},anchor=north west},
-    every axis y label/.style={at={(current axis.above origin)},anchor=north east},
     scaled x ticks=false,
 ]
-\addplot[
-    color=blue,
-    mark=square,
-    ]
-    coordinates {
-    (2006,2771490)(2007,2933146)(2008,2709888)(2009,2629831)(2010,2621019)(2011,2763012)(2012,2818834)(2013,2892155)(2014,2812936)(2015,2687249)(2016,2487389)(2017,2429795)(2018,2371806)(2019,2301912)(2020,1900624)
-    };
+\addplot[color=blue, mark=square]
+    coordinates {(2006,2771490)(2007,2933146)(2008,2709888)(2009,2629831)(2010,2621019)(2011,2763012)(2012,2818834)(2013,2892155)(2014,2812936)(2015,2687249)(2016,2487389)(2017,2429795)(2018,2371806)(2019,2301912)(2020,1900624)};
 \end{axis}
 \end{tikzpicture}
-\caption{Denunce totali - Istat \raggedright\url{http://dati.istat.it/Index.aspx?DataSetCode=dccv_delittips}}
+\caption{Denunce totali --- Istat \protect\\ \scriptsize \url{http://dati.istat.it/Index.aspx?DataSetCode=dccv_delittips}}
 \label{fig:grafico1}
 \end{subfigure}
 \hfill
 \begin{subfigure}[b]{0.48\textwidth} 
 \begin{tikzpicture}
 \begin{axis}[
+    width=\textwidth, % <--- AGGIUNTO: Forza il grafico a stare nella colonna
     xmin=2006.5, xmax=2019.5, 
     ymin=0, ymax=350000,
     xtick={2006,2008,...,2020},
     ytick={0,50000,100000,150000,200000,250000,300000,350000},
     xticklabel={\pgfmathprintnumber[int trunc]{\tick}}, 
-    xticklabel style={rotate=45}, 
-    legend style={at={(0.5,-0.15)},
-    anchor=north,legend columns=-1},
+    xticklabel style={rotate=45, font=\tiny}, 
+    legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1},
     ymajorgrids=true,
     grid style=dashed,
     axis x line*=bottom, 
     axis y line*=left, 
-    every axis x label/.style={at={(current axis.right of origin)},anchor=north west},
-    every axis y label/.style={at={(current axis.above origin)},anchor=north east},
     scaled x ticks=false, 
 ]
-\addplot[
-    color=blue,
-    mark=square,
-    ]
-    coordinates {
-    (2007,303339)(2008,302583)(2009,276481)(2010,274697)(2011,283508)(2012,290534)(2013,306840)(2014,308617)(2015,309373)(2016,261421)(2017,264197)(2018,279018)(2019,265061)(2020,241016)
-    };
+\addplot[color=blue, mark=square]
+    coordinates {(2007,303339)(2008,302583)(2009,276481)(2010,274697)(2011,283508)(2012,290534)(2013,306840)(2014,308617)(2015,309373)(2016,261421)(2017,264197)(2018,279018)(2019,265061)(2020,241016)};
 \end{axis}
 \end{tikzpicture}
-\caption{Denunce stranieri - Istat \raggedright\url{http://stra-dati.istat.it}}
+\caption{Denunce stranieri --- Istat \protect\\ \scriptsize \url{http://stra-dati.istat.it}}
 \label{fig:grafico2}
 \end{subfigure}
-\label{fig:grafici_affiancati}
 \end{figure}
 
 Ma quindi come mai la popolazione carceraria non decresce allo stesso modo?
@@ -7412,7 +7343,7 @@ Infine, la presunta durabilità superiore dei prodotti Apple non è sempre confe
 
 \clearpage\section{Conclusione}
 
-\noindent \textbf{\large Copertine} \\
+\subsubsection{Copertine}
 
 Le due copertine di questo libro raccontano un unico viaggio: quello dello sguardo.
 La copertina iniziale ci invita a distogliere l'attenzione dalla tempesta dei pensieri che infuria nella mente, per portarla alla solida serenità della montagna delle sensazioni corporee.
@@ -7424,7 +7355,7 @@ Il viaggio non è verso un luogo sereno, ma verso uno sguardo sereno.
 Questo libro è un invito a compiere questo spostamento: imparare a spostare l'attenzione dai pensieri a ciò che è importante per noi, a scegliere di vedere il bicchiere mezzo pieno invece che mezzo vuoto. 
 La pace non si trova al di là della tempesta, ma nello sguardo calmo che la osserva.
 
-\noindent \textbf{\large Finale} \\
+\subsubsection{Finale}
 
 E siamo giunti alla fine di questo viaggio nella "Via di Mezzo". Spero che queste pagine siano state piacevoli e vi abbiano offerto interessanti spunti di riflessione.
 
@@ -7441,13 +7372,8 @@ Spero che questo libro vi abbia stimolato a vivere con autenticità e a trovare 
 \theendnotes
 
 \clearpage
-\newgeometry{a4paper, margin=0cm}
 
 % Inserisce l'immagine di copertina su tutta la pagina
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=\paperwidth,height=\paperheight]{images/cover_back.png}
-    \vspace{-\baselineskip} % Rimuove lo spazio extra sotto l'immagine
-\end{figure}
+\includepdf[width=\paperwidth, height=\paperheight]{images/cover_back.png}
 
 \end{document}

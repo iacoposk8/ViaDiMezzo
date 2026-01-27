@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.bcf
+*.ent
+*.out
+*.toc
+*.run.xml
+*.synctex.gz
+*.synctex(busy)
