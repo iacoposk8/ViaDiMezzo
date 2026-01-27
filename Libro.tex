@@ -898,13 +898,13 @@ modo che possiate analizzarlo. In modo da poter essere critici anche quando si p
 valori corretti, se elaborarli o visualizzati in un certo modo, possono far assumere un concetto molto diverso.
 
 \needspace{4cm}
-\vspace{1em} % Aggiunge un po' di spazio prima
+\vspace{1em}
 \begin{center}
     \includegraphics[width=0.95\textwidth]{images/Libro-img00345.jpg}
-    \captionof{figure}{Descrizione della tua immagine} % Richiede \usepackage{capt-of} o \usepackage{caption}
+    \captionof{figure}{Descrizione della tua immagine}
     \label{fig:mia_immagine}
 \end{center}
-\vspace{1em} % Aggiunge un po' di spazio dopo
+\vspace{1em}
 
 Questi tre grafici che ritroviamo sul libro mostrano i risultati di test di matematica divisi tra uomini e donne. Se
 guardiamo il primo grafico, dove sono mostrate le medie dei test di matematica nei vari anni, vediamo che le donne
@@ -925,14 +925,12 @@ del mondo molto più ottimistica sotto vari punti di vista. Vediamone alcuni:
 
 \begin{figure}[H]
     \centering
-    % --- RIGA 1 ---
     \begin{subfigure}[t]{0.495\textwidth}
         \centering
-        % width=1\linewidth riempie tutta la cella, eliminando bordi bianchi
         \includegraphics[width=1\linewidth]{images/Libro-img006.png}
         \caption{L'aspettativa di vita è raddoppiata dal 1800 al 2011. 
         Credits: \raggedright\url{https://ourworldindata.org/grapher/life-expectancy?country=BRA+CHN+IND+TZA+GBR+USA}}
-    \end{subfigure}% <--- QUESTO % È FONDAMENTALE PER TOGLIERE LO SPAZIO BIANCO
+    \end{subfigure}
     \hfill
     \begin{subfigure}[t]{0.495\textwidth}
         \centering
@@ -941,15 +939,14 @@ del mondo molto più ottimistica sotto vari punti di vista. Vediamone alcuni:
         Credits: \raggedright\url{https://ourworldindata.org/grapher/human-development-index?year=earliest}}
     \end{subfigure}
     
-    \vspace{1em} % Spazio verticale tra le righe della griglia
-    
-    % --- RIGA 2 ---
+    \vspace{1em}
+
     \begin{subfigure}[t]{0.495\textwidth}
         \centering
         \includegraphics[width=1\linewidth]{images/Libro-img008.png}
         \caption{Il PIL è in continuo aumento.
         Credits: \raggedright\url{https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions}}
-    \end{subfigure}%
+    \end{subfigure}
     \hfill
     \begin{subfigure}[t]{0.495\textwidth}
         \centering
@@ -958,14 +955,14 @@ del mondo molto più ottimistica sotto vari punti di vista. Vediamone alcuni:
         Credits: \raggedright\url{https://ourworldindata.org/global-education\#school-enrollment-and-attendance}}
     \end{subfigure}
 
-    \vspace{1em} % Spazio verticale tra le righe della griglia
+    \vspace{1em}
 
     \begin{subfigure}[t]{0.495\textwidth}
         \centering
         \includegraphics[width=1\linewidth]{images/Libro-img012.png}
         \caption{Sempre più persone vivono in governi democratici.
         Credits: \raggedright\url{https://ourworldindata.org/grapher/world-pop-by-political-regime}}
-    \end{subfigure}%
+    \end{subfigure}
     \hfill
     \begin{subfigure}[t]{0.495\textwidth}
         \centering
@@ -6250,13 +6247,9 @@ mostrato elevati costi sanitari e ambientali. Una porzione da circa 200g di carn
 \begin{axis}[
     xbar, xmin=0,
     width=12cm, 
-    % Riduciamo lo spazio extra ai bordi verticali (da 0.5 a 0.1)
     enlarge y limits=0.1,
-    % Opzionale: definisce l'altezza tra una barra e l'altra per evitare che si schiaccino
     y=0.8cm,
-    % Opzionale: definisce lo spessore delle barre
     bar width=0.5cm,
-    % --------------------
     xlabel={Emissioni (kg CO2-eq per kg di prodotto)},
     symbolic y coords={Legumi, Mais, Grano, Radici Amidacee, Uova, Pesca non a strascico, Latteria, Pollame, Maiale, Acquacoltura non a ricircolo,Pesca a strascico, Acquacoltura a ricircolo, Carne Di Ruminanti},
     ytick=data,
