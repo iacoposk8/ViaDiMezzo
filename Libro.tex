@@ -18,6 +18,7 @@
 \usepackage{hyperref}
 \usepackage{pgfplots}
 \pgfplotsset{compat=1.18} % O la versione più recente disponibile
+\usepackage{pgfplotstable}
 \usepackage{subcaption}
 \usepackage{tcolorbox}
 \usepackage{floatrow}
@@ -28,7 +29,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage[absolute]{textpos}
-\usetikzlibrary{shapes.geometric, arrows}
+\usetikzlibrary{patterns,shapes.geometric, arrows}
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
 \newcounter{Figure}
@@ -3249,7 +3250,10 @@ Ogniuno può agire come desidera a patto di non violare a libertà degli altri.
 
 \subsection{Ecologia}
 
-Per ridurre il nostro impatto ecologico, può essere utile conoscere quali sono le aree dove si producono più emissioni, in modo da indirizzare le nostre energie verso gli ambiti più impattanti. Nel seguente grafico sono state divise le attività domestiche da quelle totali, che contengono anche le varie attività commerciali, industrie ecc…
+Per ridurre il nostro impatto ecologico, può essere utile conoscere quali sono le aree dove si producono più emissioni, in modo da indirizzare le nostre energie verso gli ambiti più impattanti. Le emissioni oltre a danneggiare il pianeta possono fare male alla salute, in Europa un decesso su otto è dovuto
+all'inquinamento\endnote{\raggedright\url{https://it.euronews.com/my-europe/2020/09/08/europa-un-cittadino-su-8-muore-per-inquinamento-e-fattori-ambientali}}. 
+Nel seguente grafico sono state divise le attività domestiche da quelle totali, che contengono anche le varie attività commerciali, industrie ecc…
+Il 100\% delle barre gialle è un singolo individo, mentre la totalità delle barre blu rappresenta tutte le persone del mondo.
 
 \needspace{4cm}
 \definecolor{y_base}{HTML}{F39C12}
@@ -3370,7 +3374,8 @@ Per ridurre il nostro impatto ecologico, può essere utile conoscere quali sono 
 
     \end{axis}
 \end{tikzpicture}
-\caption{Credits: \raggedright\url{https://ourworldindata.org/emissions-by-sector} \raggedright\url{https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet}}
+\caption{Credits: \raggedright\url{https://ourworldindata.org/emissions-by-sector} \\
+\raggedright\url{https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet}}
 \end{figure}
 
 Un indice che può aiutarci a comprendere la portata del fenomeno è l'Overshoot Day, ovvero il giorno in cui l'umanità ha consumato tutte le risorse naturali (inclusa la capacità di assorbire i nostri rifiuti, come l'anidride carbonica) che la Terra è in grado di rigenerare in un anno.
@@ -3380,13 +3385,6 @@ Nel 2025 l'Overshoot Day nel mondo è stato il 24 luglio, questo vuol dire che p
 Potete calcolare il vostro personale overshoot day su footprintcalculator.org.
 
 Alcuni studi hanno osservato che, se le emissioni non saranno drasticamente ridotte, entro il 2050 molte aree, potrebbero diventare difficili da abitare a causa di ondate di calore estremo, siccità o innalzamento del livello del mare\endnote{\raggedright\url{https://arxiv.org/abs/2212.04474}}. Questo ha portato alla nascita di alcuni movimenti come il no-fly, dove le persone rinunciano all'aereo come mezzo di trasporto preferendo il treno.
-
-\needspace{4cm}
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.95\linewidth]{images/Libro-img019.jpg}
-  \caption{Tratto da un ritaglio di giornale (Focus)}
-\end{figure}
 
 \begin{table}[H]
 \centering 
@@ -3408,63 +3406,117 @@ Bicicletta & 1 & 0 \\ \hline
 Le navi da crociera emettono ingenti quantità di CO2\endnote{\raggedright\url{https://en.wikipedia.org/wiki/Environmental\_impact\_of\_transport}} e altri inquinanti per passeggero/km, posizionandosi generalmente tra i mezzi di trasporto più impattanti, anche se in specifici scenari di altissimo carico e lunghi viaggi le emissioni pro capite possono avvicinarsi a quelle di auto o autobus. A seguire il trasporto
 su strada dove il rapporto di C02 prodotta per chilometro è più efficiente rispetto a navi e aerei, ma per via della loro numerosità e tempo di utilizzo sono i mezzi ad oggi più inquinanti. Infine abbiamo il treno che si conferma, con un ampio margine, il mezzo più ecologico, anche rispetto alle auto elettriche per via dell'elevato numero di passeggeri che un solo mezzo può trasportare. 
 
-
 \clearpage
 \subsubsection{Dieta}
 
-\begin{wraptable}{r}{6cm}
-\centering
-\caption{\raggedright\url{https://it.wikipedia.org/wiki/Impatto\_ambientale\_dell\%27industria\_dei\_cibi\_animali}}
-\begin{tabular}{|m{3cm}|m{2cm}|}
-\hline
-Alimento &
-\hyphenation{Im-pron-ta} \hyphenation{i-dri-ca} (L/kg)\\\hline
-carne di manzo &
-15 400\\\hline
-carne di pecora &
-10 400\\\hline
-carne di maiale &
-5990\\\hline
-burro &
-5550\\\hline
-carne di capra &
-5520\\\hline
-formaggio &
-5060\\\hline
-carne di pollo &
-4330\\\hline
-uova &
-3300\\\hline
-riso &
-2500\\\hline
-soia &
-2145\\\hline
-pasta &
-1850\\\hline
-pane &
-1608\\\hline
-grano &
-1827\\\hline
-mais &
-1220\\\hline
-latte di mucca (1 litro) &
-1020\\\hline
-tè (1 litro) &
-480\\\hline
-cetriolo &
-350\\\hline
-zucca &
-350\\\hline
-patate &
-290\\\hline
-cavolo &
-280\\\hline
-lattuga &
-240\\\hline
-pomodori &
-200\\\hline
-\end{tabular}
-\end{wraptable}
+\definecolor{colorPerKg}{RGB}{215, 48, 39}    
+\definecolor{colorPerProt}{RGB}{252, 141, 89} 
+\definecolor{colorPerKcal}{RGB}{254, 224, 144} 
+\definecolor{colorWater}{RGB}{69, 117, 180}   
+
+\pgfplotsset{
+    myhbarstyle/.style={
+        width=\textwidth,
+        height=22cm, 
+        xbar,        
+        bar width=5pt, 
+        ymin=-0.8, ymax=15.8, 
+        enlarge y limits=0,
+        y dir=reverse, 
+    },
+    single bar legend/.style={
+        legend image code/.code={
+            \draw[##1, draw=none] (0cm,-0.1cm) rectangle (0.6cm,0.1cm);
+        }
+    }
+}
+
+\begin{figure}
+    \centering
+    \begin{tikzpicture}
+        \pgfplotstableread[row sep=\\,col sep=&]{
+            Alimento & PerKg & PerProt & PerKcal & Water \\
+            Manzo & 70.6 & 35.5 & 25.9 & 15400 \\
+            Agnello & 39.7 & 19.9 & 12.5 & 10400 \\
+            Crostacei & 26.9 & 18.2 & 26.1 & 3515 \\
+            Formaggio & 23.9 & 10.8 & 6.2 & 5060 \\
+            Pesce & 13.6 & 6.0 & 7.6 & 3691 \\
+            Maiale & 12.3 & 7.6 & 5.15 & 5990 \\
+            Pollame & 9.9 & 5.7 & 5.3 & 4330 \\
+            Uova & 4.7 & 4.2 & 3.2 & 3300 \\
+            Riso & 3.6 & 4.8 & 0.9 & 1849 \\
+            Tofu & 3.2 & 2.0 & 1.2 & 2145 \\
+            Latte & 3.2 & 9.5 & 5.25 & 1020 \\
+            Legumi & 2.0 & 0.9 & 0.5 & 4055 \\
+            Pane/Pasta & 1.6 & 1.3 & 0.6 & 1729 \\
+            Frutta & 0.9 & 10.4 & 1.5 & 962 \\
+            Verdura & 0.7 & 6.8 & 3.3 & 285 \\
+            Noci & 0.4 & 0.3 & 0.1 & 9063 \\
+        }\mydata
+
+        \begin{axis}[
+            myhbarstyle,
+            single bar legend,
+            xmin=0, xmax=80, 
+            xlabel={Emissioni ($kg CO_2eq$)},
+            xlabel style={font=\bfseries},
+            ytick=data,
+            yticklabels from table={\mydata}{Alimento},
+            yticklabel style={font=\small, align=right},
+            axis x line*=bottom, 
+            axis y line*=left,   
+            xmajorgrids=true,    
+            legend style={
+                at={(0.95,0.02)}, 
+                anchor=south east, 
+                cells={anchor=west}, 
+                fill=white, 
+                draw=black
+            },
+        ]
+            \addplot[fill=colorPerKg, draw=none, bar shift=7.5pt] table [x=PerKg, y expr=\coordindex] {\mydata};
+            \addlegendentry{Per kg prodotto}
+
+            \addplot[fill=colorPerProt, draw=none, bar shift=2.5pt] table [x=PerProt, y expr=\coordindex] {\mydata};
+            \addlegendentry{Per 100g proteine}
+            
+            \addplot[fill=colorPerKcal, draw=none, bar shift=-2.5pt] table [x=PerKcal, y expr=\coordindex] {\mydata};
+            \addlegendentry{Per 1000 kcal}
+
+            \addlegendimage{fill=colorWater, draw=none}
+            \addlegendentry{Impronta Idrica}
+        \end{axis}
+
+        \begin{axis}[
+            myhbarstyle,
+            xmin=0, xmax=18000, 
+            axis x line*=top,   
+            axis y line=none,   
+            xlabel={Impronta Idrica ($L/kg$)},
+            xlabel style={font=\bfseries, color=colorWater},
+            xticklabel style={color=colorWater} 
+        ]
+            \addplot[fill=colorWater, draw=none, bar shift=-7.5pt] table [x=Water, y expr=\coordindex] {\mydata};
+        \end{axis}
+
+        \begin{scope}[shift={(10cm, 5cm)}] 
+            \node[anchor=south, align=center, font=\bfseries\small] at (0, 1.3) {Cause Deforestazione\\Amazzonia};
+            
+            \draw[fill=green!30!black] (0,0) -- (0,1) arc (90:-155:1) -- cycle;
+            \draw[fill=green!60!black] (0,0) -- (-155:1) arc (-155:-238:1) -- cycle;
+            \draw[fill=green!80!yellow] (0,0) -- (-238:1) arc (-238:-263:1) -- cycle;
+            \draw[fill=brown] (0,0) -- (-263:1) arc (-263:-270:1) -- cycle;
+            
+            \node[anchor=west, font=\scriptsize] at (1.2, 0.8) {\textcolor{green!30!black}{\rule{1.5ex}{1.5ex}} Pascolo (65-70\%)};
+            \node[anchor=west, font=\scriptsize] at (1.2, 0.4) {\textcolor{green!60!black}{\rule{1.5ex}{1.5ex}} Agr. Piccola (20-25\%)};
+            \node[anchor=west, font=\scriptsize] at (1.2, 0.0) {\textcolor{green!80!yellow}{\rule{1.5ex}{1.5ex}} Agr. Larga (5-10\%)};
+            \node[anchor=west, font=\scriptsize] at (1.2, -0.4) {\textcolor{brown}{\rule{1.5ex}{1.5ex}} Legname/Altro (3-4\%)};
+        \end{scope}
+
+    \end{tikzpicture}
+    \caption{\raggedright\url{https://it.wikipedia.org/wiki/Impatto\_ambientale\_dell\%27industria\_dei\_cibi\_animali} \\
+\raggedright\url{https://www.un.org/en/climatechange/science/climate-issues/food}}
+\end{figure}
 
 Cosa centra la dieta con l'ecologia? L'atto in sé di mangiare non inquina, ma il modo in cui vengono prodotti gli alimenti potrebbe. Come possiamo osservare dalla tabella a fianco sull'impronta idrica, la carne, soprattutto quella di bovino, copre le prime posizioni. Gli animali possiamo vederli come dei sistemi, di solito più sono grossi e meno sono efficienti. Per allevare gli animali serve cibo che prendiamo dai campi. Immaginate quanti chili di cibo mangia una mucca prima di essere macellata e quanti litri d'acqua beve. La produzione di 1kg di carne di manzo necessita di circa 15500 litri. Ora immaginate di essere in una stanza e di avere da una parte una mucca macellata e, dall'altra parte tutto quello che il bovino ha mangiato e bevuto durante la sua vita.
 Se si dovesse scegliere tra consumare la carne della mucca o le risorse vegetali che essa ha impiegato per crescere, per l'efficienza energetica quest'ultime potrebbero sostenere un maggior numero di individui.
@@ -3473,54 +3525,12 @@ Quando una mucca mangia, convertirà una piccola parte di quel cibo in carne (3-
 
 Attualmente il 12-18\% delle emissioni di gas serra provengono da allevamenti animali\endnote{\raggedright\url{https://it.wikipedia.org/wiki/Impatto\_ambientale\_dell\%27industria\_dei\_cibi\_animali}}.
 
-\clearpage
-
-\begin{wraptable}{l}{7.855cm}
-\centering
-\caption{\raggedright\url{https://it.wikipedia.org/wiki/Impatto\_ambientale\_dell\%27industria\_dei\_cibi\_animali}}
-\begin{tabular}{|m{3.575cm}|m{3.576cm}|}
-\hline
-\multicolumn{2}{|m{7.3510003cm}|}{Cause di deforestazione dell'Amazzonia brasiliana}\\\hline
-Pascolo del bestiame  &
-65-70\%\\\hline
-Agricoltura su piccola scala &
-20-25\%\\\hline
-Agricoltura su larga scala &
-5-10\%\\\hline
-Taglio del legname &
-2-3\%\\\hline
-Altro &
-1-2\%\\\hline
-\end{tabular}
-\end{wraptable}
-
 Se le colture che producono cibo per gli allevamenti venissero coltivate a soia per gli umani produrremmo il 314\%\endnote{\raggedright\url{https://humaneherald.org/wp-content/uploads/2019/05/calories-and-protein-produced-per-acre-1.pdf}} di proteine in più rispetto alla carne di pollo e 1800\%\endnote{\raggedright\url{https://faunalytics.org/alternative-protein-production-counting-the-calories/}} in più rispetto alla carne bovina.
 La produzione di carne è anche il principale fattore della deforestazione, sia per far pascolare il bestiame sia per creare coltivazioni per sfamarlo.
 
 Di seguito un grafico che mostra le emissioni di CO2 per grammo di proteine. Vediamo Quindi come un grammo di carne bovina emetta molta più CO2 rispetto a grano, mais e legumi. 
 
 Fagioli, verdure e, alcuni pesci allevati in modo sostenibile, hanno un rapporto vantaggioso tra salute e costi ambientali. Sono in pari invece alimenti come latte, yogurt, uova, e le verdure coltivate in serra. Mentre svantaggiosi gli alimenti come carne di manzo, carni lavorate, maiale e agnello, che hanno mostrato elevati costi sanitari e ambientali. Una porzione da circa 200g di carne bovina equivalgono a ~4–6kg CO2-eq, corrispondenti a un’automobile media per 20km!
-
-\needspace{4cm}
-\begin{figure}[H]
-\centering
-\begin{tikzpicture}
-\begin{axis}[
-    xbar, xmin=0,
-    width=12cm, 
-    enlarge y limits=0.1,
-    y=0.8cm,
-    bar width=0.5cm,
-    xlabel={Emissioni (kg CO2-eq per kg di prodotto)},
-    symbolic y coords={Legumi, Mais, Grano, Radici Amidacee, Uova, Pesca non a strascico, Latteria, Pollame, Maiale, Acquacoltura non a ricircolo,Pesca a strascico, Acquacoltura a ricircolo, Carne Di Ruminanti},
-    ytick=data,
-    nodes near coords, nodes near coords align={horizontal},
-    ]
-\addplot coordinates {(0.25,Legumi) (1.2,Mais) (1.2,Grano) (1.7,Radici Amidacee) (6.8,Uova) (8.6,Pesca non a strascico) (9.1,Latteria) (10,Pollame) (10,Maiale) (12,Acquacoltura non a ricircolo) (26,Pesca a strascico) (30,Acquacoltura a ricircolo) (62,Carne Di Ruminanti)};
-\end{axis}
-\end{tikzpicture}
-\caption{Emissioni medie di gas a effetto serra per i diversi tipi di alimenti espressi in g di CO2-Ceq per g di proteine}
-\end{figure}
 
 Quindi è meglio diventare vegani, vegetariani o rimanere onnivori dal punto di vista ambientale?
 
@@ -3529,16 +3539,6 @@ Una ricerca\endnote{\raggedright\url{https://now.tufts.edu/news-releases/us-land
 
 Inoltre alcuni studi epidemiologici stimano che una parte delle morti per tumori o malattie cardiovascolari sono attribuibili all’eccessivo consumo di carne rossa, aumentando anche i costi sanitari.
 Anche nuove alternative, come la carne coltivata in laboratorio o i grilli, per quanto siano promettenti, ad oggi hanno un efficienza non troppo differente da quella del pollo.
-
-\needspace{4cm}
-\begin{wrapfigure}{i}{9cm}
-  \centering
-  \includegraphics[width=0.95\linewidth]{images/Libro-img059.jpg}
-  \begin{minipage}{\linewidth}
-    \caption{By The food pyramid, from http://www.nal.usda.gov/fnic/Fpyr/pyramid.gif, Public Domain,
-\raggedright\url{https://commons.wikimedia.org/w/index.php?curid=680809}}
-  \end{minipage}
-\end{wrapfigure}
 
 Le diete più sane, inoltre, sono anche quelle che hanno un minore impatto ambientale. Come possiamo osservare nella piramide alimentare c'è molta frutta e verdura, e limita cibi elaborati, carne rossa, insaccati e salumi, dichiarati cancerogeni dall'OMS\endnote{\raggedright\url{http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045\%2815\%2900444-1/fulltext}}. Secondo uno studio dell'Università del Michigan, attraverso modelli di valutazione dell'impatto sulla salute, si è stimato che il consumo di un solo hot dog potrebbe essere associato a una perdita di circa 36 minuti di vita in salute.
 L'attuale eccesso di cibi processati, di igiene, farmaci e antibiotici, assunti direttamente, o indirettamente tramite una dieta di carne, possono contrinuire a danneggiare il microbiota, che sembra essere la causa della grande diffusione di allergie degli ultimi decenni. Il nostro sistema immunitario diventa efficiente se fin dalla nascita viene a contatto con una quantità sufficiente di germi e parassiti. 
@@ -3577,17 +3577,9 @@ Greenhouse Gas Emissions by Sector, 1990-2005. Page 12 of PDF. Published 2010., 
   \end{minipage}
 \end{wrapfigure}
 
-Per riuscire in questa sfida ecologica siamo chiamati a fare dei cambiamenti individuali, come l'alimentazione, riciclare, prestare attenzione ai modi che utilizziamo per spostarci
-ecc… Le scelte più importanti che possono abbassare il nostro impatto ambientale, non comportano necessariamente una riduzione del tenore di
-vita, ma un cambiamento. L'importanza di queste scelte non vanno viste soltanto per preservare il
-pianeta del futuro, di quando non ci saremo più, ma anche per quello attuale. In Europa un decesso su otto è dovuto
-all'inquinamento\endnote{\raggedright\url{https://it.euronews.com/my-europe/2020/09/08/europa-un-cittadino-su-8-muore-per-inquinamento-e-fattori-ambientali}}. 
+A volte può risultare difficile fare cambiamenti che possano ridurre le proprie emissioni, ed è altrettanto difficile riassorbirle in quanto, ogni operazione, ha bisogno di energia, che spesso si traduce in inquinamento. Ci sono attività che si occupano di piantare alberi, che sono capaci di riassorbire la CO2 senza consumare energia. Purtroppo però, uno dei problemi principali è che gli alberi non assorbono CO2 all'infinito. Lo fanno principalmente mentre crescono e, tendono a stabilizzarsi quando diventano vecchi. In una foresta matura, la quantità di carbonio assorbita dalle piante giovani è spesso bilanciata da quella rilasciata dal legno che marcisce a terra. Abbattere una foresta esistente è un problema in quanto libera immediatamente tutto il carbonio stoccato che nuovi alberi che impiegheranno decenni a riassorbire. Inoltre in molte parti del mondo, come in Italia e in Europa, le foreste stanno già crescendo da sole grazie all'abbandono delle zone montane e dei pascoli \endnote{\raggedright\url{https://www.youtube.com/watch?v=y6VRsoU7A9Y}}.
 
-A volte può risultare difficile fare cambiamenti che possano ridurre le proprie emissioni, ed è altrettanto difficile riassorbirle in quanto, ogni operazione, ha bisogno di energia, che spesso si traduce in inquinamento. Ci sono però attività che si occupano di piantare alberi, che sono capaci di riassorbire la CO2 senza consumare energia. Purtroppo però, è che uno dei problemi principali è che gli alberi non assorbono CO2 all'infinito. Lo fanno principalmente mentre crescono, seguendo una curva che tende a stabilizzarsi quando diventano vecchi. In una foresta matura, la quantità di carbonio assorbita dalle piante giovani è spesso bilanciata da quella rilasciata dal legno che marcisce a terra. Questo significa che una foresta antica non è tanto una "spugna" che continua ad assorbire, quanto un enorme "scrigno" che custodisce il carbonio accumulato nei secoli. Per questo motivo, abbattere una foresta esistente per piantarne una nuova è in problema in quanto libera immediatamente tutto il carbonio stoccato per sostituirlo con piccoli alberi che impiegheranno decenni a recuperare quel danno. Inoltre in molte parti del mondo, come in Italia e in Europa, le foreste stanno già crescendo da sole grazie all'abbandono delle zone montane e dei pascoli. La natura sta facendo gratuitamente un lavoro che a noi costerebbe miliardi di euro in vivai e manutenzione. Quindi più che l'attivismo della piantumazione è importante la protezione delle foreste che già abbiamo, evitando il disboscamento e, lasciando spazio alla natura di riappropriarsi dei suoi spaziendnote{\raggedright\url{https://www.youtube.com/watch?v=y6VRsoU7A9Y}}.
-
-Secondo il database ‘Carbon Majors’ (CDP), 100 aziende fossili hanno generato il 71\% delle emissioni industriali cumulative nel periodo 1988‑2015, considerando le emissioni scope 1‑3\endnote{\raggedright\url{https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change}}. Cosa producono queste aziende? Principalmente energia bruciando combustibili fossili, carbone, petrolio. La
-produzione di energia è infatti il settore principalmente responsabile nell'emissione di gas
-serra, come possiamo vedere nel grafico qui a fianco.
+Secondo il database ‘Carbon Majors’ (CDP), 100 aziende fossili hanno generato il 71\% delle emissioni industriali cumulative nel periodo 1988‑2015\endnote{\raggedright\url{https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change}}. Cosa producono queste aziende? Principalmente energia bruciando combustibili fossili, carbone, petrolio. La produzione di energia è infatti il settore principalmente responsabile nell'emissione di gas serra, come possiamo vedere nel grafico qui a fianco.
 
 \needspace{4cm}
 \begin{figure}[H]
@@ -3597,20 +3589,7 @@ serra, come possiamo vedere nel grafico qui a fianco.
   Credits: \raggedright\url{https://ourworldindata.org/energy} }
 \end{figure}
 
-Seppur l'impiego di carbone, petrolio e gas naturali per la produzione energetica non siano più
-metodi all'avanguardia, sono ancora molto diffusi. Potremmo essere portati a pensare che comprando
-una macchina elettrica e scaldando casa con l'elettricità il grosso
-dell'energia che utilizzeremo sarà pulita. Questo però dipende in realtà da come viene prodotta la
-corrente, infatti ad oggi, l'energia elettrica viene prodotta principalmente da carbone e gas
-naturale. Nel grafico a torta qui a fianco possiamo vedere la situazione mondiale, ma anche in Italia, come riportato
-dal Wwf\endnote{\raggedright\url{https://www.wwf.it/il\_pianeta/clima\_ed\_energia/fermiamo\_il\_carbone/}}
-l'11,6\% della produzione elettrica deriva dal carbone mentre troppe centrali termoelettriche
-lavorano per un terzo della loro potenzialità. In Italia possiamo generare una potenza doppia al picco massimo mai
-raggiunto, per cui potremmo chiudere o convertire in centrali green tutte quelle più inquinanti. Quindi scegliere di
-scaldare casa con una pompa di calore e comprare una macchina elettrica è può essere una buona idea se il vostro
-fornitore di corrente la produce tramite fonti rinnovabili. Questo è un esempio di scelta che non impatta sul nostro
-tenore di vita. Anche in Italia abbiamo fornitori che producono corrente al 100\% da fonti rinnovabili e il prezzo è lo
-stesso di fornitori che utilizzano combustibili fossili.
+Seppur l'impiego di carbone, petrolio e gas naturali per la produzione energetica non siano più metodi all'avanguardia, sono ancora molto diffusi. Anche convertendo all elettrico trasporti e riscaldamento, potremmo non risolvere il problema se questa energia viene creata da cobustibili fossili. Possono essere una buona idea se il vostro fornitore di corrente produce tramite fonti rinnovabili.
 
 \needspace{4cm}
 \begin{figure}[H]
@@ -3625,7 +3604,7 @@ Credits: By Simon Rayner / EarthCharts - EarthCharts Website (\raggedright\url{h
 Quindi è vero che ci sono 100 aziende che sono responsabili del 71\% dell'inquinamento, quindi
 anche con lo sforzo della collettività e l'ottimizzazione dei nostri consumi, nella nostra vita
 privata, possiamo andare a lavorare solo su una percentuale minore del restante 29\%. O forse no? Le aziende rispondono
-in funzione della legge economica della domanda e dell'offerta, Le aziende rispondono anche alla legge economica della domanda e dell'offerta; pertanto, se un numero significativo di industrie e privati cittadini orientasse i propri acquisti verso energia prodotta in maniera pulita, queste aziende sarebbero fortemente incentivate a riconsiderare e accelerare la propria transizione verso una produzione più sostenibile per rimanere competitive. 
+in funzione della legge economica della domanda e dell'offerta, pertanto, se un numero significativo di industrie e privati cittadini orientasse i propri acquisti verso energia prodotta in maniera pulita, queste aziende sarebbero fortemente incentivate a riconsiderare e accelerare la propria transizione verso una produzione più sostenibile per rimanere competitive. 
 Credo comunque sia molto difficile sperare in un cambiamento collettivo e, che i cambiamenti più efficaci sono quelli politici che scoraggino scelte problematiche, ma anche in questo caso dev'esserci una certa pressione da parte dei cittadini che spinga in una certa direzione.
 La tendenza, sia nel privato che nelle aziende è tendenzialmente positiva, infatti l'impiego di energie prodotte da fonti
 rinnovabili è sempre maggiore di anno in anno, a discapito dei combustibili fossili.
