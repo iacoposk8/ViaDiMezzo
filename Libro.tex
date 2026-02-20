@@ -3249,11 +3249,133 @@ Ogniuno può agire come desidera a patto di non violare a libertà degli altri.
 
 \subsection{Ecologia}
 
-\subsubsection{Overshoot Day}
-L'Overshoot Day è il giorno in cui l'umanità ha consumato tutte le risorse naturali (inclusa la capacità di assorbire i nostri rifiuti, come l'anidride carbonica) che la Terra è in grado di rigenerare in un intero anno.
+Per ridurre il nostro impatto ecologico, può essere utile conoscere quali sono le aree dove si producono più emissioni, in modo da indirizzare le nostre energie verso gli ambiti più impattanti. Nel seguente grafico sono state divise le attività domestiche da quelle totali, che contengono anche le varie attività commerciali, industrie ecc…
 
-Nel 2019 l'overshoot day nel mondo è stato il 29 luglio, questo vuol dire che per 5 mesi siamo stati in debito con la Terra.
-L'overshoot day dell'Europa però è stato il 10 maggio e, per l'Italia il 15 maggio.
+\needspace{4cm}
+\definecolor{y_base}{HTML}{F39C12}
+\definecolor{y_mid1}{HTML}{F1C40F} 
+\definecolor{y_mid2}{HTML}{F7DC6F}
+\definecolor{y_mid3}{HTML}{FFF59D}
+\definecolor{y_top}{HTML}{FFFDE7}
+
+\definecolor{b_base}{HTML}{1F618D}
+\definecolor{b_mid}{HTML}{5DADE2}
+\definecolor{b_top}{HTML}{AED6F1}
+
+\makeatletter
+\newcommand\resetstackseries{\pgfplots@stacked@isfirstplottrue}
+\makeatother
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+    \begin{axis}[
+        ybar stacked,        
+        bar width=1.0cm,     
+        width=18cm,
+        height=12cm,
+        ymin=0,
+        ymax=45,             
+        ylabel={Percentuale Emissioni (\%)},
+        xtick={1,2,3,4,5},
+        xticklabels={Trasporti, Casa/Energia, Beni/Industria, Servizi, Cibo/Agricoltura},
+        xticklabel style={font=\bfseries\sffamily, yshift=-5pt},
+        nodes near coords,
+        point meta=explicit symbolic, 
+        nodes near coords style={
+            font=\sffamily\tiny, 
+            align=center,
+            text width=0.9cm, 
+            yshift=0pt
+        },
+        axis x line*=bottom,
+        axis y line*=left,
+        ymajorgrids=true,
+        grid style=dashed,
+        title style={font=\bfseries\Large},
+        title={Emissioni Domestiche vs Emissioni Totali},
+        legend style={at={(0.5,-0.15)}, anchor=north, legend columns=2},
+        enlarge x limits=0.15,
+    ]
+
+    \addplot+[ybar, fill=y_base, draw=none, bar shift=-0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 28.14) [{Auto\\28\%}]
+        (2, 10.98) [{Elettricità\\11\%}]
+        (3, 4.79)  [{Vestiti\\4.8\%}]
+        (4, 14.57) [{Servizi\\14.6\%}]
+        (5, 5.39)  [{Carne\\5.4\%}]
+    };
+
+    \addplot+[ybar, fill=y_mid1, draw=none, bar shift=-0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 0)
+        (2, 4.59)  [{Gas\\4.6\%}]
+        (3, 0)
+        (4, 0)
+        (5, 2.20)  [{Latticini\\2.2\%}]
+    };
+
+    \addplot+[ybar, fill=y_mid2, draw=none, bar shift=-0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 0)
+        (2, 3.39)  [{Costruzioni\\3.4\%}]
+        (3, 4.39)  [{Arredo\\4.4\%}]
+        (4, 0)
+        (5, 1.80)  [{Cereali\\1.8\%}]
+    };
+
+    \addplot+[ybar, fill=y_mid3, draw=none, bar shift=-0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 0)
+        (2, 2.40)  [{Acqua\\2.4\%}]
+        (3, 0)
+        (4, 0)
+        (5, 1.60)  [{Ortofrutta\\1.6\%}]
+    };
+
+    \addplot+[ybar, fill=y_top, draw=none, bar shift=-0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 2.99)  [{Aereo\\3.0\%}]
+        (2, 2.99)  [{Altro\\3.0\%}]
+        (3, 6.59)  [{Altro\\6.6\%}]
+        (4, 0)
+        (5, 2.99)  [{Altro\\3.0\%}]
+    };
+
+    \node[font=\tiny, anchor=south] at (axis cs:1, 31.5) [xshift=-0.55cm] {Trasporto pubblico 0.2\%};
+
+    \resetstackseries
+
+    \addplot+[ybar, fill=b_base, draw=white, bar shift=0.55cm, nodes near coords style={color=white}] coordinates {
+        (1, 16.31) [{Trasporti\\16.3\%}]
+        (2, 32.71) [{Elettricità\\\& Calore\\32.7\%}]
+        (3, 11.93) [{Secondario\\11.9\%}]
+        (4, 6.60)  [{Emiss.\\Fuggitive\\6.6\%}]
+        (5, 12.00) [{Agricol.\\12.0\%}]
+    };
+
+    \addplot+[ybar, fill=b_mid, draw=white, bar shift=0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 2.34)  [{Spedizioni\\2.3\%}]
+        (2, 6.15)  [{Edifici\\6.1\%}]
+        (3, 6.10)  [{Industria\\6.1\%}]
+        (4, 1.16)  [{Altro\\1.2\%}]
+        (5, 3.75)  [{Rifiuti\\3.7\%}]
+    };
+
+    \addplot+[ybar, fill=b_top, draw=white, bar shift=0.55cm, nodes near coords style={color=black}] coordinates {
+        (1, 0)
+        (2, 0)
+        (3, 0)
+        (4, 0)
+        (5, 0.89)  [{Uso del suolo\\0.9\%}]
+    };
+
+    \legend{Emissioni Domestiche,,,,,,Emissioni Totali}
+
+    \end{axis}
+\end{tikzpicture}
+\caption{Credits: \raggedright\url{https://ourworldindata.org/emissions-by-sector} \raggedright\url{https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet}}
+\end{figure}
+
+Un indice che può aiutarci a comprendere la portata del fenomeno è l'Overshoot Day, ovvero il giorno in cui l'umanità ha consumato tutte le risorse naturali (inclusa la capacità di assorbire i nostri rifiuti, come l'anidride carbonica) che la Terra è in grado di rigenerare in un anno.
+
+Nel 2025 l'Overshoot Day nel mondo è stato il 24 luglio, questo vuol dire che per oltre 5 mesi siamo stati in debito con la Terra. L'Overshoot Day dell'Europa è stato il 29 aprile e, per l'Italia, il 6 maggio.
 
 Potete calcolare il vostro personale overshoot day su footprintcalculator.org.
 
@@ -3419,11 +3541,7 @@ Anche nuove alternative, come la carne coltivata in laboratorio o i grilli, per 
 \end{wrapfigure}
 
 Le diete più sane, inoltre, sono anche quelle che hanno un minore impatto ambientale. Come possiamo osservare nella piramide alimentare c'è molta frutta e verdura, e limita cibi elaborati, carne rossa, insaccati e salumi, dichiarati cancerogeni dall'OMS\endnote{\raggedright\url{http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045\%2815\%2900444-1/fulltext}}. Secondo uno studio dell'Università del Michigan, attraverso modelli di valutazione dell'impatto sulla salute, si è stimato che il consumo di un solo hot dog potrebbe essere associato a una perdita di circa 36 minuti di vita in salute.
-
-
-
-
-
+L'attuale eccesso di cibi processati, di igiene, farmaci e antibiotici, assunti direttamente, o indirettamente tramite una dieta di carne, possono contrinuire a danneggiare il microbiota, che sembra essere la causa della grande diffusione di allergie degli ultimi decenni. Il nostro sistema immunitario diventa efficiente se fin dalla nascita viene a contatto con una quantità sufficiente di germi e parassiti. 
 
 \needspace{4cm}
 Di seguito possiamo vedere quanto viene consumato un certo alimento nelle varie aree del mondo e quanto invece andrebbe
@@ -3439,27 +3557,10 @@ Nella legenda troviamo: Globale, Asia dell'est, Sud Asia, Africa subsahariana, A
   \end{minipage}
 \end{figure}
 
-In alternativa al vegetarianesimo sono nate alcune alternative
+Reducetarianesimo e flexitarianesimo
 
-\begin{itemize}
-\item Mangiare gli “invasori”: Ci sono alcune specie aliene, ovvero che non sono originarie di un certo luogo, come
-per esempio la nutria o il pesce siluro in Italia, che sono stati importati da altri paesi. Queste specie, non
-trovando predatori naturali si stanno moltiplicando, diventando un problema per altre specie animali, vegetali e
-per l'ecosistema in generale. Seppur ogni creatura meriti di vivere, la proliferazione di questi animali invasivi spesso comporta un impatto devastante sugli ecosistemi e sulla biodiversità locale. Tuttavia, è importante notare che l'effettivo bilancio netto positivo in termini di vite salvate e impatti sull'ecosistema, derivante dal consumo di queste specie, è un ambito che richiede ulteriori evidenze e studi approfonditi. Per saperne di più potete visitare eattheinvaders.org
-\item Reducetariani e flexitariani: Alternative al vegetarianesimo dove entrambe si impegnano a ridurre il consumo di carne, i primi per l'ambiente e i secondi per la propria salute. In realtà la maggioranza delle persone che si identificano come vegetariane sono reducetariani o flexitariani, in quanto può capitare che durante l'anno consumino carne. Purtroppo, per anni, alcune forme di promozione del messaggio vegetariano e vegano hanno adottato toni giudicanti, implicando che 'voi siete sbagliati e dovreste vergognarvi mentre noi siamo buoni'. Questo ha contribuito a creare un certo imbarazzo o diffidenza quando qualcuno si definisce vegetariano, anche se si chiarisce che non è intenzione giudicare le scelte alimentari altrui. Con il termine reducetariano rimuoviamo questo
-linea così netta tra un gruppo e l'altro, risultando più inclusivo. Talmente inclusivo che tutti
-possiamo diventare reducetariani. Se tutti noi seguissimo una dieta del “lunedì senza carne”, astenendoci dal mangiare
-carne ogni lunedì, avremmo un miliardo di vegetariani in più dall'oggi al domani, con ciò che questo comporta come impatto ambientale.
-\end{itemize}
-
-\begin{mdframed}[linewidth=1pt]
-Anche l'attuale eccesso di cibi processati, di igiene, di farmaci, soprattutto antibiotici, assunti
-direttamente o indirettamente tramite una dieta di carne contribuiscono a danneggiare un'utile popolazione
-del nostro intestino, il microbiota. Un microbiota indebolito da un ambiente eccessivamente pulito e
-dall'utilizzo massivo di antibiotici potrebbe essere una delle cause della grande diffusione di
-allergie degli ultimi decenni. La letteratura evidenzia infatti come il nostro sistema immunitario diventi davvero
-efficiente se fin dalla nascita si viene a contatto con una quantità sufficiente di germi e parassiti. 
-\end{mdframed}
+Sono alternative al vegetarianesimo che si impegnano a ridurre il consumo di carne, i primi per l'ambiente e i secondi per la propria salute. La maggioranza delle persone che si identificano come vegetariane, spesso sono reducetariani o flexitariani, in quanto può capitare che durante l'anno consumino carne. Purtroppo, per anni, alcune forme di promozione del messaggio vegetariano e vegano hanno adottato toni giudicanti, implicando che "voi siete sbagliati e dovreste vergognarvi mentre noi siamo buoni". Questo ha contribuito a creare un certo imbarazzo o diffidenza quando qualcuno si definisce vegetariano, anche se si chiarisce che non è intenzione giudicare le scelte alimentari altrui. Con il termine reducetariano rimuoviamo questo
+linea così netta tra un gruppo e l'altro, risultando più inclusivo.
 
 \needspace{15cm}
 \subsubsection{Cosa si può fare?}
