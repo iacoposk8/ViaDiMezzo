@@ -3241,12 +3241,10 @@ Alcuni segnali\endnote{\raggedright\url{https://www.ted.com/talks/katie_hood_the
 
 In La prigioniera di Marcel Proust, il protagonista rinchiudere Albertine, di cui era innamorato, per gelosia e, vede l'attrazione per lei scesendere. In questo paradosso siamo gratificati e attratti dalla persona che sceglie noi, nella misura in è libera, ma in quanto libera, può decidere di non sceglierci più o non nella misura in cui vorremmo in termini di attenzioni.
 
-\clearpage\section{Società}
-Come possono convivere individui con idee in conflitto?
+\clearpage
+\section{Collettività}
 
-Il liberalismo nasce da un’idea semplice, ma rivoluzionaria: l’essere umano è libero di scegliere come vivere, credere, pensare, lavorare, amare. Secondo questa visione, il ruolo dello Stato non è quello di indirizzare la vita dei cittadini, ma di garantire che ogni individuo possa esprimersi pienamente, senza subire coercizioni né imposizioni da parte di chi presume di sapere come gli altri dovrebbero vivere, purché ciò non limiti la libertà altrui. Questo principio ha trovato concretezza in molte delle democrazie più stabili del mondo.
-
-Ogniuno può agire come desidera a patto di non violare a libertà degli altri.
+Nella prima parte del libro abbiamo toccato temi riguardanti l'individuo e la relazione con sè. In questa seconda parte i temi riguarderanno l'individuo in relazione con l'esterno, con l'ambiente e le altre persone.
 
 \subsection{Ecologia}
 
@@ -3282,7 +3280,7 @@ Il 100\% delle barre gialle è un singolo individo, mentre la totalità delle ba
         ymax=45,             
         ylabel={Percentuale Emissioni (\%)},
         xtick={1,2,3,4,5},
-        xticklabels={Trasporti, Casa/Energia, Beni/Industria, Servizi, Cibo/Agricoltura},
+        xticklabels={Trasporti, Casa/Energia, Beni/Industria, Servizi, Alimentazione},
         xticklabel style={font=\bfseries\sffamily, yshift=-5pt},
         nodes near coords,
         point meta=explicit symbolic, 
@@ -3297,7 +3295,6 @@ Il 100\% delle barre gialle è un singolo individo, mentre la totalità delle ba
         ymajorgrids=true,
         grid style=dashed,
         title style={font=\bfseries\Large},
-        title={Emissioni Domestiche vs Emissioni Totali},
         legend style={at={(0.5,-0.15)}, anchor=north, legend columns=2},
         enlarge x limits=0.15,
     ]
@@ -3378,36 +3375,150 @@ Il 100\% delle barre gialle è un singolo individo, mentre la totalità delle ba
 \raggedright\url{https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet}}
 \end{figure}
 
+Principalmente ci concentreremo sulle azioni domestiche, siccome sulle aziende non abbiamo possibilità di intervenire, o almeno non direttamente.
+Le aziende infatti, risperanno in funzione della domanda, pertanto, se un numero significativo di cittadini orientasse i propri acquisti verso energia pulita, i produttori sarebbero fortemente incentivati ad accelerare la propria transizione verso alternative più sostenibili.
+Al contempo, credo che il cambiamento collettivo, sia solitamente facilitato da azioni politiche, che incentivano o disincentivano certi comportamenti. Allo stesso tempo, un cambiamento politico può essere influenzato da pressioni esterne, di cittadini o altri stati.
+Su internet possiamo trovare alcune piattaforme dove possibile esercitare questo cambiamento.
+La piattafroma ufficiale italiana per i referendum e iniziative popolari: firmereferendum.giustizia.it. E quelle internazioni di petizioni come: avaaz.org, wemove.eu e change.org
+
+Come osservato dal precedente grafico, l'ambito più impattante è la produzione di energia, per elettricità, riscaldamento e soprattutto i trasporti.
+
+\begin{mdframed}[linewidth=1pt]
+Overshoot Day
+
 Un indice che può aiutarci a comprendere la portata del fenomeno è l'Overshoot Day, ovvero il giorno in cui l'umanità ha consumato tutte le risorse naturali (inclusa la capacità di assorbire i nostri rifiuti, come l'anidride carbonica) che la Terra è in grado di rigenerare in un anno.
 
 Nel 2025 l'Overshoot Day nel mondo è stato il 24 luglio, questo vuol dire che per oltre 5 mesi siamo stati in debito con la Terra. L'Overshoot Day dell'Europa è stato il 29 aprile e, per l'Italia, il 6 maggio.
 
 Potete calcolare il vostro personale overshoot day su footprintcalculator.org.
 
-Alcuni studi hanno osservato che, se le emissioni non saranno drasticamente ridotte, entro il 2050 molte aree, potrebbero diventare difficili da abitare a causa di ondate di calore estremo, siccità o innalzamento del livello del mare\endnote{\raggedright\url{https://arxiv.org/abs/2212.04474}}. Questo ha portato alla nascita di alcuni movimenti come il no-fly, dove le persone rinunciano all'aereo come mezzo di trasporto preferendo il treno.
+Alcuni studi hanno osservato che, se le emissioni non saranno drasticamente ridotte, entro il 2050 molte aree, potrebbero diventare difficili da abitare a causa di ondate di calore estremo, siccità o innalzamento del livello del mare\endnote{\raggedright\url{https://arxiv.org/abs/2212.04474}}.
+\end{mdframed} 
 
-\begin{table}[H]
-\centering 
-\begin{tabular}{|l|l|l|} \hline
-\textbf{Mezzo di trasporto} & \textbf{Media passeggeri} & \textbf{Emissioni (g CO2/km)} \\ \hline
-Aeroplano & 88 & 285 \\ \hline
-Nave & - & 245 \\ \hline
-Grande macchina & 1,5 & 158 \\ \hline
-Piccola Macchina & 1,5 & 104 \\ \hline
-Moto & 1,2 & 72 \\ \hline
-Pullman & 12,7 & 68 \\ \hline
-Grande macchina & 4 & 55 \\ \hline
-Piccola macchina & 4 & 42 \\ \hline
-Treno & 156 & 14 \\ \hline
-Bicicletta & 1 & 0 \\ \hline
-\end{tabular}
-\end{table}
+\subsubsection{Trasporti}
+\begin{figure}[H]
+    \centering
+\begin{tikzpicture}
+    \begin{axis}[
+        xbar,
+        xmin=0,
+        width=12cm,
+        height=10cm,
+        enlarge y limits=0.05,
+        xlabel={Emissioni di $CO_2$ (g per passeggero per km)},
+        symbolic y coords={
+            Treno internazionale,
+            Traghetto,
+            Metropolitana,
+            Tram,
+            Treno,
+            Auto elettrica,
+            Auto Ibrida,
+            Autobus,
+            Motocicletta,
+            Volo a lungo raggio,
+            Volo a medio raggio,
+            Auto a benzina,
+            Auto diesel,
+            Volo a corto raggio,
+            Nave da crociera
+        },
+        ytick=data,
+        nodes near coords,
+        nodes near coords align={horizontal},
+        axis lines*=left,
+        bar width=0.4cm,
+        xmajorgrids=true,
+        grid style={dashed,gray!30}
+    ]
+        \addplot[fill=blue!70!black] coordinates {
+            (4.46,Treno internazionale)
+            (18.74,Traghetto)
+            (27.81,Metropolitana)
+            (28.61,Tram)
+            (35.49,Treno)
+            (47.09,Auto elettrica)
+            (68.4,Auto Ibrida)
+            (96.5,Autobus)
+            (113.55,Motocicletta)
+            (147.87,Volo a lungo raggio)
+            (151.02,Volo a medio raggio)
+            (170.48,Auto a benzina)
+            (170.82,Auto diesel)
+            (245.87,Volo a corto raggio)
+            (250,Nave da crociera)
+        };
+    \end{axis}
+\end{tikzpicture}
+\caption{\raggedright\url{https://www.voronoiapp.com/climate/Cruise-Ships-Are-The-Most-Carbon-Intensive-Travel-Method-1036}}
+\end{figure}
 
-Le navi da crociera emettono ingenti quantità di CO2\endnote{\raggedright\url{https://en.wikipedia.org/wiki/Environmental\_impact\_of\_transport}} e altri inquinanti per passeggero/km, posizionandosi generalmente tra i mezzi di trasporto più impattanti, anche se in specifici scenari di altissimo carico e lunghi viaggi le emissioni pro capite possono avvicinarsi a quelle di auto o autobus. A seguire il trasporto
-su strada dove il rapporto di C02 prodotta per chilometro è più efficiente rispetto a navi e aerei, ma per via della loro numerosità e tempo di utilizzo sono i mezzi ad oggi più inquinanti. Infine abbiamo il treno che si conferma, con un ampio margine, il mezzo più ecologico, anche rispetto alle auto elettriche per via dell'elevato numero di passeggeri che un solo mezzo può trasportare. 
+Quale mezzo scegliere per i nostri spostamenti? Come vediamo la nave da crociera è la meno efficiente, perchè seppur possa trasportare in un solo viaggio, numerose persone, al suo interno ci sono numerosi servizi energivori come piscine riscaldate, centri benessere ecc… L'aeroplano è uno dei mezzi più inquinanti che ha visto nascere alcuni movimenti come il no-fly, dove le persone rinunciano all'aereo come mezzo di trasporto preferendo il treno. Il precedente grafico mostra ogni mezzo quanto inquina per km per ogni persona, ma in assoluto, per via della loro quantità, auto e camion risultano essere i mezzi che producono più $CO_2$. Discoso diverso è per gli autobus, seppur inquinino più di un auto, traportano anche più persone contemporaneamente, rendendola una scelta più ecologica. A seguire auto ibride e elettriche e treni, trame e metro che, anche in questo caso, portando più persone assieme, riducono l'impatto ambientale.
 
-\clearpage
-\subsubsection{Dieta}
+\subsubsection{Energia}
+
+Seppur l'impiego di carbone, petrolio e gas naturali per la produzione energetica non siano più metodi all'avanguardia, sono ancora molto diffusi. Anche convertendo all elettrico trasporti e riscaldamento, potremmo non risolvere il problema se questa energia viene creata bruciando cobustibili fossili. Possono esserlo se il vostro fornitore di corrente, produce tramite fonti rinnovabili.
+
+Riassorbire le emissioni risulta essere una sfida complicata in quanto, ogni operazione, ha bisogno di energia, che spesso si traduce in inquinamento. Esistono realtà che si occupano di piantare alberi, che sono capaci di riassorbire la $CO_2$ senza consumare energia. Purtroppo però gli alberi non assorbono $CO_2$ all'infinito, ma principalmente mentre crescono e, tendono a stabilizzarsi quando diventano vecchi. In una foresta matura, la quantità di carbonio assorbita dalle piante giovani è spesso bilanciata da quella rilasciata dal legno che marcisce a terra. Abbattere una foresta esistente è un problema enorme, siccome libera immediatamente tutto il carbonio stoccato in anni e, i nuovi alberi, impiegherebbero decenni a riassorbire. Inoltre in molte parti del mondo, come in Italia e in Europa, le foreste stanno già crescendo da sole grazie all'abbandono delle zone montane e dei pascoli \endnote{\raggedright\url{https://www.youtube.com/watch?v=y6VRsoU7A9Y}}.
+
+Le strade percorribili per ridurre la $CO_2$ sono tantissime e quotidianamente nascono nuove idee e nuove soluzioni.
+Le fonti rinnovabili come l'eolico e solare, essendo per natura intermittenti e legate a condizioni meteo, presentano sfide di gestione elevate, per garantire l'equilibrio tra domanda e offerta. Un impianto sottostimato non fornirebbe energia sufficiente a tutti, mentre, se venisse generata corrente in esubero, sul lungo termine provocherebbe problemi all'impianto elettrico. Tra le alternative green, troviamo anche il nucleare. Quando pensiamo alle centrali nucleari, può venire in mente Chernobyl, radiazioni, morte e bombe.
+Osserviamo il seguente grafico.
+
+\needspace{4cm}
+\begin{figure}[H]
+  \begin{minipage}{17cm}
+    \includegraphics[width=17cm]{images/Libro-img030.png}
+    \caption{Credits: \raggedright\url{https://ourworldindata.org/energy} }
+  \end{minipage}
+\end{figure}
+
+
+
+
+
+
+
+
+In questo grafico possiamo vedere sull'asse x i gas serra prodotti dalle varie fonti di energia e,
+sull'asse y, il numero di morti che ha provocato ogni terawattora. Vediamo come ci sia una
+correlazione tra inquinamento e morte. In testa il carbone, seguito da petrolio, gas naturali e biomasse. Possiamo
+notare come il nucleare abbia ucciso molte meno persone rispetto al carbone (351 volte meno). Se consideriamo che l'incidente di Chernobyl fu dovuto in gran parte a un reattore con un design intrinsecamente difettoso e a gravi errori operativi, e quello di Fukushima a un evento naturale di portata eccezionale che superò le misure di sicurezza, le moderne centrali nucleari incorporano tecnologie e protocolli di sicurezza avanzati che mirano a ridurre ulteriormente il rischio di incidenti e le potenziali conseguenze. Le centrali nucleari producono scorie radioattive,
+ma se isolate correttamente non saranno disperse nell'ambiente. Da queste preoccupazioni nasce il progetto
+TerraPower\endnote{\raggedright\url{https://it.wikipedia.org/wiki/TerraPower}} di Bill Gates, che si impegna a risolvere questi due
+problemi. L'azienda sta sviluppando una nuova tipologia di reattore chiamata traveling wave reactor (TWR). A differenza dei reattori nucleari tradizionali, che utilizzano uranio arricchito come combustibile e richiedono frequenti interventi umani, il TWR è progettato per funzionare per decenni con minimo intervento umano.
+Inoltre, il TWR utilizza uranio impoverito, un sottoprodotto abbondante delle attuali tecnologie nucleari, come combustibile, il che potrebbe permettere di riutilizzare materiali considerati scorie nei reattori convenzionali. Inoltre, come ha spiegato Solomon Goldstein-Rose in un
+Ted\endnote{\raggedright\url{https://www.ted.com/talks/solomon_goldstein_rose_how_much_clean_electricity_do_we_really_need}} non basterà convertire la produzione attuale di corrente da combustibile fossile a fonti rinnovabili, servirà
+produrne 12 volte tanto. Questo perché molti strumenti stanno diventando elettrici, nella mobilità e non sono, inoltre
+i paesi in via di sviluppo cresceranno, aumentando di conseguenza il loro fabbisogno energetico. In più avremo bisogno
+di nuove tecnologie, come quelle impiegate nella rimozione del carbonio prodotto negli anni e, anche questo necessiterà
+di energie. Per questi motivi, secondo diversi esperti, il nucleare sarà indispensabile e forse non sufficiente.
+
+Al contempo, altri ricerche sono contrarie a queste tecnologie in quanto, nel caso dell'Italia, già
+ad oggi, come visto nel precedente grafico, produce già il 40\% di elettricità da fonti
+rinnovabili\endnote{\raggedright\url{https://ourworldindata.org/grapher/share-electricity-renewables}}
+\endnote{\raggedright\url{https://www.terna.it/it/sistema-elettrico/statistiche/pubblicazioni-statistiche} } e, secondo Enel e The
+European House, il nostro paese potrà raggiungere la quasi completa decarbonizzazione entro il 2050 e senza bisogno di
+energia
+nucleare\endnote{\raggedright\url{https://www.ambrosetti.eu/news/net-zero-e-conomy-2050-roadmap-di-decarbonizzazione-per-leuropa/}}.
+La costruzione di centrali nucleari inoltre richiede molto tempo e denaro, ma sostenitori invece\endnote{\raggedright\url{https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels}} portano altri esempi, di come la Francia sia riuscita a costruire 45 reattori in 15 anni. O più di recente, Giappone, Cina e Corea hanno costruito reattori in 6 anni circa.
+
+\begin{mdframed}[linewidth=1pt]
+Uno studio pubblicato su Science Advances\endnote{\raggedright\url{https://www.science.org/doi/epdf/10.1126/sciadv.adh8263}} ha evidenziato che per combattere l’inquinamento indoor non basta semplicemente areare gli ambienti, poiché i composti organici volatili (VOC), che includono sostanze nocive come l’ammoniaca e il benzene, tendono a depositarsi sulle superfici e a rilasciarsi gradualmente nell’aria. La ricerca ha confrontato l’efficacia della ventilazione, sia naturale che con purificatori, con quella della pulizia manuale, scoprendo che attività come passare l’aspirapolvere, spolverare e lavare i pavimenti sono più efficaci nel rimuovere i VOC. Tuttavia, la ventilazione rimane superiore per quanto riguarda l’eliminazione delle polveri sottili, un altro importante fattore dell’inquinamento domestico.
+
+Attenzione alla lavatrice. Diverse delle micro plastiche presenti negli oceani arrivano dalle lavatrici. Lavaggi troppo caldi oltre a rovinare
+gli indumenti possono separare delle micro fibre dai nostri capi che verranno poi rilasciati
+nell'acqua. Una delle migliori scelte ecologiche è proprio impostare un ciclo di lavaggio breve e
+con temperature non superiori a 20 °C, utilizzando un additivo igienizzante se vogliamo sentirci più protetti dai
+batteri. Oltre all'ambiente questa scelta preserverà più a lungo forma e colore dei vostri capi,
+riducendo il rilascio di microfibre sintetiche nell'ambiente fino al 52\% oltre a un consumo inferiore di acqua ed
+elettricità. Questo è quello a cui sono arrivati i ricercatori dell'Università di Leeds
+(UK)\endnote{\raggedright\url{https://www.sciencedirect.com/science/article/abs/pii/S0143720819320431}}.
+
+Per la pulizia della casa meglio preferire detergenti ecologici anche per la salute. Per minimizzare ulteriormente l'inalazione accidentale di particelle, è consigliabile prediligere prodotti in formulazione liquida o in gel, rispetto ai formati spray che tendono a disperdere gli ingredienti nell'aria. Inoltre per tutelare la propria salute possiamo arieggiare abbondantemente. Mantenere le finestre aperte durante e dopo le pulizie assicura un costante ricambio d'aria, eliminando l'umidità in eccesso e disperdendo rapidamente eventuali residui volatili o fumi, garantendo così un ambiente pulito e, soprattutto, salubre.
+\end{mdframed}
+
+\subsubsection{Alimentazione}
 
 \definecolor{colorPerKg}{RGB}{215, 48, 39}    
 \definecolor{colorPerProt}{RGB}{252, 141, 89} 
@@ -3431,7 +3542,7 @@ su strada dove il rapporto di C02 prodotta per chilometro è più efficiente ris
     }
 }
 
-\begin{figure}
+\begin{figure}[H]
     \centering
     \begin{tikzpicture}
         \pgfplotstableread[row sep=\\,col sep=&]{
@@ -3528,9 +3639,9 @@ Attualmente il 12-18\% delle emissioni di gas serra provengono da allevamenti an
 Se le colture che producono cibo per gli allevamenti venissero coltivate a soia per gli umani produrremmo il 314\%\endnote{\raggedright\url{https://humaneherald.org/wp-content/uploads/2019/05/calories-and-protein-produced-per-acre-1.pdf}} di proteine in più rispetto alla carne di pollo e 1800\%\endnote{\raggedright\url{https://faunalytics.org/alternative-protein-production-counting-the-calories/}} in più rispetto alla carne bovina.
 La produzione di carne è anche il principale fattore della deforestazione, sia per far pascolare il bestiame sia per creare coltivazioni per sfamarlo.
 
-Di seguito un grafico che mostra le emissioni di CO2 per grammo di proteine. Vediamo Quindi come un grammo di carne bovina emetta molta più CO2 rispetto a grano, mais e legumi. 
+Di seguito un grafico che mostra le emissioni di $CO_2$ per grammo di proteine. Vediamo Quindi come un grammo di carne bovina emetta molta più $CO_2$ rispetto a grano, mais e legumi. 
 
-Fagioli, verdure e, alcuni pesci allevati in modo sostenibile, hanno un rapporto vantaggioso tra salute e costi ambientali. Sono in pari invece alimenti come latte, yogurt, uova, e le verdure coltivate in serra. Mentre svantaggiosi gli alimenti come carne di manzo, carni lavorate, maiale e agnello, che hanno mostrato elevati costi sanitari e ambientali. Una porzione da circa 200g di carne bovina equivalgono a ~4–6kg CO2-eq, corrispondenti a un’automobile media per 20km!
+Fagioli, verdure e, alcuni pesci allevati in modo sostenibile, hanno un rapporto vantaggioso tra salute e costi ambientali. Sono in pari invece alimenti come latte, yogurt, uova, e le verdure coltivate in serra. Mentre svantaggiosi gli alimenti come carne di manzo, carni lavorate, maiale e agnello, che hanno mostrato elevati costi sanitari e ambientali. Una porzione da circa 200g di carne bovina equivalgono a ~4–6kg $CO_2$-eq, corrispondenti a un’automobile media per 20km!
 
 Quindi è meglio diventare vegani, vegetariani o rimanere onnivori dal punto di vista ambientale?
 
@@ -3562,93 +3673,14 @@ Reducetarianesimo e flexitarianesimo
 Sono alternative al vegetarianesimo che si impegnano a ridurre il consumo di carne, i primi per l'ambiente e i secondi per la propria salute. La maggioranza delle persone che si identificano come vegetariane, spesso sono reducetariani o flexitariani, in quanto può capitare che durante l'anno consumino carne. Purtroppo, per anni, alcune forme di promozione del messaggio vegetariano e vegano hanno adottato toni giudicanti, implicando che "voi siete sbagliati e dovreste vergognarvi mentre noi siamo buoni". Questo ha contribuito a creare un certo imbarazzo o diffidenza quando qualcuno si definisce vegetariano, anche se si chiarisce che non è intenzione giudicare le scelte alimentari altrui. Con il termine reducetariano rimuoviamo questo
 linea così netta tra un gruppo e l'altro, risultando più inclusivo.
 
-\needspace{15cm}
-\subsubsection{Cosa si può fare?}
+\subsection{Sicurezza}
+Come possono convivere individui con idee in conflitto?
 
-\begin{wrapfigure}{i}{9cm}
-  \centering
-  \includegraphics[width=0.95\linewidth]{images/Libro-img024.png}
-  \begin{minipage}{\linewidth}
-    \caption{Legenda tradotta: Rifiuti, processi industriali,
-agricoltura, trasporti internazionali e energia. 
-Credits: By US Environmental Protection Agency - Climate Change Indicators in the United States: Figure 2. Global
-Greenhouse Gas Emissions by Sector, 1990-2005. Page 12 of PDF. Published 2010., Public Domain,
-\raggedright\url{https://commons.wikimedia.org/w/index.php?curid=20445607} }
-  \end{minipage}
-\end{wrapfigure}
+Il liberalismo nasce da un’idea semplice, ma rivoluzionaria: l’essere umano è libero di scegliere come vivere, credere, pensare, lavorare, amare. Secondo questa visione, il ruolo dello Stato non è quello di indirizzare la vita dei cittadini, ma di garantire che ogni individuo possa esprimersi pienamente, senza subire coercizioni né imposizioni da parte di chi presume di sapere come gli altri dovrebbero vivere, purché ciò non limiti la libertà altrui. Questo principio ha trovato concretezza in molte delle democrazie più stabili del mondo.
 
-A volte può risultare difficile fare cambiamenti che possano ridurre le proprie emissioni, ed è altrettanto difficile riassorbirle in quanto, ogni operazione, ha bisogno di energia, che spesso si traduce in inquinamento. Ci sono attività che si occupano di piantare alberi, che sono capaci di riassorbire la CO2 senza consumare energia. Purtroppo però, uno dei problemi principali è che gli alberi non assorbono CO2 all'infinito. Lo fanno principalmente mentre crescono e, tendono a stabilizzarsi quando diventano vecchi. In una foresta matura, la quantità di carbonio assorbita dalle piante giovani è spesso bilanciata da quella rilasciata dal legno che marcisce a terra. Abbattere una foresta esistente è un problema in quanto libera immediatamente tutto il carbonio stoccato che nuovi alberi che impiegheranno decenni a riassorbire. Inoltre in molte parti del mondo, come in Italia e in Europa, le foreste stanno già crescendo da sole grazie all'abbandono delle zone montane e dei pascoli \endnote{\raggedright\url{https://www.youtube.com/watch?v=y6VRsoU7A9Y}}.
+Ogniuno può agire come desidera a patto di non violare a libertà degli altri.
 
-Secondo il database ‘Carbon Majors’ (CDP), 100 aziende fossili hanno generato il 71\% delle emissioni industriali cumulative nel periodo 1988‑2015\endnote{\raggedright\url{https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change}}. Cosa producono queste aziende? Principalmente energia bruciando combustibili fossili, carbone, petrolio. La produzione di energia è infatti il settore principalmente responsabile nell'emissione di gas serra, come possiamo vedere nel grafico qui a fianco.
-
-\needspace{4cm}
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.95\linewidth]{images/Libro-img025.png}
-  \caption{Dall'alto verso il basso: Petrolio, carbone, gas naturale, idroelettrico, nucleare, eolico, altro e solare
-  Credits: \raggedright\url{https://ourworldindata.org/energy} }
-\end{figure}
-
-Seppur l'impiego di carbone, petrolio e gas naturali per la produzione energetica non siano più metodi all'avanguardia, sono ancora molto diffusi. Anche convertendo all elettrico trasporti e riscaldamento, potremmo non risolvere il problema se questa energia viene creata da cobustibili fossili. Possono essere una buona idea se il vostro fornitore di corrente produce tramite fonti rinnovabili.
-
-\needspace{4cm}
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.95\linewidth]{images/Libro-img026.png}
-  \caption{Grafico con le emissioni globali di gas serra del 2016 per settore. 
-Credits: By Simon Rayner / EarthCharts - EarthCharts Website (\raggedright\url{http://earthcharts.org/),}
-\raggedright\url{http://earthcharts.org/wp-content/uploads/2020/03/Emissions-Sources.png,} CC BY-SA 4.0,
-\raggedright\url{https://commons.wikimedia.org/w/index.php?curid=87783234}}
-\end{figure}
-
-Quindi è vero che ci sono 100 aziende che sono responsabili del 71\% dell'inquinamento, quindi
-anche con lo sforzo della collettività e l'ottimizzazione dei nostri consumi, nella nostra vita
-privata, possiamo andare a lavorare solo su una percentuale minore del restante 29\%. O forse no? Le aziende rispondono
-in funzione della legge economica della domanda e dell'offerta, pertanto, se un numero significativo di industrie e privati cittadini orientasse i propri acquisti verso energia prodotta in maniera pulita, queste aziende sarebbero fortemente incentivate a riconsiderare e accelerare la propria transizione verso una produzione più sostenibile per rimanere competitive. 
-Credo comunque sia molto difficile sperare in un cambiamento collettivo e, che i cambiamenti più efficaci sono quelli politici che scoraggino scelte problematiche, ma anche in questo caso dev'esserci una certa pressione da parte dei cittadini che spinga in una certa direzione.
-La tendenza, sia nel privato che nelle aziende è tendenzialmente positiva, infatti l'impiego di energie prodotte da fonti
-rinnovabili è sempre maggiore di anno in anno, a discapito dei combustibili fossili.
-
-Diversi enti stanno facendo proprio questo, chiamare persone all'azione attraverso eventi,
-manifestazioni, petizioni ecc… Potete rimanere informati sugli eventi attraverso i siti o le pagine social, tra i più
-importanti possiamo trovare:
-
-greenpeace.org/italy
-
-wwf.it
-
-footprintnetwork.org
-
-fridaysforfutureitalia.it 
-
-
-
-E siti di petizioni online:
-
-avaaz.org
-
-wemove.eu
-
-change.org
-
-
-Potete trovare ulteriori informazioni e grafici su
-Wikipedia\endnote{\raggedright\url{https://en.wikipedia.org/wiki/World\_energy\_consumption}}
-\endnote{\raggedright\url{https://en.wikipedia.org/wiki/Greenhouse\_gas}}.
-
-
-\begin{mdframed}[linewidth=1pt]
-Uno studio pubblicato su Science Advances\endnote{\raggedright\url{https://www.science.org/doi/epdf/10.1126/sciadv.adh8263}} ha evidenziato che per combattere l’inquinamento indoor non basta semplicemente areare gli ambienti, poiché i composti organici volatili (VOC), che includono sostanze nocive come l’ammoniaca e il benzene, tendono a depositarsi sulle superfici e a rilasciarsi gradualmente nell’aria. La ricerca ha confrontato l’efficacia della ventilazione, sia naturale che con purificatori, con quella della pulizia manuale, scoprendo che attività come passare l’aspirapolvere, spolverare e lavare i pavimenti sono più efficaci nel rimuovere i VOC. Tuttavia, la ventilazione rimane superiore per quanto riguarda l’eliminazione delle polveri sottili, un altro importante fattore dell’inquinamento domestico.
-\end{mdframed}
-
-Gli italiani sono spesso abbastanza esterofili e, su tanti aspetti abbiamo anche ragione ad esserlo. Ci sono cose, davvero
-importanti di cui dobbiamo essere orgogliosi. Abbiamo un ottimo sistema sanitario e in generale il
-welfare\endnote{\raggedright\url{https://en.wikipedia.org/wiki/List\_of\_countries\_by\_social\_welfare\_spending}}, ammortizzatori
-sociali, malattia, maternità, ferie ecc… Inoltre tra i paesi più industrializzati l'Italia si distingue per un consumo pro capite relativamente basso e sta investendo molte risorse nella conversione verso fonti rinnovabili.
-
-Si potrebbero sollevare diverse critiche sull'Italia, come il fatto che ci sia una forte pressione
-fiscale, ma come possiamo vedere nelle mappe qui di seguito, welfare e tasse vanno abbastanza di pari passo anche per gli altri paesi europei. 
-Questo non ci deve portare al nazionalismo più cieco, l'Italia ha anche una pressione fiscale alta perché è tra i paesi che evadono di più il fisco, più numerosi altri problemi, come ad esempio l'occupazione.
+Oltre a non danneggiare gli altri, possiamo contribuire alla collettività. In una vita intera ci saranno momenti in cui saremmo autosufficienti, in altri momenti potremmo perdere il lavoro e affrontare una malattia e non avere le risorse economiche per sostenerci. Qualcuno potrebbe nascere in una famiglia che gli consentirà di studiare e di conseguenza trovare un più lavoro remunerativo, altri no. Per tutti questi e altri casi, in molti stati occidentali, il paese crea dei fondi per disoccupazione, malattia, maternità ecc… che si sostengono con le tasse. Possiamo quindi travare una relazione tra imposte e weelfare. 
 
 \needspace{4cm}
 \begin{figure}[H]
@@ -3666,70 +3698,21 @@ Questo non ci deve portare al nazionalismo più cieco, l'Italia ha anche una pre
     \end{subfigure}
 \end{figure}
 
+In Italia abbiamo una delle pressioni fiscali più alte, ma abbiamo il secondo sistema sanitario migliore al mondo e in generale un buon welfare\endnote{\raggedright\url{https://en.wikipedia.org/wiki/List\_of\_countries\_by\_social\_welfare\_spending}}, ammortizzatori sociali, malattia, maternità, ferie ecc… Questi aspetti positivi, non vogliono negare i problemi del nostro stato, infatti l'Italia ha una pressione fiscale elevata, anche perché è tra i paesi che evadono di più il fisco, ha tra i più bassi livelli di occupazione, bassa produttività e, bassa natalità e di conseguenza di contribuenti.
+
+
+
 Anni fa, scaricando i dati di sugli indici di pace, clima, potere d'acquisto, welfare, sistema sanitario, istruzione, morti per abuso di sostanze, salute mentale e suicidi, ho creato una pagina web\endnote{\raggedright\url{https://iacoposk8.github.io/projects/best-country/}} dove poter assegnare un importanza da 1 a 100 a questi fattori per generare una classifica dei paesi più adatti a noi. Lasciando tutto a 100 l'Italia è in seconda posizione sotto la Danimarca.
 
-\needspace{4cm}
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.95\linewidth]{images/Libro-img027.png}
-  \caption{Percentuale di elettricità prodotta attraverso fonti rinnovabili nel 2014. 
-Credits: \raggedright\url{https://ourworldindata.org/energy}}
-\end{figure}
 
-Le strade percorribili per ridurre la C02 sono tantissime e quotidianamente nascono nuove idee e nuove soluzioni.
-Le fonti rinnovabili come l'eolico e il solare, essendo per natura intermittenti e legate alle condizioni meteo, presentano sfide di gestione legate alla loro variabilità nella fornitura di energia. Queste sfide richiedono soluzioni innovative come sistemi di accumulo, gestione intelligente della rete e una diversificazione del mix energetico per garantire l'equilibrio tra domanda e offerta. Un impianto sottostimato non fornirebbe
-energia sufficiente a tutti mentre se venisse generata corrente in esubero, a lungo andare provocherebbe problemi
-all'impianto elettrico. Tra i vari metodi green, troviamo anche le centrali nucleari. Quando pensiamo alle
-centrali nucleari ci viene in mente subito Chernobyl e Fukushima e di conseguenza a radiazioni, morte, disastri, bombe ecc… 
-Osserviamo il seguente grafico.
 
-\needspace{4cm}
-\begin{figure}[H]
-  \begin{minipage}{17cm}
-    \includegraphics[width=17cm]{images/Libro-img030.png}
-    \caption{Credits: \raggedright\url{https://ourworldindata.org/energy} }
-  \end{minipage}
-\end{figure}
 
-In questo grafico possiamo vedere sull'asse x i gas serra prodotti dalle varie fonti di energia e,
-sull'asse y, il numero di morti che ha provocato ogni terawattora. Vediamo come ci sia una
-correlazione tra inquinamento e morte. In testa il carbone, seguito da petrolio, gas naturali e biomasse. Possiamo
-notare come il nucleare abbia ucciso molte meno persone rispetto al carbone (351 volte meno). Se consideriamo che l'incidente di Chernobyl fu dovuto in gran parte a un reattore con un design intrinsecamente difettoso e a gravi errori operativi, e quello di Fukushima a un evento naturale di portata eccezionale che superò le misure di sicurezza, le moderne centrali nucleari incorporano tecnologie e protocolli di sicurezza avanzati che mirano a ridurre ulteriormente il rischio di incidenti e le potenziali conseguenze. Le centrali nucleari producono scorie radioattive,
-ma se isolate correttamente non saranno disperse nell'ambiente. Da queste preoccupazioni nasce il progetto
-TerraPower\endnote{\raggedright\url{https://it.wikipedia.org/wiki/TerraPower}} di Bill Gates, che si impegna a risolvere questi due
-problemi. L'azienda sta sviluppando una nuova tipologia di reattore chiamata traveling wave reactor (TWR). A differenza dei reattori nucleari tradizionali, che utilizzano uranio arricchito come combustibile e richiedono frequenti interventi umani, il TWR è progettato per funzionare per decenni con minimo intervento umano.
-Inoltre, il TWR utilizza uranio impoverito, un sottoprodotto abbondante delle attuali tecnologie nucleari, come combustibile, il che potrebbe permettere di riutilizzare materiali considerati scorie nei reattori convenzionali. Inoltre, come ha spiegato Solomon Goldstein-Rose in un
-Ted\endnote{\raggedright\url{https://www.ted.com/talks/solomon_goldstein_rose_how_much_clean_electricity_do_we_really_need}} non basterà convertire la produzione attuale di corrente da combustibile fossile a fonti rinnovabili, servirà
-produrne 12 volte tanto. Questo perché molti strumenti stanno diventando elettrici, nella mobilità e non sono, inoltre
-i paesi in via di sviluppo cresceranno, aumentando di conseguenza il loro fabbisogno energetico. In più avremo bisogno
-di nuove tecnologie, come quelle impiegate nella rimozione del carbonio prodotto negli anni e, anche questo necessiterà
-di energie. Per questi motivi, secondo diversi esperti, il nucleare sarà indispensabile e forse non sufficiente.
 
-Al contempo, altri ricerche sono contrarie a queste tecnologie in quanto, nel caso dell'Italia, già
-ad oggi, come visto nel precedente grafico, produce già il 40\% di elettricità da fonti
-rinnovabili\endnote{\raggedright\url{https://ourworldindata.org/grapher/share-electricity-renewables}}
-\endnote{\raggedright\url{https://www.terna.it/it/sistema-elettrico/statistiche/pubblicazioni-statistiche} } e, secondo Enel e The
-European House, il nostro paese potrà raggiungere la quasi completa decarbonizzazione entro il 2050 e senza bisogno di
-energia
-nucleare\endnote{\raggedright\url{https://www.ambrosetti.eu/news/net-zero-e-conomy-2050-roadmap-di-decarbonizzazione-per-leuropa/}}.
-La costruzione di centrali nucleari inoltre richiede molto tempo e denaro, ma sostenitori invece\endnote{\raggedright\url{https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels}} portano altri esempi, di come la Francia sia riuscita a costruire 45 reattori in 15 anni. O più di recente, Giappone, Cina e Corea hanno costruito reattori in 6 anni circa.
 
-\begin{mdframed}[linewidth=1pt]
-Attenzione alla lavatrice
 
-Diverse delle micro plastiche presenti negli oceani arrivano dalle lavatrici. Lavaggi troppo caldi oltre a rovinare
-gli indumenti possono separare delle micro fibre dai nostri capi che verranno poi rilasciati
-nell'acqua. Una delle migliori scelte ecologiche è proprio impostare un ciclo di lavaggio breve e
-con temperature non superiori a 20 °C, utilizzando un additivo igienizzante se vogliamo sentirci più protetti dai
-batteri. Oltre all'ambiente questa scelta preserverà più a lungo forma e colore dei vostri capi,
-riducendo il rilascio di microfibre sintetiche nell'ambiente fino al 52\% oltre a un consumo inferiore di acqua ed
-elettricità. Questo è quello a cui sono arrivati i ricercatori dell'Università di Leeds
-(UK)\endnote{\raggedright\url{https://www.sciencedirect.com/science/article/abs/pii/S0143720819320431}}.
 
-Per la pulizia della casa meglio preferire detergenti ecologici anche per la salute. Per minimizzare ulteriormente l'inalazione accidentale di particelle, è consigliabile prediligere prodotti in formulazione liquida o in gel, rispetto ai formati spray che tendono a disperdere gli ingredienti nell'aria. Inoltre per tutelare la propria salute possiamo arieggiare abbondantemente. Mantenere le finestre aperte durante e dopo le pulizie assicura un costante ricambio d'aria, eliminando l'umidità in eccesso e disperdendo rapidamente eventuali residui volatili o fumi, garantendo così un ambiente pulito e, soprattutto, salubre.
-\end{mdframed}
 
-\subsection{Sicurezza}
+
 Premetto dicendo che l'utilizzare la storia come filtro per interpretare il presente, secondo me, può essere fuorviante, poiché richiede una notevole capacità di astrazione. Ad esempio, confrontare il riarmo che precedette la Prima Guerra Mondiale con il riarmo attuale è problematico: all’epoca, gli Stati europei si osservavano con sospetto reciproco, e ogni incremento militare generava timore nei vicini. Inoltre, non esisteva ancora la deterrenza nucleare. Per questo, anche se le dinamiche possono sembrare simili, il contesto storico è così diverso da rendere difficile una lettura delle due situazioni. 
 
 Può succedere che le persone, come singoli individui o come gruppo di una società, nel cercare
