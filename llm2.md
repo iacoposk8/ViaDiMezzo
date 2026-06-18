@@ -64,6 +64,25 @@ Modello: `deepseek/deepseek-v4-pro` | Sezioni: 59 | Errori: 0
 - **Copertine** (r.3752): Il viaggio del libro è uno spostamento dello sguardo: dalla tempesta dei pensieri alla serenità delle sensazioni, imparando a vedere la realtà per ciò che è, non per ciò che vorremmo fosse.
 - **Finale** (r.3764): Il libro si conclude con un arrivederci che ricapitola il viaggio attraverso i temi della realtà, felicità, relazioni e società, invitando a vivere con autenticità e a trovare il proprio equilibrio nella complessità.
 
+│ A       │ I pensieri sono ipotesi, non fatti né identità                                                         │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ B       │ La sofferenza extra nasce dal giudizio sul divario tra realtà e aspettativa                            │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ C       │ Accorgersi e tornare con gentilezza (la meditazione come allenamento di questo gesto)                  │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ D       │ Desiderio sì, pretesa no — verso cose, persone, sé stessi, la felicità                                 │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ E       │ Giudica le azioni, non i pensieri; agisci secondo i tuoi valori                                        │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ F       │ Gratitudine per ciò che c'è                                                                            │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ G       │ Verso il mondo: non concludere in fretta, discuti il metodo non le conclusioni, non pretendere che gli │
+│         │  altri la pensino come te                                                                              │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ H       │ Memento mori come sveglia                                                                              │
+├─────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ I       │ Corpo: movimento, sonno, relazioni poche e vere
+
 ## Giudizi, dai tagli al nucleo
 
 ### «Riassumendo» (r.2285) — **TAGLIA** · ridondanza 10/10 · principio B, C, F, G
